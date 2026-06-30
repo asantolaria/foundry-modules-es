@@ -1,0 +1,77 @@
+{
+  "name": "Cronómetro de Realidades",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/01_cronometro-realidades.jpg",
+  "system": {
+    "description": {
+      "value": "<figure>\n<img src=\"../../assets/objetos_magicos/01_cronometro-realidades.jpg\" alt=\"Cronómetro de Realidades\" />\n<figcaption aria-hidden=\"true\">Cronómetro de Realidades</figcaption>\n</figure>\n<p><strong>Tipo:</strong> Artefacto (Requiere Sintonización)<br />\n<strong>Rareza:</strong> Artefacto Único<br />\n<strong>Peso:</strong> 2 libras<br />\n<strong>Creador:</strong> Fundadores de los Anacronistas (hace más de\n800 años, poco después de la división de los Chronianos)<br />\n<strong>Componente Clave:</strong> Creado usando el <strong>único\nCristal de Estabilización</strong> que los Anacronistas obtuvieron antes\nde la división del pueblo Chroniano<br />\n<strong>Ubicación Original:</strong> Cámara del Tiempo, Cronópolis\n(Anacronistas)<br />\n<strong>Estado Actual:</strong> ⚠️ Robado por Edward Teach (Sesión\n4)</p>\n<h4 id=\"ubicación-y-obtención\"><strong>📍 Ubicación y\nObtención:</strong></h4>\n<p><strong>Ubicación Inicial (Sesión 1-3):</strong> -\n<strong>Lugar:</strong> Cámara del Tiempo, Santuario de los\nAnacronistas, Cronópolis - <strong>Protección:</strong> Golem Temporal\n(CR 12) que nunca duerme - <strong>Acceso:</strong> Solo los\nAnacronistas de más confianza conocen su ubicación - <strong>Los PJ\npueden verlo:</strong> Durante su visita inicial a Cronópolis (Sesión\n2-3), los Anacronistas les muestran el artefacto como muestra de\nconfianza</p>\n<p><strong>Estado Actual (Sesión 4+):</strong> - <strong>⚠️\nROBADO:</strong> Edward Teach lo robó en la Sesión 4 - <strong>Poseedor\nActual:</strong> Edward Teach (en su isla secreta del Archipiélago de\nBarbanegra) - <strong>Uso:</strong> Teach lo usa como componente del\nTalismán de Interceptación Divina</p>\n<p><strong>Cómo Recuperarlo:</strong> 1. <strong>Derrotar a Edward\nTeach:</strong> Al derrotar a Teach, el Cronómetro puede ser recuperado\n2. <strong>Interrumpir el Ritual de Combinación:</strong> Si los PJ\ninterrumpen el ritual de combinación del Talismán, pueden recuperar\nambos artefactos 3. <strong>Robo/Infiltración:</strong> Los PJ pueden\nintentar robar el Cronómetro de la isla secreta de Teach (muy difícil,\nrequiere planificación) 4. <strong>Negociación:</strong> Teach podría\nestar dispuesto a negociar en circunstancias extremas (casi\nimposible)</p>\n<p><strong>Recompensa por Recuperarlo:</strong> - Los Anacronistas\nofrecen <strong>Artefacto Gnomo</strong> como recompensa - Alianza\npermanente con los Anacronistas - Acceso a tecnología avanzada de los\nAnacronistas</p>\n<h4 id=\"historia\"><strong>📜 Historia:</strong></h4>\n<p>Artefacto creado por los fundadores de los Anacronistas hace más de\n800 años, poco después de la división de los Chronianos. Cuando el\npueblo se dividió entre los que eligieron las profundidades (Oceánicos)\ny los que eligieron la superficie (Anacronistas), los Anacronistas\nobtuvieron el <strong>único Cristal de Estabilización</strong> que\nlograron conseguir antes de la separación.</p>\n<p>Con este cristal, los primeros Anacronistas inventaron el\n<strong>Cronómetro de Realidades</strong>, diseñado para estabilizar\ndistorsiones temporales y proteger a su pueblo. El artefacto no solo\nmide y estabiliza distorsiones temporales, sino que crea un campo de\nprotección alrededor de Cronópolis, convirtiendo la ciudad en una\npequeña “Galia” - un bastión de estabilidad donde los poderes de los\nCronófagos no tienen efecto.</p>\n<p>Con el tiempo, los Anacronistas descubrieron que el Cronómetro\ntambién podía detectar y capturar fragmentos de poder temporal, pero su\nfunción principal sigue siendo la protección de Cronópolis y sus\nhabitantes.</p>\n<h4 id=\"descripción-física\"><strong>🎨 Descripción Física:</strong></h4>\n<p>Un reloj de bolsillo gnomo del tamaño de una mano. Su carcasa es de\noro envejecido con engranajes visibles a través de cristal de zafiro.\nLos engranajes NO giran normalmente: algunos giran hacia atrás, otros se\ndetienen y arrancan aleatoriamente, y algunos parecen girar en múltiples\ndirecciones simultáneamente. En el centro, donde debería haber\nmanecillas, hay un pequeño cristal que pulsa con luz dorada.</p>\n<p><strong>Dimensiones:</strong> 4 pulgadas de diámetro, 1 pulgada de\ngrosor<br />\n<strong>Material:</strong> Oro enano antiguo, cristal de zafiro,\nengranajes de mithril</p>\n<h4 id=\"propiedades-mágicas\"><strong>⚡ Propiedades\nMágicas:</strong></h4>\n<p><strong>Detección Temporal (Pasivo):</strong> - El portador puede\nsentir distorsiones temporales en un radio de 1 milla - Ventaja en todas\nlas tiradas de salvación contra efectos temporales - Puede ver “ecos” de\neventos que sucedieron hace hasta 1 hora (como <em>Clairvoyance</em>\npero del pasado)</p>\n<p><strong>Captura Temporal (Activo, 3 cargas/día):</strong> - El\nportador puede “capturar” un fragmento de tiempo de 6 segundos - Durante\nese tiempo, puede actuar libremente mientras todo lo demás está\ncongelado - Efecto: <em>Time Stop</em> (hechizo de nivel 9) - <strong>CD\nde Salvación:</strong> N/A (no se puede resistir) -\n<strong>Alcance:</strong> Personal (solo afecta al portador)</p>\n<p><strong>Estabilización Temporal (Activo, 1/día):</strong> - El\nportador puede revertir completamente 1 turno de combate - Todo vuelve a\ncomo estaba al inicio de ese turno (excepto la memoria del portador) -\nEfecto: Todos los HP, posiciones, estados, y efectos mágicos vuelven a\ncomo estaban al inicio del turno - <strong>Limitación:</strong> Solo\npuede usarse una vez por día, y el portador recuerda lo que ocurrió</p>\n<p><strong>Recarga de Cargas:</strong> - Las 3 cargas de Captura\nTemporal se recuperan al amanecer - La carga de Estabilización Temporal\nse recupera al amanecer</p>\n<h4 id=\"uso-en-el-talismán-de-interceptación\"><strong>🔗 Uso en el\nTalismán de Interceptación:</strong></h4>\n<p>Cuando se combina con la Perla del Vacío Primordial, crea el Talismán\nde Interceptación Divina, capaz de desviar el flujo de poder divino del\nritual de Manshoon.</p>\n<hr />",
+      "chat": ""
+    },
+    "rarity": "legendary",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "cronometro-de-realidades",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "fv6qeE4hanv6NYpm",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c113244e4b6eeaf9ad3e70196cc1ab98b07ee772"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669296,
+    "modifiedTime": 1782850669296,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!fv6qeE4hanv6NYpm"
+}

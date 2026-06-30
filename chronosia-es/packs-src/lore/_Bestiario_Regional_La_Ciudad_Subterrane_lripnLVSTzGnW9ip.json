@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — La Ciudad Subterránea de Veldrisza",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — La Ciudad Subterránea de Veldrisza",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-la-ciudad-subterránea-de-veldrisza\">🐉\nBestiario Regional — La Ciudad Subterránea de Veldrisza</h1>\n<figure>\n<img src=\"../../assets/mapas/07_ciudad-subterranea-de-veldrisza.png\" alt=\"Mapa de La Ciudad Subterránea de Veldrisza\" />\n<figcaption aria-hidden=\"true\">Mapa de La Ciudad Subterránea de\nVeldrisza</figcaption>\n</figure>\n<h2 id=\"lugarteniente-matrona-yrindra-tipo-dimensional-nivel-pj-8-9\">Lugarteniente:\nMatrona Yrindra · Tipo: Dimensional · Nivel PJ: 8-9</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>Veldrisza no es solo una caverna: es una herida en la roca por la que\nse filtra otro mundo. Las telarañas que cuelgan de las estalactitas no\nson de seda, sino de distancia tejida — cada hebra cruza el umbral hacia\n<strong>Menzoberranzan</strong>, y al tocarla un caminante puede\naparecer mil kilómetros más abajo, en el Underdark verdadero. Aquí Lolth\nobserva con ocho ojos paciente, y los refugiados que un día huyeron a la\nsuperficie descubren que la superficie ahora cuelga sobre el abismo. Es\nla <strong>puerta al Underdark</strong>: cruzarla es renunciar al\ncielo.</p>\n<h2 id=\"villano-menor-zressynara-la-tejedora-de-umbrales\">😈 Villano\nMenor — Zress’ynara, la Tejedora de Umbrales</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/07_zressynara-tejedora-de-umbrales.jpg\" alt=\"Zress’ynara, la Tejedora de Umbrales\" />\n<figcaption aria-hidden=\"true\">Zress’ynara, la Tejedora de\nUmbrales</figcaption>\n</figure>\n<p>Sacerdotisa drow caída en desgracia ante la Matrona, Zress’ynara fue\n<em>bendecida</em> por Lolth con la maldición de la transformación:\nmedio drow, medio araña, una <strong>drider</strong> que ya no distingue\ndónde acaba la caverna y dónde empieza Menzoberranzan. Custodia los\nnudos de telaraña dimensional como una carcelera devota, y cobra peaje\nen sangre o en almas. Gancho: ofrece a los PJ una ruta segura por el\nUnderdark… a cambio de entregarle a uno de los refugiados que\nprotegen.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Zress’ynara, la\nTejedora de Umbrales</em></strong> — <em>Mediana monstruosidad (drider),\nneutral maligno</em> · <strong>CR</strong> 7 (2.900 XP) -\n<strong>CA</strong> 19 (armadura natural) · <strong>PG</strong> 123\n(13d10+52) · <strong>Vel.</strong> 30 pies, trepar 30 pies (puede\nmoverse por techos y telarañas dimensionales sin gasto) -\n<strong>DES</strong> +5, <strong>SAB</strong> +4 · <strong>CD de\nconjuro</strong> 16 (lanzadora innata: <em>oscuridad</em>,\n<em>telaraña</em>, <em>paso brumoso</em> a voluntad) · <strong>Visión en\nla oscuridad</strong> 120 pies, percepción telaraña (siente cualquier\ncriatura en contacto con una red en 120 pies) - <strong>Rasgos:</strong>\n<em>Telaraña umbral</em> — Las redes que teje son anclas dimensionales;\nuna criatura apresada por su <em>telaraña</em> puede ser arrastrada\n(acción) hacia un punto a 1.000 pies en el Underdark (TS Carisma CD 16\nniega). <em>Caminante de dos mundos</em> — Es inmune a quedar\nrestringida por terreno de telaraña y tiene ventaja contra ser\ndesterrada. - <strong>Acciones:</strong> <em>Multiataque:</em> dos\nmordiscos de pata y un <em>Toque de la Reina Araña</em>. <em>Mordisco de\npata.</em> +7 al ataque, alcance 5 pies, 1d10+5 perforante + 4d8 veneno\n(TS CON CD 15 mitad; si reduce a 0 PG, la víctima queda paralizada y\nenvuelta en capullo). <em>Toque de la Reina Araña</em> (recarga 5-6). Un\nrayo de seda negra hacia una criatura a 60 pies: queda <em>anclada al\numbral</em> — la próxima vez que reciba daño es teletransportada a un\nnudo aleatorio del Underdark (TS SAB CD 16). - <strong>Tácticas / Al ser\nderrotado:</strong> Apresa al objetivo más aislado y lo arrastra al otro\nmundo para combatir 1 contra 1. Al morir, las telarañas dimensionales de\nsu sección colapsan: durante 1 minuto, todo umbral cercano queda\ninestable y abierto al azar.</p>\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><strong><em>Araña del Intersticio</em></strong> — <em>Grande\nmonstruosidad, sin alineamiento</em> · <strong>CR</strong> 5 (1.800 XP)\n· <strong>CA</strong> 15 · <strong>PG</strong> 76 (8d10+32) · trepa por\nla realidad misma: como acción bonus se <em>parpadea</em> (como\n<em>parpadeo</em>) entre la caverna y el Underdark, ganando ventaja al\natacar al reaparecer. Mordisco +7, 2d8+4 perforante + 3d6 veneno. Su\ntela es semitransparente y atraviesa paredes.</li>\n<li><strong><em>Acechador de la Penumbra (esclavista\nmental)</em></strong> — <em>Mediana aberración, neutral maligno</em> ·\n<strong>CR</strong> 4 (1.100 XP) · <strong>CA</strong> 16 ·\n<strong>PG</strong> 60 (8d8+24) · siervo deformado de Lolth con\ntentáculos faciales. Garras +6, 2d6+3 cortante; <em>Susurro de\nobediencia</em> (recarga 6): una criatura a 30 pies debe TS SAB CD 13 o\nqueda <em>hechizada</em> y avanza hacia el abismo más cercano. Caza\nrefugiados fugados.</li>\n<li><strong><em>Espectro de Menzoberranzan</em></strong> — <em>Mediano\nno-muerto, caótico maligno</em> · <strong>CR</strong> 6 (2.300 XP) ·\n<strong>CA</strong> 14 · <strong>PG</strong> 90 · drow muerto al cruzar\nmal un umbral, atrapado entre dos mundos. Semietéreo: puede atacar desde\nel plano vecino. Toque desgarrador +6, 4d6 necrótico + reduce el máximo\nde PG. Solo es plenamente vulnerable cuando un umbral cercano está\nabierto.</li>\n</ul>\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><strong>Vornan Tibbledrop</strong> (gnomo de las profundidades,\nmercader del Underdark) — Pragmático, sonriente, jamás miente del todo.\nEstilo Bregan D’aerthe: trafica con mapas de rutas, antídotos de veneno\nde araña y <em>favores</em>. Ofrece equipo y rumores; gancho: trabaja\npara tres facciones a la vez y venderá a los PJ si pagan más por su\ncabeza.</li>\n<li><strong>Hermana Aeryndra</strong> (drow, refugiada-sacerdotisa de\nEilistraee) — Cálida pero exhausta, lidera a los refugiados atrapados.\nConoce un ritual para sellar un umbral pero le faltan componentes.\nOfrece a los PJ el apoyo de los liberados a cambio de protección durante\nel sellado.</li>\n<li><strong>Vesryn el Quebrado</strong> (drow renegado, guía) —\nExplorador drow desterrado, con la mente fracturada tras años perdido\nentre umbrales dimensionales. Cínico, leal una vez comprado con\nconfianza, no con oro. Conoce las <strong>rutas drow</strong> seguras\ndel Underdark; gancho: huye de un cazador de Menzoberranzan que cruzará\nel umbral tras él.</li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li>Un nudo de telaraña dimensional pulsa más fuerte cada noche: si\nnadie lo sella, en tres días Menzoberranzan podrá enviar una columna de\nasalto a la superficie a través de Veldrisza.</li>\n<li>Los refugiados susurran que la Matrona Yrindra no es la verdadera\ndueña de la ciudad — algo más antiguo teje bajo el suelo, y las arañas\nle obedecen a <em>ella</em>, no a la Matrona.</li>\n<li>Vornan ofrece guiar a los PJ por el Underdark hacia el corazón del\nhub planar, pero la ruta atraviesa territorios de <em>Out of the\nAbyss</em>: cada umbral cruzado los hunde más lejos del cielo.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "TPeIKsCNLbjTJb3o",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!lripnLVSTzGnW9ip.TPeIKsCNLbjTJb3o"
+    }
+  ],
+  "_id": "lripnLVSTzGnW9ip",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "52cd24cc943317002b1b887d3775a379eab42730"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078612,
+    "modifiedTime": 1782851078612,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!lripnLVSTzGnW9ip"
+}

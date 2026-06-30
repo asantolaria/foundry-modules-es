@@ -1,0 +1,27 @@
+{
+  "name": "📖 Historia y mundo",
+  "type": "JournalEntry",
+  "_id": "n4KVsETsfAJuwsJG",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "2a8fc02360ad9147670ce70e4655214c3c44bd76"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078355,
+    "modifiedTime": 1782851078355,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!n4KVsETsfAJuwsJG"
+}

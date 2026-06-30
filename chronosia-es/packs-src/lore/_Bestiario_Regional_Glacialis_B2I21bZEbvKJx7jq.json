@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — Glacialis",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — Glacialis",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-glacialis\">🐉 Bestiario Regional —\nGlacialis</h1>\n<figure>\n<img src=\"../../assets/mapas/03_glacialis.png\" alt=\"Mapa de Glacialis\" />\n<figcaption aria-hidden=\"true\">Mapa de Glacialis</figcaption>\n</figure>\n<h2 id=\"lugarteniente-ymir-el-eterno-invierno-tipo-dimensional-nivel-pj-6-7\">Lugarteniente:\nYmir el Eterno Invierno · Tipo: Dimensional · Nivel PJ: 6-7</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>Glacialis es un páramo donde el horizonte no termina nunca: una\nllanura blanca cosida de <strong>portales de hielo</strong> que cuelgan\nen el aire como esquirlas de un espejo roto. A través de ellos respira\nel <strong>Plano Elemental del Agua</strong> en su versión más cruel y\ncongelada. Ymir no conquista con ejércitos; <strong>recluta</strong>\n—arrastra a través de su red planar a todo lo que muere de frío y lo\ndevuelve convertido en heraldo. El silencio aquí no es paz: es la pausa\nantes de que algo cruce desde el otro lado.</p>\n<hr />\n<h2 id=\"villano-menor-velka-la-guardiana-de-umbrales\">😈 Villano Menor —\nVelka la Guardiana de Umbrales</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/03_velka-guardiana-de-umbrales.jpg\" alt=\"Velka la Guardiana de Umbrales\" />\n<figcaption aria-hidden=\"true\">Velka la Guardiana de\nUmbrales</figcaption>\n</figure>\n<p>Velka fue una hechicera del frío que negoció con Ymir el cargo de\n<strong>vigilante de los portales menores</strong>: a ella le toca\ndecidir qué cruza y qué se queda congelado en el umbral. No es el Eterno\nInvierno —es su carcelera de fronteras, devota y resentida, que cobra\npeaje en calor corporal a quien intenta pasar. Gancho: los PJ necesitan\nque un portal permanezca abierto, y solo Velka tiene la llave de\nescarcha.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Velka la\nGuardiana de Umbrales</em></strong> — <em>humanoide mediano (humana\ntransmutada), neutral malvado</em> · <strong>CR</strong> 5 (1800 XP) -\n<strong>CA</strong> 15 (escudo de hielo) · <strong>PG</strong> 97\n(15d8+30) · <strong>Vel.</strong> 30 pies, escalada sobre hielo 30 pies\n- <strong>DES 16 (+3), CON 14 (+2), INT 18 (+4)</strong> · <strong>CD de\nconjuro 15</strong> (INT) · <strong>Sentidos:</strong> visión en la\noscuridad 60 pies; <strong>Resistencia</strong> a frío;\n<strong>Vulnerable</strong> a fuego - <strong>Rasgos:</strong> <em>Aura\nde Umbral</em> — a 10 pies de un portal de hielo, Velka tiene ventaja en\ntiradas de salvación y los enemigos sufren desventaja en ataques contra\nella. <em>Sangre de Escarcha</em> — al recibir daño cortante/perforante,\nbrota hielo que reduce 10 pies la velocidad del atacante hasta el final\nde su turno. - <strong>Acciones:</strong> <em>Multiataque</em> — dos\n<em>Lanzas de Helada</em>. <strong><em>Lanza de Helada:</em></strong>\nataque de conjuro +7, alcance 120 pies, <strong>3d8 daño de\nfrío</strong> y el objetivo supera CD 15 CON o queda inmovilizado\n(Reterar como acción). <em>Acción temática — <strong>Reclamar el\nUmbral</strong></em>: Velka teletransporta hasta 15 pies entre dos\nportales de hielo a la vista; al reaparecer libera una onda gélida (5\npies, CD 15 DES, <strong>2d8 frío</strong>). - <strong>Tácticas / Al ser\nderrotado:</strong> lucha siempre pegada a un portal, saltando entre\numbrales; cuando cae, su cuerpo se cristaliza y el portal junto a ella\n<strong>queda sellado por 24 horas</strong>, revelando en el hielo un\nmapa parcial de la red de Ymir.</p>\n<hr />\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><p><strong><em>Heraldo de Escarcha (elemental de agua\nmenor)</em></strong> — <em>elemental mediano, neutral</em> ·\n<strong>CR</strong> 3 (700 XP). CA 14 · PG 60 (8d8+24) · Vel. 30 pies,\nnado 60 pies (a través de portales). Resistencia a frío y daño físico no\nmágico; vulnerable a fuego. <em>Forma Fluida:</em> cruza por cualquier\nportal o grieta de hielo del ancho de un puño.\n<strong>Multiataque:</strong> dos golpes de agua helada, +5,\n<strong>2d8+3 contundente</strong> y empapa al objetivo (vulnerable a\nfrío hasta su próximo turno). Cruzan desde el Plano del Agua cuando un\nportal se sobrecarga.</p></li>\n<li><p><strong><em>Loba del Glaciar Distorsionada</em></strong> —\n<em>bestia grande (aberración ártica), sin alineamiento</em> ·\n<strong>CR</strong> 2 (450 XP). CA 13 · PG 45 (6d10+12) · Vel. 50 pies.\nAtravesada por astillas de portal: su cuerpo parpadea fuera de fase.\n<em>Acecho Translúcido:</em> se vuelve casi invisible sobre la nieve\n(ventaja para esconderse). <strong>Mordisco:</strong> +5, <strong>2d6+3\nperforante</strong> y CD 13 FUE o derribada. Cazan en manada cerca de\nlos umbrales, atraídas por el frío planar.</p></li>\n<li><p><strong><em>Centinela de Hielo Vivo</em></strong> —\n<em>constructo grande, sin alineamiento</em> · <strong>CR</strong> 4\n(1100 XP). CA 16 · PG 95 (10d10+40) · Vel. 25 pies. Inmune a frío y\nveneno; vulnerable a fuego (cuando recibe fuego, pierde 10 pies de\nvelocidad). <em>Cuerpo de Témpano:</em> al ser destruido explota en\nesquirlas (10 pies, CD 14 DES, <strong>3d6 cortante</strong>).\n<strong>Golpe Glacial:</strong> +7, <strong>2d10+4 contundente</strong>\ny CD 14 CON o ralentizado. Ymir los planta como guardianes inmóviles\nante los portales mayores.</p></li>\n</ul>\n<hr />\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><p><strong>Sorrel “Mapaumbral”, explorador goliath (aliado / dador\nde misiones).</strong> Cartógrafo obsesionado que ha pasado años\ntrazando la <strong>red de portales de Ymir</strong> sobre pieles\ntatuadas con tinta de hielo. Lacónico, supersticioso, leal a quien le\ncrea. <em>Ofrece:</em> el único mapa parcial de qué portal conecta con\nqué nodo del <strong>hub final</strong> —pieza clave para llegar al nexo\nplanar. Pide a cambio que rescaten su cuaderno, perdido al otro lado de\nun umbral.</p></li>\n<li><p><strong>Madre Iskra, sacerdotisa humana de un culto del deshielo\n(neutral).</strong> Predica que el invierno de Ymir es un castigo que\npasará si se aplaca al “Señor del Agua del otro lado”. Ambigua: puede\nvender santuario tibio… o entregar a los PJ a Velka. <em>Ofrece:</em>\nrefugio, curación menor y rumores sobre cuándo se abrirán los portales\ngrandes.</p></li>\n<li><p><strong>Tovin el Fundidor, enano comerciante (neutral /\ncomerciante).</strong> Mantiene una fragua portátil alimentada con\nbrasas robadas de las Calderas Dimensionales —el único calor estable en\nGlacialis. <em>Ofrece:</em> armas con runa de fuego (1d4 fuego extra) y\nantorchas planares que no se apagan, vitales contra elementales de agua.\nCaro, y siempre mirando por encima del hombro.</p></li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li><strong>El umbral roto:</strong> un portal mayor falla y vierte agua\ndel Plano Elemental al páramo, ahogando una aldea bajo hielo nuevo. Solo\nVelka o el mapa de Sorrel pueden cerrarlo desde el otro lado.</li>\n<li><strong>La red de Ymir:</strong> los PJ descubren que los portales\nde Glacialis son ramas de un único árbol que culmina en el hub final;\ncada nodo que sellen debilita la presencia del Eterno Invierno.</li>\n<li><strong>El reclutador no descansa:</strong> los muertos por frío de\nla región empiezan a regresar como heraldos. Alguien (¿Madre Iskra?)\nestá marcando víctimas para Ymir.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "EtAeclspsTXugEUB",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!B2I21bZEbvKJx7jq.EtAeclspsTXugEUB"
+    }
+  ],
+  "_id": "B2I21bZEbvKJx7jq",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c4cb7802387349f6dbd84bc6771422296f960ed5"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078606,
+    "modifiedTime": 1782851078606,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!B2I21bZEbvKJx7jq"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — La Mansión de la Sed Eterna",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — La Mansión de la Sed Eterna",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-la-mansión-de-la-sed-eterna\">🐉 Bestiario\nRegional — La Mansión de la Sed Eterna</h1>\n<figure>\n<img src=\"../../assets/mapas/09_mansion-de-la-sed-eterna.png\" alt=\"Mapa de La Mansión de la Sed Eterna\" />\n<figcaption aria-hidden=\"true\">Mapa de La Mansión de la Sed\nEterna</figcaption>\n</figure>\n<h2 id=\"lugarteniente-lord-vorthak-tipo-temporal-nivel-pj-9\">Lugarteniente:\nLord Vorthak · Tipo: Temporal · Nivel PJ: 9</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>La Mansión de la Sed Eterna se alza tras una niebla que no obedece al\nviento. Sus relojes adelantan y sus espejos envejecen. Lord Vorthak\ndrena no solo la sangre, sino los años: sus víctimas encanecen en una\nsola noche. Pero la mansión es más que su guarida. Es <strong>una\npuerta</strong>. La niebla que la rodea no nace en Chronosia: se filtra\ndel <strong>Shadowfell</strong>, y al otro lado aguarda Barovia. Cruzar\nmal la bruma no es perderse: es llegar a un lugar peor, donde otro señor\nmucho más antiguo ya espera invitados. Todo lo que el grupo haga aquí\npuede ser el umbral de esa segunda y más oscura campaña.</p>\n<h2 id=\"villano-menor-mayordomo-aurelius-crane\">😈 Villano Menor —\nMayordomo Aurelius Crane</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/09_mayordomo-aurelius-crane.jpg\" alt=\"Mayordomo Aurelius Crane\" />\n<figcaption aria-hidden=\"true\">Mayordomo Aurelius Crane</figcaption>\n</figure>\n<p>El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre\nque la muerte no rompió. Recibe a los huéspedes con cortesía perfecta y\nlos conduce, plato a plato, hacia su drenaje. No es el señor de la casa:\nes su guante. Gancho: Aurelius odia a Vorthak en secreto y, presionado\nbien, puede traicionarlo… o entregar a los PJs a la niebla para\n“librarlos” del amo de una manera retorcida.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Mayordomo\nAurelius Crane</em></strong> — <em>no-muerto mediano (vampiro\nespalda/spawn noble), legal malvado</em> · <strong>CR</strong> 7 (2900\nXP) - <strong>CA</strong> 17 (librea reforzada) · <strong>PG</strong>\n120 (16d8+48) · <strong>Vel.</strong> 40 pies, escalar 40 pies -\n<strong>CAR 16 (CD de poderes 14)</strong> ·\n<strong>Resistencia</strong> a necrótico y a daño no mágico (mitad);\n<strong>Vulnerabilidad</strong> sutil a la luz solar (penalizador, ver\nTácticas) · <strong>Sentidos</strong> visión en la oscuridad 60 pies,\npercepción pasiva 15 - <strong>Rasgos:</strong> - <em>Servicio\nMarchitante:</em> cualquier criatura curada o agarrada por Aurelius\nenvejece visiblemente; mientras él la sujeta, la criatura no recupera PG\npor medios mágicos (la niebla “bebe” la sanación). - <em>Puntualidad\nImposible:</em> una vez por turno, como reacción, Aurelius puede moverse\nhasta su velocidad para ponerse entre un PJ y Vorthak o entre un PJ y\nuna salida; aparece siempre “a tiempo”, emergiendo de la bruma. -\n<strong>Acciones:</strong> - <em>Multiataque:</em> dos <em>Garras\nDrenantes</em>. - <em>Garra Drenante:</em> ataque c. cuerpo, +8, alcance\n5 pies, 12 (2d6+5) cortante + 10 (3d6) necrótico; el objetivo reduce su\nmáximo de PG en una cantidad igual al necrótico (años robados) hasta un\ndescanso largo. - <em>Convocar la Niebla (1/día):</em> invoca un\n<em>Velo Famélico</em> (ver Bestias Firma) que lo cubre y le otorga\nocultación total un turno. - <strong>Tácticas / Al ser\nderrotado:</strong> Separa al grupo por pasillos, drena al más débil y\ndesaparece en la bruma para volver “a servir el siguiente plato”. Al\ncaer, susurra que el verdadero peligro nunca estuvo en la mansión, sino\n“al otro lado de la niebla”, y señala una puerta que da al gris infinito\ndel Shadowfell.</p>\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><p><strong><em>Ghoul Cronófago</em></strong> — <em>no-muerto\nmediano, caótico malvado</em> · <strong>CR</strong> 5 (1800 XP). CA 14 ·\nPG 90 (12d8+36) · Vel. 30 pies. Devora años, no carne. <em>Mordisco</em>\n+7, 14 (2d10+3) perforante + 7 (2d6) necrótico; en impacto, CON CD 14 o\nel objetivo envejece 1d10 años y sufre desventaja en pruebas de FUE/DES\n1 minuto (huesos repentinamente frágiles). Inmune a paralización\n(irónicamente, ya no posee tiempo que detener).</p></li>\n<li><p><strong><em>Velo Famélico (niebla viva)</em></strong> —\n<em>aberración grande (forma gaseosa), neutral malvado</em> ·\n<strong>CR</strong> 6 (2300 XP). CA 13 · PG 105 (14d10+28) · Vel. vuela\n30 pies (flotar). La niebla que sangra del Shadowfell, ahora consciente\ny hambrienta. Ocupa un cubo de 20 pies; quien empiece su turno dentro\nhace CON CD 15 o sufre 18 (4d8) necrótico y queda cegado hasta salir.\n<em>Arrastre al Otro Lado (recarga 6):</em> una criatura reducida a 0 PG\ndentro del velo no muere: desaparece en la niebla (gancho: aparece en\nBarovia). Inmune a daño no mágico; resistente a fuego (la bruma lo\napaga).</p></li>\n<li><p><strong><em>Esclavo de Sangre</em></strong> — <em>humanoide\nmediano (hechizado), neutral</em> · <strong>CR</strong> 3 (700 XP). CA\n12 · PG 49 (9d8+9) · Vel. 30 pies. Sirvientes vivos drenados, pálidos y\nobedientes hasta la muerte. <em>Daga</em> +5, 9 (2d6+2) perforante;\n<em>Ofrenda Desesperada:</em> como acción, se interpone en un ataque\ndirigido a Vorthak o Aurelius recibiéndolo entero. Atacan en tropel sin\ninstinto de supervivencia; liberarlos del dominio vampírico es una\nvictoria moral además de táctica.</p></li>\n</ul>\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><strong>Hermana Maelis</strong> — <em>humana, antigua sacerdotisa\nsuperviviente (aliada).</em> Demacrada, lúcida, con ojos que han visto\ndemasiado. Sobrevivió a una noche en la mansión y a un cruce parcial de\nla niebla. Sabe que “hay algo peor al otro lado” y conoce los símbolos\nque mantienen la bruma a raya; ofrece reliquias de protección a cambio\nde que rompan el pacto de Aurelius.</li>\n<li><strong>Gravold el Sepulturero</strong> — <em>enano, enterrador del\npueblo nebuloso (neutral).</em> Cava tumbas que a la mañana siguiente\naparecen vacías. Hosco, supersticioso, sabe qué noches la niebla “se\ntraga” a la gente. Dador de rumores sobre desapariciones y sobre la\npuerta gris.</li>\n<li><strong>Madame Sevrin</strong> — <em>medio-elfa, vidente errante\n(neutral, ambigua).</em> Lee el futuro en relojes detenidos. Vende\nadvertencias verídicas envueltas en acertijos; insinúa que el grupo “ya\nestá invitado” a Barovia y que la niebla solo espera que acepten.</li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li>Un huésped llegó hace tres días y ya tiene el aspecto de un anciano\nde ochenta años; suplica que detengan a Aurelius antes de que el último\nplato sea servido y la cena termine.</li>\n<li>La niebla ha empezado a filtrarse más allá de la mansión, hacia el\npueblo: cada amanecer cubre una calle más. Si nadie la sella, la región\nentera cruzará al Shadowfell.</li>\n<li>Hermana Maelis revela que la puerta gris de la mansión conduce a\nBarovia; alguien (o algo) al otro lado está abriéndola desde dentro, y\nla única forma de cerrarla puede ser cruzar primero.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "Zoy7wcFXlG6K9bzr",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!2MbIgJJ1nWmzEouF.Zoy7wcFXlG6K9bzr"
+    }
+  ],
+  "_id": "2MbIgJJ1nWmzEouF",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "78c448b6e1216634419d269746123e8359586a2a"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078655,
+    "modifiedTime": 1782851078655,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!2MbIgJJ1nWmzEouF"
+}

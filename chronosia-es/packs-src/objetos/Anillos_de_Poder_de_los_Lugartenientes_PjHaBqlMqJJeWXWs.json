@@ -1,0 +1,77 @@
+{
+  "name": "Anillos de Poder de los Lugartenientes",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/09_anillos-de-poder.jpg",
+  "system": {
+    "description": {
+      "value": "<ul>\n<li><a href=\"#-sistema-de-anillos-de-poder-de-los-lugartenientes\">Sistema de\nAnillos de Poder</a></li>\n<li><a href=\"#-mecánica-de-vinculación-con-aethernus\">Mecánica de\nVinculación con Aethernus</a></li>\n<li><a href=\"#-mecánica-de-anillos-robados\">Mecánica de Anillos\nRobados</a></li>\n<li><a href=\"#-integración-con-talismán-de-interceptación\">Integración\ncon Talismán de Interceptación</a></li>\n</ul>",
+      "chat": ""
+    },
+    "rarity": "legendary",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "anillos-de-poder-de-los-lugartenientes",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "PjHaBqlMqJJeWXWs",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "54d415c9da8364daa727d1ff40ac30323253226b"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669390,
+    "modifiedTime": 1782850669390,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!PjHaBqlMqJJeWXWs"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "💡 Ideas DM",
+  "type": "JournalEntry",
+  "_id": "4ibnPbBF04KNwpZa",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "a7ba40c6a626e3db19c92b82651bb1c74a91f9b3"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078352,
+    "modifiedTime": 1782851078352,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!4ibnPbBF04KNwpZa"
+}

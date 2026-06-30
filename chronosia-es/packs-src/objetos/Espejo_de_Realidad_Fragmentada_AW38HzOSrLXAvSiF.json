@@ -1,0 +1,77 @@
+{
+  "name": "Espejo de Realidad Fragmentada",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/05_espejo-realidad-fragmentada.jpg",
+  "system": {
+    "description": {
+      "value": "<figure>\n<img src=\"../../assets/objetos_magicos/05_espejo-realidad-fragmentada.jpg\" alt=\"Espejo de Realidad Fragmentada\" />\n<figcaption aria-hidden=\"true\">Espejo de Realidad\nFragmentada</figcaption>\n</figure>\n<p><strong>Tipo:</strong> Artefacto (Requiere Sintonización)<br />\n<strong>Rareza:</strong> Artefacto Único<br />\n<strong>Peso:</strong> 15 libras<br />\n<strong>Creador:</strong> Las Gemelas del Espejo (Lyra y Nyx)<br />\n<strong>Obtención:</strong> Derrotar a Las Gemelas del Espejo<br />\n<strong>Función:</strong> Estabiliza espacio fragmentado de\nDimensionalis</p>\n<h4 id=\"ubicación-y-obtención\"><strong>📍 Ubicación y\nObtención:</strong></h4>\n<p><strong>Ubicación:</strong> - <strong>Lugar:</strong> El Jardín de\nlos Tiempos Gemelos (región de Las Gemelas del Espejo) -\n<strong>Poseedor:</strong> Las Gemelas del Espejo (Lyra y Nyx) -\n<strong>Estado:</strong> En posesión de las Gemelas, lo usan para\nestabilizar su región</p>\n<p><strong>Cómo Obtenerlo:</strong> 1. <strong>Derrotar a Las Gemelas\ndel Espejo:</strong> Al derrotarlas, el Espejo puede ser obtenido como\nbotín 2. <strong>Negociación (Alternativa):</strong> Las Gemelas son\nneutrales - podrían estar dispuestas a negociar si los PJ les ofrecen\nalgo valioso o les ayudan con un problema 3. <strong>Robo\n(Difícil):</strong> Los PJ podrían intentar robarlo, pero las Gemelas\nson muy poderosas y tienen múltiples dimensiones espejo</p>\n<p><strong>Requisitos:</strong> - <strong>Nivel Recomendado:</strong>\n8-10 - <strong>Región:</strong> El Jardín de los Tiempos Gemelos (región\ncompartida con Medusa) - <strong>Nota:</strong> Las Gemelas son\nneutrales, no necesariamente hostiles - pueden ser aliadas\npotenciales</p>\n<p><strong>Uso Post-Obtención:</strong> - <strong>Desbloquea:</strong>\nPermite acceder a Las Llanuras de la Compresión (región de\nDimensionalis) - <strong>Alternativa:</strong> Si los PJ derrotan a\nIgnis primero, pueden acceder a la región sin el Espejo</p>\n<h4 id=\"historia\"><strong>📜 Historia:</strong></h4>\n<p>Artefacto creado por Las Gemelas del Espejo usando su poder de\ndimensión espejo. Permite estabilizar espacios fracturados y navegar por\ndimensiones fragmentadas sin quedar atrapado.</p>\n<h4 id=\"descripción-física\"><strong>🎨 Descripción Física:</strong></h4>\n<p>Un espejo circular de 3 pies de diámetro con marco de plata\nornamentada. La superficie reflectante muestra múltiples realidades\nsuperpuestas, como si estuviera mirando a través de múltiples\ndimensiones simultáneamente. Cuando se activa, el espejo puede “fijar”\nuna realidad específica, estabilizando el espacio fracturado a su\nalrededor.</p>\n<h4 id=\"propiedades-mágicas\"><strong>⚡ Propiedades\nMágicas:</strong></h4>\n<p><strong>Estabilización Espacial (Activo, 3 cargas/día):</strong> -\nEstabiliza el espacio fragmentado en un radio de 60 pies - Las\ndistorsiones dimensionales se neutralizan temporalmente - Permite viajar\npor espacios fracturados sin quedar atrapado -\n<strong>Duración:</strong> 10 minutos - <strong>CD de\nSalvación:</strong> N/A (afecta el espacio, no criaturas)</p>\n<p><strong>Visión Dimensional (Activo, 1/día):</strong> - El portador\npuede ver a través de múltiples dimensiones simultáneamente - Detecta\nportales dimensionales ocultos en 120 pies - Puede ver criaturas que\nexisten en dimensiones paralelas - <strong>Duración:</strong> 1 hora -\n<strong>Efecto:</strong> Como <em>True Seeing</em> pero para\ndimensiones</p>\n<p><strong>Reflejo de Realidad (Activo, 1/día):</strong> - El portador\npuede “reflejar” una realidad alternativa sobre la actual - Crea una\ncopia temporal de un área de 30 pies de radio - La copia dura 1 minuto y\npuede usarse para confundir enemigos o crear refugio - <strong>CD de\nSalvación:</strong> CD 18 de Sabiduría para reconocer la ilusión</p>\n<p><strong>Desbloqueo de Región:</strong> - Permite acceder a Las\nLlanuras de la Compresión (región de Dimensionalis) - Estabiliza el\nespacio fracturado necesario para navegar la región</p>\n<p><strong>Recarga de Cargas:</strong> - Las 3 cargas de Estabilización\nEspacial se recuperan al amanecer - La carga de Visión Dimensional se\nrecupera al amanecer - La carga de Reflejo de Realidad se recupera al\namanecer</p>\n<hr />",
+      "chat": ""
+    },
+    "rarity": "veryRare",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "espejo-de-realidad-fragmentada",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "AW38HzOSrLXAvSiF",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6e7d3e93ccac99a1509fe9e9db1fd76f032c0aaa"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669352,
+    "modifiedTime": 1782850669352,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!AW38HzOSrLXAvSiF"
+}

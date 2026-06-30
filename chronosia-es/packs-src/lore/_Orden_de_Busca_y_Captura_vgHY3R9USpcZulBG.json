@@ -1,0 +1,65 @@
+{
+  "name": "📜 Orden de Busca y Captura",
+  "folder": "mDboZ6nHyc9bRNl9",
+  "pages": [
+    {
+      "name": "📜 Orden de Busca y Captura",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"orden-de-busca-y-captura\">📜 Orden de Busca y Captura</h1>\n<h3 id=\"guardia-de-cronópolis-sección-de-reliquias-y-robos-mayores\"><em>Guardia\nde Cronópolis — Sección de Reliquias y Robos Mayores</em></h3>\n<hr />\n<pre><code>══════════════════════════════════════════════════════\n   GUARDIA DE CRONÓPOLIS · DIVISIÓN DE RELIQUIAS\n   EXPEDIENTE Nº CRN-477-T\n   PRIORIDAD: MÁXIMA\n══════════════════════════════════════════════════════</code></pre>\n<h2 id=\"se-busca-por-el-robo-de-la-perla-y-el-cronómetro-de-realidades\">SE\nBUSCA — POR EL ROBO DE LA PERLA Y EL CRONÓMETRO DE REALIDADES</h2>\n<p>A todos los puestos, custodios y ciudadanos honrados de\nCronópolis:</p>\n<p>Por la presente se declara la <strong>busca y captura</strong> del\ngrupo de forasteros descrito al pie, sospechosos del <strong>robo de dos\nreliquias mayores</strong> custodiadas en el Santuario Suspendido:</p>\n<ol type=\"1\">\n<li>La <strong>Perla</strong> <em>(reliquia primigenia, sellada bajo\ntriple guardia).</em></li>\n<li>El <strong>Cronómetro de Realidades</strong> <em>(instrumento\nprohibido).</em></li>\n</ol>\n<p>Ambas piezas desaparecieron la misma noche. La única puerta que no\nquedó cerrada por dentro fue aquella por la que <strong>se vio entrar a\nlos acusados</strong>.</p>\n<hr />\n<h2 id=\"declaración-del-testigo\">DECLARACIÓN DEL TESTIGO</h2>\n<blockquote>\n<p>«Los vi rondar el Santuario al caer la última campana. No eran de\naquí, eso se notaba. Hablaban raro, miraban las cerraduras como quien\nmide a un enemigo. Cuando volví a pasar, las guardas estaban frías y la\nPerla ya no estaba. ¿Quién más iba a ser? Forasteros, recién llegados,\nsin nadie que responda por ellos.»</p>\n<p>— Testigo cuyo nombre se reserva por su seguridad</p>\n</blockquote>\n<hr />\n<h2 id=\"sobre-los-sospechosos\">SOBRE LOS SOSPECHOSOS</h2>\n<ul>\n<li>Llegaron a Cronópolis <strong>poco antes</strong> del robo.</li>\n<li>No tienen padrino ni fiador conocido en la ciudad.</li>\n<li>Se les vio cerca del Santuario Suspendido la noche de autos.</li>\n<li><em>(Descripción a completar por el DM con los nombres y rasgos del\ngrupo.)</em></li>\n</ul>\n<pre><code>  NOMBRES Y SEÑAS:\n  ____________________________________________\n  ____________________________________________\n  ____________________________________________</code></pre>\n<hr />\n<h2 id=\"disposición\">DISPOSICIÓN</h2>\n<p>Quien tenga noticia de su paradero debe comunicarlo <strong>de\ninmediato</strong> a cualquier puesto de la Guardia. <strong>No se les\nconsidera de fiar.</strong> Procédase con cautela: si robaron el Tiempo\nmismo, poco les costará robar una vida.</p>\n<p>Se ofrece recompensa y olvido de deudas menores a quien colabore.</p>\n<hr />\n<pre><code>══════════════════════════════════════════════════════</code></pre>\n<blockquote>\n<p><em>Por orden de la Guardia de Cronópolis.</em> <em>Firmado y sellado\neste día, bajo la segunda campana del Contador.</em></p>\n</blockquote>\n<p><strong>Capitán de Reliquias — V. Drossel</strong>\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>\n<pre><code>        .-\"\"\"\"\"\"-.\n       /  SELLO   \\\n      |  GUARDIA   |\n      |     ⚙       |\n      |  CRONÓPOLIS |\n       \\          /\n        '-......-'</code></pre>\n<hr />\n<blockquote>\n<p><strong>Nota para el DM:</strong> Este documento es una acusación\n<strong>falsa o circunstancial</strong>. El verdadero ladrón es\n<strong>Edward Teach “Barbanegra”</strong>, que robó la Perla y el\nCronómetro la misma noche. Usa esta orden para poner a los PJ en el\npunto de mira en la Fase 1 y empujarles a limpiar su nombre rastreando\nal auténtico culpable.</p>\n</blockquote>",
+        "format": 1
+      },
+      "_id": "7wAJKt1C2Hu78PRT",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!vgHY3R9USpcZulBG.7wAJKt1C2Hu78PRT"
+    }
+  ],
+  "_id": "vgHY3R9USpcZulBG",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "1c9e65affaa379fe273193123ceca03352fa876a"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851079026,
+    "modifiedTime": 1782851079026,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!vgHY3R9USpcZulBG"
+}

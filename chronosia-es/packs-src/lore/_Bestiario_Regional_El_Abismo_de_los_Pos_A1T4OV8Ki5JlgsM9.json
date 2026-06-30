@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — El Abismo de los Posibles",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — El Abismo de los Posibles",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-el-abismo-de-los-posibles\">🐉 Bestiario\nRegional — El Abismo de los Posibles</h1>\n<figure>\n<img src=\"../../assets/mapas/05_abismo-de-los-posibles.png\" alt=\"Mapa de El Abismo de los Posibles\" />\n<figcaption aria-hidden=\"true\">Mapa de El Abismo de los\nPosibles</figcaption>\n</figure>\n<h2 id=\"lugarteniente-varrak-el-oráculo-realidades-paralelas-predice-futuros-tipo-dimensional-nivel-pj-7-8\">Lugarteniente:\nVarrak el Oráculo (realidades paralelas; predice futuros) · Tipo:\nDimensional · Nivel PJ: 7-8</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales. Aquí las realidades alternativas se\nsuperponen como cristales mal cortados: caminas y, sin querer, pisas la\nversión de ti que tomó otra decisión. La probabilidad gotea. Lo que pudo\nser acecha junto a lo que es.</p>\n</blockquote>\n<hr />\n<h2 id=\"villano-menor-tessaly-bifronte-la-que-eligió-mal\">😈 Villano\nMenor — Tessaly Bifronte, la Que Eligió Mal</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/05_tessaly-bifronte.jpg\" alt=\"Tessaly Bifronte, la Que Eligió Mal\" />\n<figcaption aria-hidden=\"true\">Tessaly Bifronte, la Que Eligió\nMal</figcaption>\n</figure>\n<p>Tessaly fue una vidente que sirvió a Varrak hasta que miró demasiados\nfuturos y los vio todos terminar en su propia muerte. Para escapar,\nfusionó dos versiones de sí misma — la que se rindió y la que luchó — en\nun solo cuerpo en guerra consigo mismo. Ahora siembra el Abismo de “tús\nalternativos” para que ningún visitante salga siendo quien entró. Es la\nsub-jefa que custodia las galerías de probabilidad donde Varrak ensaya\nsus profecías.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Tessaly\nBifronte</em></strong> — <em>Mediano humanoide (vidente fracturada),\nneutral maligno</em> · <strong>CR</strong> 6 (2.300 XP) -\n<strong>CA</strong> 16 (escudo de probabilidad) · <strong>PG</strong>\n110 (13d8+52) · <strong>Vel.</strong> 30 pies - <strong>DES</strong> 14\n(+2) · <strong>CON</strong> 18 (+4) · <strong>INT</strong> 17 (+3) ·\n<strong>CAR</strong> 19 (+4) · <strong>CD de poder</strong> 15 (CAR) ·\n<strong>Sentidos:</strong> Visión verdadera 60 pies, Percepción pasiva\n16 - <strong>Rasgos:</strong> - <strong>Existencia Indecisa:</strong> al\ninicio de cada turno, Tessaly tira 1d6. Con 4-6 está “en fase”: los\nataques contra ella tienen desventaja. Con 1-3 está “fijada”: funciona\nnormal. Refleja su naturaleza superpuesta. - <strong>Ya He Visto\nEsto:</strong> una vez por ronda, cuando una criatura a 30 pies hace una\ntirada de ataque o salvación, Tessaly puede forzarle a repetirla y\nquedarse con el peor resultado (reacción). - <strong>Acciones:</strong>\n- <strong>Multiataque:</strong> dos ataques de <em>Daga de los Dos\nFilos</em> (una versión que apuñala, otra que ya apuñaló). -\n<strong>Daga de los Dos Filos:</strong> +7 a impactar, alcance 5 pies, 8\n(1d6+5) perforante + 7 (2d6) psíquico por las muertes que el objetivo\n“casi” sufrió. - <strong>Colapso de Posibilidades (recarga\n5-6):</strong> elige un punto a 60 pies; en un radio de 15 pies, todas\nlas criaturas hacen salvación de SAB CD 15. Al fallar: 21 (6d6) psíquico\ny <em>aturdido</em> hasta el final de su próximo turno (vislumbran sus\npropias muertes alternativas). Al superar: mitad de daño, no aturdido. -\n<strong>Tácticas / Al ser derrotado:</strong> Usa <em>Ya He Visto\nEsto</em> contra el golpe más peligroso de la ronda y se mantiene “en\nfase” para evadir; rompe formaciones con <em>Colapso</em>. Al caer, sus\ndos mitades se separan un instante y ambas susurran a la vez: <em>“Una\nde nosotras… aún gana”</em> — y un destello revela un futuro alternativo\n(pista o advertencia útil para los PJ).</p>\n<hr />\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><strong><em>El Otro Tú</em></strong> (Eco Adverso) — <em>Mediano\naberración (eco de probabilidad), varía</em> · <strong>CR</strong> 5\n(1.800 XP)\n<ul>\n<li><strong>CA</strong> 15 · <strong>PG</strong> 75 (10d8+30) ·\n<strong>Vel.</strong> 30 pies</li>\n<li><em>Atributos espejo del PJ que copia (usa los del jugador objetivo\no, por defecto: FUE/DES 16, CON 16)</em> · <strong>CD de poder</strong>\n14 · <strong>Sentidos:</strong> Visión verdadera 30 pies, Percepción\npasiva 14</li>\n<li><strong>Rasgos:</strong> <strong>Versión Hostil</strong> — al\nmanifestarse, copia las resistencias, una habilidad de clase y el arma\nde un PJ concreto (su “yo alternativo” que tomó el camino oscuro).\n<strong>Conoce tus Trucos:</strong> tiene ventaja en salvaciones contra\nconjuros y rasgos de ese PJ.</li>\n<li><strong>Acciones:</strong> <strong>Multiataque</strong> dos ataques\ncon el arma copiada (+7, daño como el PJ +1d6 necrótico). <strong>Lo Que\nPudiste Ser (1/día):</strong> replica el rasgo más fuerte del PJ copiado\nuna vez sin coste.</li>\n<li><em>Tema: el “yo alternativo” hostil de un personaje; personalízalo\npor mesa para máximo impacto.</em></li>\n</ul></li>\n<li><strong><em>Bestia Superpuesta</em></strong> — <em>Grande\naberración, sin alineamiento</em> · <strong>CR</strong> 4 (1.100 XP)\n<ul>\n<li><strong>CA</strong> 14 · <strong>PG</strong> 60 (8d10+16) ·\n<strong>Vel.</strong> 40 pies</li>\n<li><strong>DES</strong> 17 (+3) · <strong>CON</strong> 15 (+2) ·\n<strong>Sentidos:</strong> Visión ciega 60 pies, Percepción pasiva\n13</li>\n<li><strong>Rasgos:</strong> <strong>Existe en Varios Estados:</strong>\nla primera vez que es impactada en una ronda, tira 1d4; con 1-2 el\nataque “ocurrió en otra realidad” y no causa daño (esquiva por\nprobabilidad). Resistencia a daño contundente, cortante y perforante de\nfuentes no mágicas.</li>\n<li><strong>Acciones:</strong> <strong>Multiataque</strong> dos\n<em>Zarpas de Cuántos</em> (+6, 5 pies, 11 (2d6+4) cortante).\n<strong>Salto entre Líneas (recarga 5-6):</strong> se teletransporta 30\npies a una posición donde “siempre estuvo” y ataca con ventaja.</li>\n<li><em>Tema: la bestia que existe en varios estados a la vez,\nfrustrantemente esquiva.</em></li>\n</ul></li>\n<li><strong><em>Larva de Bifurcación</em></strong> — <em>Pequeño\naberración, sin alineamiento</em> · <strong>CR</strong> 3 (700 XP)\n<ul>\n<li><strong>CA</strong> 13 · <strong>PG</strong> 45 (7d6+21) ·\n<strong>Vel.</strong> 25 pies, trepar 25 pies</li>\n<li><strong>CON</strong> 16 (+3) · <strong>DES</strong> 14 (+2) ·\n<strong>CD de poder</strong> 12 · <strong>Sentidos:</strong> Visión en\nla oscuridad 60 pies, Percepción pasiva 11</li>\n<li><strong>Rasgos:</strong> <strong>Se Divide al Decidir</strong> —\ncuando recibe daño por primera vez y le quedan 10+ PG, se bifurca en dos\nlarvas de la mitad de PG (cada una representa “una rama del futuro”).\nSolo puede bifurcarse una vez.</li>\n<li><strong>Acciones:</strong> <strong>Mordisco Probable</strong> (+5, 5\npies, 7 (1d8+3) perforante; con un 1 natural en la tirada del objetivo\nen su próximo turno, sufre 1d6 psíquico adicional).</li>\n<li><em>Tema: heraldo menor del Abismo; multiplica el caos y enseña a\nlos PJ que aquí todo se ramifica.</em></li>\n</ul></li>\n</ul>\n<hr />\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><p><strong>Maestro Oviran, el Que Ya Sabe</strong> (humano, profeta\nmenor enloquecido / dador de misiones inestable) — Anciano que ha visto\ndemasiados futuros y habla con tres o cuatro a la vez, contradiciéndose.\n<em>Personalidad:</em> lúcido a ráfagas, aterrado por lo que recuerda\ndel mañana. <em>Ofrece/gancho:</em> una profecía verdadera por cada\nfavor — pero nunca sabe si describe esta realidad o una vecina. Puede\nseñalar la galería donde Varrak es vulnerable… o donde lo era en otra\nlínea.</p></li>\n<li><p><strong>Casiopea Doblez</strong> (semielfa, cartógrafa de\nrealidades / aliada neutral) — Traza mapas de las capas superpuestas del\nAbismo para no perderse entre versiones. <em>Personalidad:</em>\nmetódica, escéptica de toda “verdad”, confía solo en lo que dibuja dos\nveces igual. <em>Ofrece:</em> un <em>Mapa de Líneas Estables</em>\n(ventaja en tiradas de orientación dentro del Abismo y aviso ante zonas\nde Colapso de Probabilidades), a cambio de muestras de las anomalías que\nlos PJ encuentren.</p></li>\n<li><p><strong>Bren-Que-Volvió</strong> (mediano mercader, neutral) —\nComerciante que afirma haber muerto en otra línea y haber “vuelto por la\npuerta equivocada”; vende reliquias de futuros que no llegaron a pasar.\n<em>Personalidad:</em> fatalista alegre, regatea como si el oro no\nimportara (porque “en otra vida ya es rico”). <em>Ofrece:</em> objetos\nde un solo uso que fijan la probabilidad (relanzar un dado y quedarse\ncon el resultado), y rumores sobre los Ecos Adversos que rondan a cada\nPJ.</p></li>\n</ul>\n<hr />\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li><strong>Conócete a ti mismo (y mátalo):</strong> al adentrarse, cada\nPJ es marcado por un <em>Otro Tú</em> — su versión que tomó el camino\noscuro. Derrotarlo otorga una visión personal; ignorarlo deja que el eco\ncrezca y reaparezca más fuerte junto a Tessaly.</li>\n<li><strong>La profecía que se contradice:</strong> Maestro Oviran y\nCasiopea dan información opuesta sobre cómo alcanzar a Varrak. Ambas son\nciertas — en realidades distintas. Los PJ deben decidir qué línea\n“fijar” con las reliquias de Bren, y vivir con la versión del Abismo que\nelijan.</li>\n<li><strong>El ensayo del Oráculo:</strong> las galerías que custodia\nTessaly Bifronte son donde Varrak el Oráculo prueba sus profecías sobre\nfuturos alternativos. Derrotarla revela un fragmento de la próxima\npredicción del lugarteniente — y la advertencia de que él ya ha visto a\nlos PJ llegar.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "CUkvH59myxeF6HR7",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!A1T4OV8Ki5JlgsM9.CUkvH59myxeF6HR7"
+    }
+  ],
+  "_id": "A1T4OV8Ki5JlgsM9",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "a2a9080ab446026e170edbbdcd00b7161154abb5"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078593,
+    "modifiedTime": 1782851078593,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!A1T4OV8Ki5JlgsM9"
+}

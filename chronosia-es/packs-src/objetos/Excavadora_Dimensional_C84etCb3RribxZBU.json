@@ -1,0 +1,77 @@
+{
+  "name": "Excavadora Dimensional",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/07_excavadora-dimensional.jpg",
+  "system": {
+    "description": {
+      "value": "<figure>\n<img src=\"../../assets/objetos_magicos/07_excavadora-dimensional.jpg\" alt=\"Excavadora Dimensional\" />\n<figcaption aria-hidden=\"true\">Excavadora Dimensional</figcaption>\n</figure>\n<p><strong>Tipo:</strong> Artefacto (Requiere Sintonización)<br />\n<strong>Rareza:</strong> Artefacto Único<br />\n<strong>Peso:</strong> 200 libras<br />\n<strong>Creador:</strong> Din Goldgear + Ingenieros de Cronópolis<br />\n<strong>Obtención:</strong> Quest con Ingenieros/Gnomos de\nCronópolis<br />\n<strong>Función:</strong> Permite excavar y crear túneles\ndimensionales</p>\n<h4 id=\"ubicación-y-obtención\"><strong>📍 Ubicación y\nObtención:</strong></h4>\n<p><strong>Ubicación:</strong> - <strong>Lugar:</strong> Taller de Din\nGoldgear + Ingenieros de Cronópolis - <strong>Estado:</strong> Debe ser\nconstruido - no existe todavía - <strong>Creador:</strong> Din Goldgear\n(con ayuda de los Ingenieros de Cronópolis)</p>\n<p><strong>Cómo Obtenerlo:</strong> 1. <strong>Quest de los\nIngenieros:</strong> Los Ingenieros de Cronópolis solicitan la\nconstrucción de la Excavadora 2. <strong>Quest Giver:</strong> Din\nGoldgear o Balthar Herrumbra (La Resistencia) 3. <strong>Materiales\nNecesarios:</strong> - <strong>5,000 po</strong> en materiales (acero\nreforzado, engranajes de mithril) - <strong>5 Cristales de Poder Púrpura\n(Dimensionales):</strong> Se requieren cristales de poder dimensionales\nespecíficos de 5 regiones diferentes (ver misión “Cristales\nDimensionales para la Excavadora” en Misiones_Sandbox.md) - <strong>⚠️\nNOTA:</strong> Los “Cristales Dimensionales Puros” mencionados en la\nmisión son en realidad <strong>Cristales de Poder Púrpura\n(dimensionales)</strong> que se forman en regiones con alta actividad\ndimensional. Cada región dimensional puede tener un cristal único con\npropiedades específicas de esa región. 4. <strong>Tiempo de\nConstrucción:</strong> 1-2 semanas de trabajo (puede acelerarse si los\nPJ ayudan)</p>\n<p><strong>Requisitos:</strong> - <strong>Alianza con\nIngenieros:</strong> Los PJ deben tener buena relación con Din Goldgear\no La Resistencia - <strong>Nivel Recomendado:</strong> 7-9 -\n<strong>Conocimiento Técnico:</strong> Din Goldgear o un Artífice de\nnivel 9+ debe dirigir la construcción</p>\n<p><strong>Uso Post-Obtención:</strong> - <strong>Desbloquea:</strong>\nPermite acceder a La Ciudad Subterránea de Veldrisza -\n<strong>Alternativa:</strong> Si los PJ derrotan a Edward Teach o\nreciben ayuda de Varrak del Horizonte (aliado), pueden acceder sin la\nExcavadora</p>\n<h4 id=\"historia\"><strong>📜 Historia:</strong></h4>\n<p>Artefacto gnomo creado por Din Goldgear en colaboración con los\nIngenieros de Cronópolis. Diseñado específicamente para excavar túneles\ndimensionales que conectan regiones subterráneas sin usar portales\nmágicos tradicionales.</p>\n<h4 id=\"descripción-física\"><strong>🎨 Descripción Física:</strong></h4>\n<p>Una máquina de excavación del tamaño de un carro pequeño, con\nmúltiples taladros rotativos y dispositivos de compresión espacial. La\nestructura es de acero reforzado con engranajes de mithril. Emite un\nzumbido constante cuando está activa, y deja tras de sí un túnel\ndimensional estabilizado que conecta dos ubicaciones.</p>\n<h4 id=\"propiedades-mágicas\"><strong>⚡ Propiedades\nMágicas:</strong></h4>\n<p><strong>Excavación Dimensional (Activo, 1/día):</strong> - Crea un\ntúnel dimensional de hasta 1 milla de longitud - El túnel conecta dos\nubicaciones sin necesidad de portales mágicos - El túnel es estable y\npermanente (hasta que se cierre manualmente) - <strong>Tiempo de\nConstrucción:</strong> 1 hora por cada 100 pies de túnel -\n<strong>Limitación:</strong> Solo puede crear 1 túnel activo a la\nvez</p>\n<p><strong>Compresión Espacial (Pasivo):</strong> - Reduce el espacio\nnecesario para el túnel - Un túnel de 10 pies de ancho puede transportar\nobjetos de hasta 20 pies de ancho - Permite transportar grandes\ncantidades de material o criaturas grandes</p>\n<p><strong>Estabilización Dimensional (Pasivo):</strong> - Los túneles\ncreados son inmunes a distorsiones dimensionales menores - No pueden ser\ncerrados por efectos mágicos de nivel 5 o inferior - Resisten efectos de\ncompresión espacial externos</p>\n<p><strong>Desbloqueo de Región:</strong> - Permite acceder a La Ciudad\nSubterránea de Veldrisza - Crea túneles que evitan las defensas\ndimensionales de la ciudad</p>\n<p><strong>Requisitos de Uso:</strong> - Requiere 2 personas para operar\n(conductor + operador de compresión) - Consume 100 po de materiales por\ncada 100 pies de túnel - Requiere conocimiento de ingeniería o artífice\npara usar correctamente</p>\n<hr />",
+      "chat": ""
+    },
+    "rarity": "rare",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "excavadora-dimensional",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "C84etCb3RribxZBU",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9ae365fa54404021a3183488e04e347e1b57e3ce"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669373,
+    "modifiedTime": 1782850669373,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!C84etCb3RribxZBU"
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Contador del Ritual",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/04_contador-ritual.jpg",
+  "system": {
+    "description": {
+      "value": "<figure>\n<img src=\"../../assets/objetos_magicos/04_contador-ritual.jpg\" alt=\"Contador del Ritual\" />\n<figcaption aria-hidden=\"true\">Contador del Ritual</figcaption>\n</figure>\n<p><strong>Tipo:</strong> Artefacto (No requiere sintonización)<br />\n<strong>Rareza:</strong> Artefacto Único (Híbrido)<br />\n<strong>Peso:</strong> 50 libras<br />\n<strong>Creadores:</strong> Anacronistas + La Resistencia (Fase\n1-2)<br />\n<strong>Ubicación:</strong> Cronópolis (Taller de los Ingenieros o\nSantuario de los Anacronistas)<br />\n<strong>Estado Actual:</strong> ✅ Creado y activo desde Fase 1-2</p>\n<blockquote>\n<p><strong>Reloj del Ritual:</strong> este artefacto <strong>ES</strong>\nel Reloj del Ritual — un marcador de <strong>8 segmentos</strong> (0→8)\nque mide la ascensión de Aethernus. NO mide un % ni un “balance”.\nEmpieza ya avanzado en <strong>2/8</strong> y a <strong>8/8</strong> se\nproduce la Llamada de los Dioses y se abre la Torre. Fuente única: <a href=\"../../01_Como_Dirigir.md\">01_Como_Dirigir.md</a>.</p>\n</blockquote>\n<h4 id=\"ubicación-y-obtención\"><strong>📍 Ubicación y\nObtención:</strong></h4>\n<p><strong>Ubicación:</strong> - <strong>Lugar:</strong> Cronópolis -\nPuede estar en el Taller de los Ingenieros (La Resistencia) o en el\nSantuario de los Anacronistas, con un <strong>monitor público</strong>\nen un lugar céntrico (Plaza del Reloj o Fortaleza de Acero) -\n<strong>Acceso:</strong> Público - Los PJ pueden consultarlo en\ncualquier momento - <strong>Protección:</strong> No requiere protección\nespecial (no puede ser manipulado)</p>\n<p><strong>Cómo se Obtiene:</strong> - <strong>Creado en Fase\n1-2:</strong> Los Anacronistas y La Resistencia lo construyen juntos al\ninicio de la campaña - <strong>Los PJ pueden participar:</strong> Pueden\nayudar en la creación del artefacto (opcional) - <strong>No requiere\nobtención:</strong> Es un artefacto fijo que permanece en Cronópolis\npara consulta</p>\n<p><strong>Función:</strong> - <strong>Monitoreo del Reloj del\nRitual:</strong> Muestra cuántos segmentos lleva el ritual de Aethernus\n(X/8) - <strong>Punto de Referencia:</strong> Los PJ pueden consultarlo\ncuando regresen a Cronópolis - <strong>Urgencia Visual:</strong> Crea\ntensión narrativa al mostrar el avance del ritual segmento a\nsegmento</p>\n<h4 id=\"historia\"><strong>📜 Historia:</strong></h4>\n<p>Artefacto híbrido creado por la alianza entre Anacronistas y La\nResistencia en la Fase 1-2 de la campaña. Combina la percepción mística\ndel tiempo de los Anacronistas con la tecnología de precisión de La\nResistencia para monitorear el avance del ritual de ascensión divina de\nAethernus a través de sus 8 segmentos.</p>\n<h4 id=\"descripción-física\"><strong>🎨 Descripción Física:</strong></h4>\n<p>Un reloj circular de 2 pies de diámetro con múltiples esferas\nsuperpuestas (como un astrolabio). Engranajes visibles giran\nconstantemente. Fragmentos de aionita incrustados alrededor del borde\nbrillan suavemente. En el borde, <strong>8 marcas/segmentos</strong> se\nencienden uno a uno conforme avanza el ritual; los primeros dos ya están\nencendidos al inicio (2/8).</p>\n<p><strong>Efectos Visuales:</strong> - Los segmentos se encienden de\nuno en uno conforme el ritual avanza - Cuando cae un lugarteniente, el\nContador acusa un <strong>“hipo”</strong> (parpadeo / retroceso de medio\nsegmento) - Los fragmentos de aionita pulsan en sintonía con el pulso\ndel tiempo - En zona crítica (≥6/8), el artefacto emite una luz roja de\nadvertencia</p>\n<h4 id=\"propiedades-mágicas\"><strong>⚡ Propiedades\nMágicas:</strong></h4>\n<p><strong>Monitoreo del Reloj (Pasivo):</strong> - Muestra el segmento\nactual del Reloj del Ritual (X/8) y su tendencia - Actualiza\nautomáticamente cuando el ritual avanza, se estanca o retrocede - No\npuede ser manipulado (está vinculado al flujo de poder divino verdadero)\n- Visible para todos (no requiere magia para verlo)</p>\n<p><strong>Indicador de Urgencia (Pasivo):</strong> -\n<strong>2-5/8:</strong> Segmentos se encienden poco a poco, luz normal -\n<strong>6-7/8 (zona crítica):</strong> Luz roja de advertencia, el\nritual aprieta - <strong>8/8:</strong> <strong>Llamada de los\nDioses</strong> — se abre la Torre de la Eternidad (Fase 4)</p>\n<p><strong>El “hipo” del Contador (Pasivo):</strong> - Toda muerte de\nlugarteniente corta un canal de poder divino y el Contador lo acusa con\nun parpadeo / retroceso de medio segmento - Si la caída\n<strong>no</strong> la provocaron los PJ, los Anacronistas la señalan\ncomo anomalía a investigar (firma de que Teach caza lugartenientes)</p>\n<p><strong>Ancla Temporal (Pasivo):</strong> - Crea una zona de\nestabilidad temporal de 30 pies de radio - Las distorsiones temporales\nmenores se neutralizan en esta área - Los efectos temporales de nivel 5\no inferior se cancelan automáticamente</p>\n<h4 id=\"progresión-del-reloj-referencia-para-el-dm\"><strong>📊\nProgresión del Reloj (Referencia para el DM):</strong></h4>\n<table>\n<colgroup>\n<col style=\"width:27%\"></col>\n<col style=\"width:27%\"></col>\n<col style=\"width:44%\"></col>\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th><strong>Segmento</strong></th>\n<th><strong>Estado</strong></th>\n<th><strong>Efecto Visual</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td>2/8</td>\n<td>Estado inicial</td>\n<td>Dos segmentos encendidos</td>\n</tr>\n<tr class=\"even\">\n<td>3-5/8</td>\n<td>Avanzando</td>\n<td>Segmentos se encienden poco a poco</td>\n</tr>\n<tr class=\"odd\">\n<td>6-7/8</td>\n<td>⚠️ Zona crítica</td>\n<td>Luz roja de advertencia; pueden lanzarse Tormentas del Ritual</td>\n</tr>\n<tr class=\"even\">\n<td>8/8</td>\n<td><strong>Llamada de los Dioses</strong></td>\n<td>Se abre la Torre de la Eternidad (Fase 4)</td>\n</tr>\n</tbody>\n</table>\n<blockquote>\n<p>El avance lo rige <a href=\"../../01_Como_Dirigir.md\">Cómo\nDirigir</a>: +1 por arco de región, salto con el asesinato de Thyra, se\nestanca al caer un crítico, −1 con el sacrificio de Varrak.</p>\n</blockquote>\n<h4 id=\"función-narrativa\"><strong>🎯 Función Narrativa:</strong></h4>\n<ul>\n<li>Transmite urgencia visual a los jugadores</li>\n<li>Fuerza decisiones sobre qué lugarteniente enfrentar primero (coste\nde oportunidad)</li>\n<li>Crea presión narrativa constante</li>\n<li>Se convierte en un punto de referencia permanente</li>\n</ul>\n<hr />",
+      "chat": ""
+    },
+    "rarity": "legendary",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "contador-del-ritual",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "ryEB4KqG6yxBbdaW",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "17a37befe263baadd917ff42d8ef86526bb86038"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669337,
+    "modifiedTime": 1782850669337,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!ryEB4KqG6yxBbdaW"
+}

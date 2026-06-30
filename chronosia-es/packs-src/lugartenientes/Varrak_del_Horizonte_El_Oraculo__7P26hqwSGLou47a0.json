@@ -1,0 +1,721 @@
+{
+  "name": "Varrak del Horizonte (El Oráculo)",
+  "type": "npc",
+  "img": "modules/chronosia-es/assets/bestiario/02_varrak-el-oraculo.jpg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 16,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "dex": {
+        "value": 14,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "con": {
+        "value": 20,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "int": {
+        "value": 18,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "wis": {
+        "value": 18,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "cha": {
+        "value": 14,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "calc": "flat",
+        "flat": 17
+      },
+      "hp": {
+        "value": 190,
+        "max": 190,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "walk": "30",
+        "units": null,
+        "hover": false,
+        "ignoredDifficultTerrain": []
+      },
+      "init": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonus": ""
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "darkvision": 120,
+        "blindsight": null,
+        "tremorsense": null,
+        "truesight": null,
+        "units": null,
+        "special": ""
+      },
+      "spellcasting": "",
+      "exhaustion": 0,
+      "concentration": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "save": ""
+        },
+        "limit": 1
+      },
+      "loyalty": {},
+      "hd": {
+        "spent": 0
+      },
+      "death": {
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "success": 0,
+        "failure": 0,
+        "bonuses": {
+          "save": ""
+        }
+      },
+      "price": {
+        "value": null,
+        "denomination": "gp"
+      },
+      "spell": {
+        "level": 0
+      }
+    },
+    "details": {
+      "cr": 9,
+      "biography": {
+        "value": "<h1 id=\"varrak-del-horizonte-el-oráculo\">🔮 Varrak del Horizonte (El\nOráculo)</h1>\n<p><img src=\"../../assets/bestiario/lugartenientes/02_varrak-el-oraculo.jpg\" alt=\"Varrak el Oráculo\" /> <img src=\"../../assets/bestiario/lugartenientes/02a_varrak-nino.jpg\" alt=\"Varrak niño\" /> <img src=\"../../assets/bestiario/lugartenientes/02b_varrak-adulto.jpg\" alt=\"Varrak adulto\" /> <img src=\"../../assets/bestiario/lugartenientes/02c_varrak-anciano.jpg\" alt=\"Varrak anciano\" /></p>\n<h2 id=\"lugarteniente-temporal---orco\"><em>Lugarteniente Temporal -\nOrco</em></h2>\n<hr />\n<h2 id=\"información-general\">📊 <strong>INFORMACIÓN\nGENERAL</strong></h2>\n<ul>\n<li><strong>Raza:</strong> Orco</li>\n<li><strong>Tipo:</strong> Temporal (Poder de Amaunator)</li>\n<li><strong>Rol:</strong> Principal/Neutral</li>\n<li><strong>Región:</strong> El Abismo de los Posibles</li>\n<li><strong>Nivel Recomendado:</strong> 7-8</li>\n<li><strong>Bando:</strong> Neutral (decide en Fase 3, según cómo lo\ntrataron los PJ)</li>\n<li><strong>Estado de Acceso:</strong> 🔒 Bloqueada (requiere derrotar\n1+ lugarteniente)</li>\n</ul>\n<hr />\n<h2 id=\"descripción-narrativa\">🎭 <strong>DESCRIPCIÓN\nNARRATIVA</strong></h2>\n<h3 id=\"poder\"><strong>⚡ Poder</strong></h3>\n<p>Varrak ha vivido millones de vidas a la vez: anciano y niño\nsimultáneamente. Predice futuros porque los ha experimentado ya. Su\nexistencia fragmentada le permite acceder a conocimientos de todas sus\nvidas pasadas y ver múltiples futuros posibles simultáneamente. Como\noráculo, puede ver el futuro un turno antes, permitiéndole predecir los\nmovimientos de sus enemigos con precisión absoluta.</p>\n<h3 id=\"apariencia\"><strong>👁️ Apariencia</strong></h3>\n<p>Varrak es un orco muy anciano, con la sabiduría de mil vidas grabada\nen cada arruga de su rostro. Su cuerpo, aunque fragmentado\ntemporalmente, muestra la elegancia de un monje maestro que ha\nperfeccionado el arte del combate durante siglos. Viste túnicas simples\nde estilo oriental, con colores terrosos que se mezclan con el paisaje\nsalvaje de su región. Sus movimientos son fluidos y despreocupados, como\nlos de un mono borracho que baila entre los árboles - aparentemente\ncaóticos, pero perfectamente calculados. Sus ojos brillan con la luz de\nmúltiples futuros posibles, y cuando se mueve, parece que ya sabe\nexactamente dónde estará cada gota de lluvia antes de que caiga.</p>\n<h3 id=\"la-región-zona-salvaje-oriental\"><strong>🌏 La Región: Zona\nSalvaje Oriental</strong></h3>\n<p>Varrak habita en una región salvaje de estilo oriental, que evoca los\npaisajes de Tailandia y China. Montañas cubiertas de bambú, templos\nantiguos medio derruidos, cascadas que caen entre rocas musgosas, y\nsenderos serpenteantes que se pierden en la niebla matutina. Los\nanimales de la región son normales, salvo los osos: aquí habitan osos\ngigantes pero pandas, criaturas majestuosas de pelaje blanco y negro que\nse mueven con gracia entre los bosques de bambú. Estos pandas gigantes\nson guardianes naturales de la región, y Varrak ha aprendido a coexistir\ncon ellos en armonía.</p>\n<blockquote>\n<p>💀 <strong>Efecto al Morir:</strong> ver sección <a href=\"#-efecto-al-morir\">Efecto al Morir</a> más abajo.</p>\n</blockquote>\n<hr />\n<h2 id=\"statblock-completo\">⚔️ <strong>STATBLOCK COMPLETO</strong></h2>\n<h3 id=\"varrak-del-horizonte\"><strong>VARRAK DEL HORIZONTE</strong></h3>\n<p><em>Humanoide Mediano (Orco), Neutral</em></p>\n<blockquote>\n<p><strong>Nota del DM:</strong> Varrak es ante todo un\n<strong>aliado/neutral</strong> (ver “Potencial como Aliado” y\n“Sacrificio por el Reloj”). Lo más probable es que detenga el combate a\nlas pocas rondas y se alíe con los PJ, llegando incluso a sacrificarse\npor el Reloj. Este statblock existe <strong>solo por si se le combate de\nverdad</strong>; en la mayoría de las partidas no se usará hasta el\nfinal, si es que se usa.</p>\n</blockquote>\n<hr />\n<p><strong>Clase de Armadura:</strong> 17 (armadura de placas\nmágica)<br />\n<strong>Puntos de Golpe:</strong> 190 (20d8 + 100)<br />\n<strong>Velocidad:</strong> 30 pies</p>\n<hr />\n<table>\n<thead>\n<tr class=\"header\">\n<th>FUE</th>\n<th>DES</th>\n<th>CON</th>\n<th>INT</th>\n<th>SAB</th>\n<th>CAR</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td>16 (+3)</td>\n<td>14 (+2)</td>\n<td>20 (+5)</td>\n<td>18 (+4)</td>\n<td>18 (+4)</td>\n<td>14 (+2)</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Salvaciones:</strong> INT +8, SAB +8, CAR +6<br />\n<strong>Habilidades:</strong> Arcano +8, Historia +8, Percepción +12,\nPersuasión +6, Religión +8<br />\n<strong>Resistencias al Daño:</strong> Temporal, psíquico<br />\n<strong>Inmunidades a Condiciones:</strong> Asustado, efectos de\npredicción/divinación enemigos<br />\n<strong>Sentidos:</strong> Visión en la oscuridad 120 pies, Percepción\npasiva 22<br />\n<strong>Idiomas:</strong> Común, Orco, Abisal, Primordial, todos los\nidiomas (a través de vidas pasadas)<br />\n<strong>CR:</strong> 9 (5,000 XP)</p>\n<hr />\n<h3 id=\"rasgos-especiales\"><strong>Rasgos Especiales</strong></h3>\n<p><strong>Vidas Paralelas.</strong><br />\nVarrak ha vivido millones de vidas simultáneamente. Al inicio del\ncombate puede manifestar como máximo 1 copia temporal de sí mismo (clon)\nque actúa en su propia iniciativa. El clon tiene CA 15, 30 PV y usa los\nataques de Varrak con su mismo bono, pero no tiene acciones legendarias\nni resistencia legendaria. Si el clon es destruido, Varrak puede\nmanifestar otro al inicio de su siguiente turno (no más de 1 clon activo\na la vez).</p>\n<p><strong>Predicción del Futuro - Estilo Mono Borracho.</strong><br />\nVarrak puede ver el futuro un turno antes, prediciendo todos los\nmovimientos de sus enemigos. Sin embargo, su estilo de combate es único:\n<strong>siempre ataca último en la iniciativa</strong>, permitiendo que\ntodos actúen primero. Esto le da la ventaja de reaccionar a todo con\nacciones legendarias. Tiene ventaja en todas las tiradas de salvación y\nlos enemigos tienen desventaja en ataques contra él, ya que él ya sabe\nexactamente qué van a hacer antes de que lo hagan. Sus movimientos\nparecen descoordinados y caóticos (como un mono borracho), pero cada\nmovimiento está perfectamente calculado para contrarrestar los ataques\nenemigos.</p>\n<p><strong>Resistencia Legendaria (1/día).</strong><br />\nSi Varrak falla una tirada de salvación, puede elegir tener éxito en su\nlugar.</p>\n<p><strong>Experiencia Ancestral.</strong><br />\nVarrak puede acceder a conocimientos de vidas pasadas. Una vez por\ncombate, puede ganar +3 a todas las tiradas por 1 turno completo.</p>\n<p><strong>Punto Ciego: Edward Teach.</strong><br />\nVarrak NO puede predecir las acciones de Edward Teach debido al poder\nrobado de Thyra. No tiene ventaja contra Teach y no puede usar\npredicción contra él.</p>\n<p><strong>Fragmentación Temporal.</strong><br />\nVarrak existe en múltiples momentos temporales simultáneamente. Cuando\nrecibe daño, tira 1d6. Con un 5-6, el daño afecta a un “clon temporal” y\nse reduce a la mitad.</p>\n<hr />\n<h3 id=\"acciones\"><strong>Acciones</strong></h3>\n<p><strong>Multiataque.</strong><br />\nVarrak realiza tres ataques: dos con <em>Bastón del Oráculo</em> y uno\ncon <em>Vida Pasada</em>.</p>\n<p><strong>Bastón del Oráculo.</strong> <em>Ataque con Arma Cuerpo a\nCuerpo:</em> +9 al ataque, alcance 5 pies, un objetivo.<br />\n<em>Impacto:</em> 7 (1d8 + 3) de daño contundente más 7 (2d6) de daño\ntemporal.<br />\nLa criatura objetivo debe hacer salvación de Sabiduría CD 16 o ve\nvisiones de futuros posibles que la confunden (desventaja en ataques por\n1 turno).</p>\n<p><strong>Vida Pasada.</strong> <em>Ataque con Conjuro:</em> +9 al\nataque, alcance 60 pies, un objetivo.<br />\nVarrak invoca una versión de sí mismo de una vida anterior para\natacar.<br />\n<em>Impacto:</em> 10 (3d6) de daño temporal. Varrak puede elegir que\neste ataque tenga ventaja.</p>\n<p><strong>Profecía de Combate (1/día).</strong><br />\nComo acción, Varrak ve todos los movimientos de los enemigos en el\npróximo turno. Hasta el inicio de su siguiente turno, tiene ventaja en\ntodas sus tiradas y los enemigos tienen desventaja en los ataques contra\nél.</p>\n<p><strong>Convergencia de Vidas (1/día).</strong><br />\n<strong>Último Recurso:</strong> Varrak sacrifica todos sus clones\nexistentes. Suma los HP actuales de todos los clones y se cura esa\ncantidad. <strong>Efecto Permanente:</strong> No puede crear más clones\ndurante el resto del combate.</p>\n<hr />\n<h3 id=\"acciones-legendarias\"><strong>Acciones Legendarias</strong></h3>\n<p>Varrak puede realizar <strong>2 acciones legendarias</strong> por\nronda, eligiendo entre las opciones de abajo. Solo puede usar una opción\nde acción legendaria a la vez, y únicamente al final del turno de otra\ncriatura. Varrak recupera todas sus acciones legendarias gastadas al\ninicio de su turno.</p>\n<table>\n<colgroup>\n<col style=\"width:16%\"></col>\n<col style=\"width:6%\"></col>\n<col style=\"width:77%\"></col>\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th><strong>Acción Legendaria</strong></th>\n<th><strong>Costo</strong></th>\n<th><strong>Descripción</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td><strong>Vida Pasada</strong></td>\n<td>1 Acción</td>\n<td>Varrak realiza un ataque de <em>Vida Pasada</em> contra un objetivo\na su alcance.</td>\n</tr>\n<tr class=\"even\">\n<td><strong>Predicción Simple</strong></td>\n<td>1 Acción</td>\n<td>Varrak ve el próximo movimiento de un enemigo: hasta el inicio de su\nsiguiente turno, ese enemigo tiene desventaja en su próximo ataque\ncontra Varrak.</td>\n</tr>\n<tr class=\"odd\">\n<td><strong>Profecía de Combate</strong></td>\n<td>2 Acciones</td>\n<td>Hasta el inicio de su siguiente turno, Varrak tiene ventaja en sus\ntiradas de salvación y los enemigos tienen desventaja en los ataques\ncontra él.</td>\n</tr>\n<tr class=\"even\">\n<td><strong>Realidad Fragmentada</strong></td>\n<td>2 Acciones</td>\n<td>Varrak crea un campo de realidades superpuestas en 15 pies a su\nalrededor; cada enemigo en el área debe superar una salvación de\nSabiduría CD 16 o quedar confundido hasta el final de su siguiente turno\n(desventaja en su próximo ataque).</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2 id=\"tácticas-de-combate\">🎯 <strong>TÁCTICAS DE\nCOMBATE</strong></h2>\n<h3 id=\"fase-1-preparación-round-1\"><strong>Fase 1: Preparación (Round\n1)</strong></h3>\n<ol type=\"1\">\n<li>Activa <em>Vidas Paralelas</em> para manifestar su clon (máx.\n1)</li>\n<li>Usa <em>Profecía de Combate</em> para anticipar el próximo\nturno</li>\n<li>Posiciona el clon estratégicamente</li>\n</ol>\n<h3 id=\"fase-2-control-rounds-2-5\"><strong>Fase 2: Control (Rounds\n2-5)</strong></h3>\n<ul>\n<li>El clon actúa en su propia iniciativa, añadiendo presión</li>\n<li>Usa la acción legendaria <em>Predicción Simple</em> para imponer\ndesventaja a los atacantes</li>\n<li>Mantiene distancia con <em>Vida Pasada</em> mientras el clon\npresiona en cuerpo a cuerpo</li>\n</ul>\n<h3 id=\"fase-3-desesperación-hp-95\"><strong>Fase 3: Desesperación (HP\n&lt; 95)</strong></h3>\n<ul>\n<li>Activa <em>Convergencia de Vidas</em> si está gravemente herido para\nrecuperar PV del clon</li>\n<li>Usa <em>Experiencia Ancestral</em> para ganar +3 a todas las\ntiradas</li>\n<li>Prioriza supervivencia</li>\n</ul>\n<h3 id=\"estrategias-especiales\"><strong>Estrategias\nEspeciales:</strong></h3>\n<ul>\n<li><strong>Contra Múltiples Enemigos:</strong> Usa clones para dividir\nla atención</li>\n<li><strong>Contra Ataques Potentes:</strong> Usa <em>Predicción\nSimple</em> para contrarrestar</li>\n<li><strong>Contra Edward Teach:</strong> NO puede predecir sus acciones\n- debe usar clones para abrumar</li>\n</ul>\n<hr />\n<h2 id=\"efecto-al-morir\">💀 <strong>EFECTO AL MORIR</strong></h2>\n<p>Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente),\n<strong>El Abismo de los Posibles se restaura a la normalidad</strong>.\nTodas las distorsiones temporales causadas por su poder desaparecen\ngradualmente en un proceso que dura 1d4 horas:</p>\n<ul>\n<li><strong>Las fragmentaciones de realidad se estabilizan</strong> - No\nmás realidades alternativas superpuestas</li>\n<li><strong>Las visiones de futuros múltiples cesan</strong> - El tiempo\nvuelve a tener un solo flujo</li>\n<li><strong>La región recupera su estado natural</strong> - Sin las\nanomalías temporales que Varrak había creado</li>\n<li><strong>Los habitantes fragmentados se estabilizan</strong> -\nCualquier fragmentación temporal causada por Varrak se resuelve</li>\n</ul>\n<p><strong>Nota:</strong> Este efecto de restauración aplica también\ncuando los lugartenientes se matan entre sí, ayudando a estabilizar\nChronosia gradualmente.</p>\n<hr />\n<h2 id=\"potencial-como-aliado\">🤝 <strong>POTENCIAL COMO\nALIADO</strong></h2>\n<p>Varrak es neutral y puede aliarse con los PJ si: - Los PJ demuestran\nque pueden cambiar el futuro - Los PJ le ofrecen una visión del futuro\nmejor que la de Aethernus - Los PJ le ayudan a entender su propia\nnaturaleza fragmentada</p>\n<h3 id=\"el-encuentro-con-los-pj---la-revelación-del-oráculo\"><strong>🎭\nEl Encuentro con los PJ - La Revelación del Oráculo</strong></h3>\n<p>Cuando los PJ llegan a la región de Varrak, inicialmente pueden\nencontrarse en combate con él. Sin embargo, <strong>a las pocas rondas\nde combate, Varrak detiene la batalla</strong> y explica su verdadera\nnaturaleza:</p>\n<p><strong>Diálogo Clave:</strong></p>\n<pre><code>VARRAK (deteniendo el combate con un gesto):\n\"Esperad. He visto este momento en mil futuros diferentes. Vosotros... \nvosotros sois los que pueden cambiar lo que está por venir.\"\n\n[Varrak se sienta, ofreciendo té a los PJ]\n\n\"Yo soy Varrak, el Oráculo. Hace tiempo que dejé de seguir a Aethernus. \nLo que está por venir es muy peligroso, más peligroso de lo que cualquiera \nde vosotros puede imaginar. He visto el futuro, y en la mayoría de los futuros... \ntodos perdemos. Pero hay un futuro, uno entre millones, donde vosotros triunfáis. \nY ese futuro... ese futuro requiere que yo os ayude.\"</code></pre>\n<p><strong>Después del Encuentro:</strong> Antes de que los PJ se vayan,\nVarrak toma un <strong>cristal raro</strong> (un fragmento de tiempo\npuro, brillante como un diamante pero con la consistencia del agua). Lo\nsostiene entre sus manos, y su poder temporal se imbuye en el cristal,\nhaciendo que brille con una luz dorada que pulsa como un corazón.</p>\n<p><strong>Varrak entrega el cristal a los PJ:</strong></p>\n<pre><code>VARRAK:\n\"Tomad este cristal. No es para vosotros. Dáselo a Din Goldgear. \nÉl sabrá qué hacer con él cuando llegue el momento. Es... una advertencia. \nY una oportunidad. El futuro depende de que este mensaje llegue a tiempo.\"</code></pre>\n<p><strong>Revelación (sandbox, una vez aliado):</strong> Varrak puede\nmostrar a los PJ una entrada secreta a la Ciudad Subterránea de\nVeldrisza si se convierte en aliado.</p>\n<h3 id=\"el-subordinado-el-monje-manco\"><strong>👥 El Subordinado: El\nMonje Manco</strong></h3>\n<p>Varrak tiene un subordinado leal, un monje que le falta un brazo.\nEste monje es un maestro de la espada, y su técnica es única: cuando\nataca con el brazo que le falta, <strong>en el instante del impacto se\ncrea un brazo etéreo de energía temporal</strong> que golpea con la\nfuerza de un brazo físico. Este brazo temporal desaparece inmediatamente\ndespués del impacto, pero el daño ya está hecho.</p>\n<p><strong>Estadísticas del Monje Manco:</strong> -\n<strong>Nivel:</strong> 8-10 (Monje) - <strong>CA:</strong> 17 (Armadura\nsin armadura + Destreza) - <strong>PV:</strong> 85-110 -\n<strong>Habilidad Especial:</strong> <strong>Brazo Temporal del\nImpacto</strong> - Cuando ataca con el brazo faltante, crea un brazo\netéreo que causa daño adicional (1d8 + modificador de Destreza) de daño\ntemporal. - <strong>Lealtad:</strong> Absoluta a Varrak. Está dispuesto\na morir por su maestro.</p>\n<p><strong>Función Narrativa:</strong> El monje manco es la mano derecha\nde Varrak, y su presencia añade profundidad emocional a la historia de\nVarrak. Cuando Varrak se sacrifica (ver sección de Sacrificio), el monje\nmanco será quien ejecute el ritual final, metiendo su mano mágica en el\npecho de Varrak para extraer su esencia temporal.</p>\n<hr />\n<h2 id=\"sacrificio-por-el-reloj\">⚠️ <strong>SACRIFICIO POR EL\nRELOJ</strong></h2>\n<p><strong>⚠️ INFORMACIÓN CRÍTICA PARA EL DM:</strong></p>\n<blockquote>\n<p><strong>Gatillo actualizado.</strong> El sacrificio ya no se dispara\npor “desbalance crítico” (sistema retirado), sino por el <strong>Reloj\ndel Ritual en zona crítica (≥6/8)</strong> más una <strong>relación\nconstruida</strong> con Varrak a lo largo del sandbox. Su arco completo\nen 4 beats está en <a href=\"../../01_Como_Dirigir.md\">⏳ Motor de\nCampaña → El arco de Varrak</a>.</p>\n</blockquote>\n<h3 id=\"la-decisión-de-varrak\"><strong>La Decisión de\nVarrak:</strong></h3>\n<p>Varrak, habiendo visto millones de futuros posibles, comprende que\ncuando el Reloj llega a este punto <strong>solo hay un futuro donde los\nPJ ganan: aquel en el que él se aparta</strong>. Su muerte libera su\npoder temporal y le compra tiempo al mundo.</p>\n<p><strong>Condiciones para el Sacrificio:</strong> - <strong>Reloj\ncrítico:</strong> El Reloj del Ritual está en <strong>≥6/8</strong> -\n<strong>Varrak está vivo y es aliado:</strong> se ha ganado su confianza\ndurante el sandbox (beats 1-3 de su arco); si lo traicionaron o\ndestruyeron, el momento cambia de tono o no ocurre -\n<strong>Momento:</strong> suele coincidir con el funeral de Marcus tras\n“La Traición de Serapis”</p>\n<h3 id=\"cómo-ocurre\"><strong>Cómo Ocurre:</strong></h3>\n<ol type=\"1\">\n<li><strong>Varrak ve el final:</strong> sus visiones le muestran que el\nReloj ya no se puede revertir de otro modo</li>\n<li><strong>Varrak contacta a los PJ:</strong> si es aliado, les explica\nsu decisión</li>\n<li><strong>El sacrificio:</strong> Varrak se quita la vida\nvoluntariamente mediante <strong>harakiri ritual</strong> (seppuku)</li>\n<li><strong>Efecto inmediato:</strong>\n<ul>\n<li><strong>El Reloj retrocede 1 segmento</strong> (su muerte estabiliza\nel flujo divino)</li>\n<li><strong>Región se restaura:</strong> El Abismo de los Posibles\nvuelve a la normalidad</li>\n<li><strong>Poder temporal liberado:</strong> el monje manco lo canaliza\nal artilugio para revivir a Marcus</li>\n</ul></li>\n</ol>\n<h3 id=\"el-ritual-del-harakiri---el-sacrificio-final\"><strong>🎭 El\nRitual del Harakiri - El Sacrificio Final</strong></h3>\n<p><strong>El Momento del Sacrificio:</strong> Varrak aparece en el\nfuneral del líder de La Resistencia (ver trama de traición de Serapis).\nSe acerca a Din Goldgear y a los presentes, felicitando a Din por su\nplan y reconociendo la valentía de todos.</p>\n<p><strong>Diálogo Final:</strong></p>\n<pre><code>VARRAK:\n\"Habéis hecho bien, Din Goldgear. Vuestro plan era arriesgado, pero necesario. \nLa valentía que habéis mostrado... es la clase de valentía que puede cambiar el futuro.\"\n\n[Varrak se arrodilla, preparándose para el ritual]\n\n\"He visto millones de futuros, y en todos donde el Reloj llega a este punto... \nChronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde estabilizo \nel flujo del Reloj con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad \nreal de detener a Aethernus.\"\n\n[Varrak saca su daga ceremonial]\n\n\"Permitidme daros toda la información que necesitáis. Y luego... luego debo hacer \nlo que debe hacerse.\"</code></pre>\n<p><strong>El Harakiri:</strong> Varrak realiza el ritual de harakiri\n(seppuku), pero <strong>no sangra</strong>. En su lugar, de su herida\nemana <strong>luz pura de energía temporal</strong>, brillando como un\nsol en miniatura. Su cuerpo no se descompone, sino que comienza a\nbrillar con la intensidad de mil estrellas.</p>\n<p><strong>El Ritual del Monje Manco:</strong> Inmediatamente después,\nel monje manco (subordinado de Varrak) se acerca. Sin vacilar,\n<strong>mete su mano mágica (el brazo que le falta) directamente en el\npecho de Varrak</strong>, atravesando la luz temporal. De dentro del\npecho de Varrak, el monje extrae algo <strong>etéreo y\nbrillante</strong> - la esencia temporal pura de Varrak.</p>\n<p><strong>Aplicación del Poder:</strong> El monje manco toma el\nartilugio del lugarteniente (Serapis) que había sido agotado durante la\nbatalla final, y <strong>aplica la esencia etérea sobre el\nartilugio</strong>. El artilugio se recarga completamente, recuperando\ntodas sus cargas y brillando con la misma luz temporal que emanaba de\nVarrak.</p>\n<p><strong>La Muerte de Varrak:</strong> Varrak muere, pero su\nsacrificio no es en vano. Su poder temporal se ha transferido al\nartilugio, permitiendo que Din Goldgear lo use para: 1. <strong>Revivir\na su compañero</strong> (el líder de La Resistencia que fue ejecutado)\n2. <strong>Restaurar los edificios</strong> afectados por la incursión\nde los Bregan Daerthe 3. <strong>Devolver el artilugio al grupo</strong>\ncon 1d4+2 cargas restantes, capaz de curar completamente a un aliado</p>\n<h3 id=\"momento-narrativo\"><strong>Momento Narrativo:</strong></h3>\n<p>Si Varrak es aliado de los PJ, este será un momento emocionalmente\ndevastador pero necesario. Varrak explicará que ha visto este futuro y\nque es la única forma de evitar la catástrofe cósmica.</p>\n<p><strong>Diálogo Sugerido:</strong></p>\n<pre><code>VARRAK:\n\"He visto millones de futuros, y en todos donde el Reloj llega a este punto... \nChronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde estabilizo \nel flujo del Reloj con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad \nreal de detener a Aethernus.\"\n\n[Si los PJ intentan detenerlo]\n\nVARRAK:\n\"No podéis detenerme. He visto este momento miles de veces. Si no lo hago ahora, \ntodos moriremos. Al menos así... al menos así vosotros tenéis una oportunidad.\"</code></pre>\n<h3 id=\"consecuencias\"><strong>Consecuencias:</strong></h3>\n<ul>\n<li><strong>✅ Reloj retrocedido:</strong> El Reloj del Ritual baja 1\nsegmento</li>\n<li><strong>✅ Región restaurada:</strong> El Abismo de los Posibles\nvuelve a la normalidad</li>\n<li><strong>⚠️ Varrak muere:</strong> Los PJ pierden un aliado\npoderoso</li>\n<li><strong>⚠️ Impacto emocional:</strong> Momento dramático y\ntrágico</li>\n<li><strong>✅ Estabilización:</strong> Chronosia se estabiliza\nparcialmente</li>\n</ul>\n<h3 id=\"notas-para-el-dm\"><strong>Notas para el DM:</strong></h3>\n<ul>\n<li><strong>Timing:</strong> Cuando el Reloj del Ritual entra en zona\ncrítica (≥6/8), normalmente en Fase 3</li>\n<li><strong>Prevención:</strong> Si los PJ frenan el Reloj a tiempo\n(matando críticos, sabotaje), el sacrificio puede no ser necesario</li>\n<li><strong>Relación:</strong> El peso emocional depende de los beats\n1-3 de su arco; sin vínculo previo, no aterriza</li>\n<li><strong>Impacto narrativo:</strong> Este es un momento clave que\nmuestra el costo real de la guerra y lo que está en juego con el\nReloj</li>\n</ul>\n<hr />\n<h2 id=\"ganchos-narrativos\">🎣 <strong>GANCHOS NARRATIVOS</strong></h2>\n<h3 id=\"gancho-principal-aliado-potencial\"><strong>🎯 Gancho Principal:\nAliado Potencial</strong></h3>\n<p>Varrak es <strong>neutral</strong> y puede aliarse con los PJ si: -\nLos PJ demuestran que pueden cambiar el futuro - Los PJ le ofrecen una\nvisión del futuro mejor que la de Aethernus - Los PJ le ayudan a\nentender su propia naturaleza fragmentada</p>\n<h3 id=\"encuentro-especial\"><strong>🎭 Encuentro Especial:</strong></h3>\n<p><strong>Detiene el combate</strong> después de unas rondas y explica\nsu verdadera naturaleza: - Ve múltiples futuros simultáneamente - Ha\nvisto que los PJ pueden cambiar el destino - Ofrece ayuda a cambio de\nesperanza</p>\n<h3 id=\"recompensa-única\"><strong>🎁 Recompensa Única:</strong></h3>\n<ul>\n<li><strong>Cristal Profético:</strong> Entrega un cristal raro para Din\nGoldgear (advertencia y oportunidad)</li>\n<li><strong>Revelación (sandbox, una vez aliado):</strong> Puede mostrar\nentrada secreta a la Ciudad Subterránea de Veldrisza si es aliado</li>\n</ul>\n<h3 id=\"decisión-crítica-fase-3-reloj-en-zona-crítica\"><strong>⚔️\nDecisión Crítica (Fase 3, Reloj en zona crítica):</strong></h3>\n<p>Varrak debe elegir bando. Los PJ determinan el resultado: -\n<strong>Aliado Reticente:</strong> Si le dan esperanza → Se une a los PJ\n- <strong>Servidor Fiel:</strong> Si lo traicionan/desilusionan → Se une\na Vorthak - <strong>Mártir Quebrado:</strong> Si lo destruyen → Se\nsacrifica, los PJ reciben poder épico</p>\n<h3 id=\"sacrificio-heroico\"><strong>💀 Sacrificio Heroico:</strong></h3>\n<p>Si el <strong>Reloj del Ritual entra en zona crítica (≥6/8)</strong>\ny Varrak es aliado, puede <strong>sacrificarse voluntariamente</strong>\npara retroceder el Reloj y darles a los PJ una última oportunidad. Ver\nsu arco completo en el <a href=\"../../01_Como_Dirigir.md\">Motor de\nCampaña</a>.</p>\n<hr />\n<p><em>Varrak representa el poder de ver todas las posibilidades,\nexistiendo simultáneamente en múltiples realidades. Su combate es una\nbatalla contra la inevitabilidad del destino.</em> 🔮</p>",
+        "public": ""
+      },
+      "alignment": "",
+      "ideal": "",
+      "bond": "",
+      "flaw": "",
+      "race": null,
+      "type": {
+        "value": "humanoid"
+      },
+      "habitat": {
+        "value": [],
+        "custom": ""
+      },
+      "treasure": {
+        "value": []
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ani": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "arc": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ath": {
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "dec": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "his": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ins": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "itm": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "inv": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "med": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "nat": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prc": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prf": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "per": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "rel": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "slt": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ste": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "sur": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      }
+    },
+    "tools": {},
+    "spells": {
+      "spell1": {
+        "value": 0
+      },
+      "spell2": {
+        "value": 0
+      },
+      "spell3": {
+        "value": 0
+      },
+      "spell4": {
+        "value": 0
+      },
+      "spell5": {
+        "value": 0
+      },
+      "spell6": {
+        "value": 0
+      },
+      "spell7": {
+        "value": 0
+      },
+      "spell8": {
+        "value": 0
+      },
+      "spell9": {
+        "value": 0
+      },
+      "pact": {
+        "value": 0
+      }
+    },
+    "resources": {
+      "legact": {
+        "max": 0,
+        "spent": 0
+      },
+      "legres": {
+        "max": 0,
+        "spent": 0
+      },
+      "lair": {
+        "value": false,
+        "initiative": null,
+        "inside": false
+      }
+    },
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dr": {
+        "value": [
+          "psychic"
+        ],
+        "custom": "",
+        "bypasses": []
+      },
+      "dv": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dm": {
+        "amount": {},
+        "bypasses": []
+      },
+      "ci": {
+        "value": [
+          "frightened"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [],
+        "custom": "Común, Orco, Abisal, Primordial, todos los idiomas (a través de vidas pasadas)",
+        "communication": {}
+      },
+      "important": false
+    }
+  },
+  "prototypeToken": {
+    "name": "Varrak del Horizonte (El Oráculo)",
+    "displayBars": 40,
+    "displayName": 40,
+    "disposition": -1,
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "texture": {
+      "src": "modules/chronosia-es/assets/bestiario/02_varrak-el-oraculo.jpg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_id": "7P26hqwSGLou47a0",
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c2837a59ce4b74d0b3a58fee4f3a85898dddeb7e"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782852759898,
+    "modifiedTime": 1782854397446,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!actors!7P26hqwSGLou47a0"
+}

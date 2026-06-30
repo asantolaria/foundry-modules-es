@@ -1,0 +1,27 @@
+{
+  "name": "👥 NPCs y trama",
+  "type": "JournalEntry",
+  "_id": "cZauQsUhlI4RfkV8",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "7ff9bd2ce3f1454b2f61cde6750cedbc8552dcf9"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078345,
+    "modifiedTime": 1782851078345,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!cZauQsUhlI4RfkV8"
+}

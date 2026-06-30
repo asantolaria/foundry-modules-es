@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — Las Llanuras de la Compresión",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — Las Llanuras de la Compresión",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-las-llanuras-de-la-compresión\">🐉 Bestiario\nRegional — Las Llanuras de la Compresión</h1>\n<figure>\n<img src=\"../../assets/mapas/06_llanuras-de-la-compresion.png\" alt=\"Mapa de Las Llanuras de la Compresión\" />\n<figcaption aria-hidden=\"true\">Mapa de Las Llanuras de la\nCompresión</figcaption>\n</figure>\n<h2 id=\"lugarteniente-dimensionalis-la-fracturada-tipo-dimensional-nivel-pj-7-8\">Lugarteniente:\nDimensionalis la Fracturada · Tipo: Dimensional · Nivel PJ: 7-8</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>En las Llanuras de la Compresión las distancias mienten. Un paso\npuede cubrir una legua o devolverte al punto de partida; los horizontes\nse pliegan como tela arrugada y los caminos se anudan sobre sí mismos.\nDimensionalis no gobierna el espacio: lo ha herido, y por la fractura se\nfiltra el calor seco de un Avernus lejano que reclama el desgarro como\npuerta.</p>\n<h2 id=\"villano-menor-karkesh-el-cartógrafo-de-cenizas\">😈 Villano Menor\n— Karkesh el Cartógrafo de Cenizas</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/06_karkesh-cartografo-de-cenizas.jpg\" alt=\"Karkesh el Cartógrafo de Cenizas\" />\n<figcaption aria-hidden=\"true\">Karkesh el Cartógrafo de\nCenizas</figcaption>\n</figure>\n<p>Cultista infernal que sirvió de zapador a Dimensionalis: traza “mapas\nvivos” en pergaminos de piel humana que reescriben la geometría local.\nNo es la lugarteniente, sino su agrimensor: mide la fractura y la\nensancha, abriendo bolsas de Avernus donde antes había llanura. Gancho:\nquien posea su atlas comprimido puede predecir (o provocar) los pliegues\ndel terreno.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Karkesh el\nCartógrafo de Cenizas</em></strong> — <em>humanoide mediano (tiefling\npactado), legal malvado</em> · <strong>CR</strong> 6 (2300 XP) -\n<strong>CA</strong> 16 (armadura de tinta endurecida) ·\n<strong>PG</strong> 95 (13d8+39) · <strong>Vel.</strong> 30 pies,\nteleportación de paso (ver Rasgos) - <strong>INT 18 (CD de conjuro 15,\n+7 al ataque mágico)</strong> · <strong>Resistencia</strong> al fuego ·\n<strong>Sentidos</strong> visión en la oscuridad 60 pies, percepción\npasiva 13 - <strong>Rasgos:</strong> - <em>Geometría Reescrita:</em>\ncomo reacción al ser objetivo de un ataque a distancia, Karkesh\nintercambia su posición con la de un aliado o criatura a 30 pies; el\natacante hace tirada de nuevo contra el sustituto. - <em>Atlas\nComprimido:</em> mientras sostiene su mapa, todo terreno difícil a 60\npies se vuelve normal para él y enemigo (las distancias se pliegan a su\nvoluntad). - <strong>Acciones:</strong> - <em>Multiataque:</em> dos\n<em>Punzones de Tinta</em>. - <em>Punzón de Tinta:</em> ataque mágico\nc. distancia, +7, alcance 120 pies, 14 (3d6+4) daño perforante + 7 (2d6)\nde fuego. - <em>Doblez Imposible (recarga 5-6):</em> pliega un corredor\nde 60×10 pies; las criaturas en él hacen salvación DES CD 15 o son\narrojadas al otro extremo recibiendo 21 (6d6) daño contundente por la\ncompresión. - <strong>Tácticas / Al ser derrotado:</strong> Lucha desde\nlejos, intercambiando posiciones para no ser alcanzado nunca. Al morir,\nsu atlas se desenrolla y la región a su alrededor se “endereza” por un\ninstante, revelando el camino real a la fractura.</p>\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><p><strong><em>Mastín Comprimido</em></strong> — <em>bestia\nmonstruosa pequeña, sin alineamiento</em> · <strong>CR</strong> 5 (1800\nXP). CA 15 · PG 102 (12d6+60) · Vel. 50 pies. Una mole del tamaño de un\ntoro plegada en un cuerpo del tamaño de un perro: densa, imposible.\n<em>Mordisco</em> +8, 22 (3d10+6) perforante; <em>Masa Imposible:</em>\ncualquier criatura que termine su turno adyacente sufre 7 (2d6)\ncontundente por la gravedad distorsionada que la rodea. Resistencia a\ndaño contundente, cortante y perforante de armas no mágicas.</p></li>\n<li><p><strong><em>Acechante del Pliegue</em></strong> — <em>aberración\nmediana, neutral malvado</em> · <strong>CR</strong> 4 (1100 XP). CA 16 ·\nPG 65 (10d8+20) · Vel. 30 pies. Depredador que existe “entre” los\ndobleces; aparece donde no debería. <em>Garra</em> +6, 13 (2d8+4)\ncortante. <em>Aparición Plegada (recarga 4-6):</em> se teleporta hasta\n60 pies a un espacio visible y ataca; el objetivo tiene desventaja en la\nsalvación contra ser empujado. Inmune a estar flanqueado (siempre puede\ndeslizarse al pliegue contiguo).</p></li>\n<li><p><strong><em>Eco Cartográfico</em></strong> — <em>no-muerto\npequeño, caótico neutral</em> · <strong>CR</strong> 3 (700 XP). CA 13 ·\nPG 44 (8d6+16) · Vel. vuela 30 pies (planea sobre el terreno plegado).\nJirones de mapas viejos animados por la fractura. <em>Corte de\nPergamino</em> +5, 10 (2d6+3) cortante; <em>Desorientar:</em> CON CD 13\no el objetivo queda confundido sobre direcciones (desventaja en\nnavegación y en salvaciones contra teleportación forzada) 1 minuto.\nAtacan en bandadas susurrando nombres de lugares que ya no\nexisten.</p></li>\n</ul>\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><strong>Lirian Vael</strong> — <em>humana, exploradora veterana\n(aliada).</em> Práctica, lacónica, marcada por una cicatriz que “no\nestaba ahí ayer”. Conoce rutas estables entre pliegues; ofrece guiar al\ngrupo a cambio de recuperar a su compañero, perdido dentro de un\ndoblez.</li>\n<li><strong>Old Tessil</strong> — <em>gnomo, cartógrafo enloquecido\n(neutral).</em> Ríe mientras dibuja mapas que se contradicen entre sí.\nSus delirios contienen verdades: uno de sus mapas marca la fractura\nreal. Hay que separar la pista del disparate.</li>\n<li><strong>Hossk</strong> — <em>medio-orco, comerciante de baratijas\ndimensionales (neutral).</em> Vende brújulas, cuerdas-ancla y “piedras\nde retorno” que a veces funcionan. Cínico pero honesto sobre los\nriesgos; dador de rumores sobre Karkesh y su atlas.</li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li>Una caravana entera “llegó” antes de salir; sus integrantes\nrecuerdan dos versiones del viaje. Hay que hallar dónde se plegó el\ncamino antes de que el bucle los borre.</li>\n<li>El atlas de Karkesh marca una “puerta caliente”: un pliegue donde la\nllanura roza Avernus y algo del otro lado empuja para entrar.</li>\n<li>Old Tessil suplica que destruyan un mapa concreto: dice que cada vez\nque alguien lo lee, una legua de las Llanuras desaparece para\nsiempre.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "FKO9TEneH2ZF5KTk",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!r9TwMw6YzHUDZjMV.FKO9TEneH2ZF5KTk"
+    }
+  ],
+  "_id": "r9TwMw6YzHUDZjMV",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "da6b0790d5b5ecb8b51681a71b49b14672b5f201"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078674,
+    "modifiedTime": 1782851078674,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!r9TwMw6YzHUDZjMV"
+}

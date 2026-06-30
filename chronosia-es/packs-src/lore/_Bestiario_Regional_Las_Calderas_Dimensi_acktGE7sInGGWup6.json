@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — Las Calderas Dimensionales",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — Las Calderas Dimensionales",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-las-calderas-dimensionales\">🐉 Bestiario\nRegional — Las Calderas Dimensionales</h1>\n<figure>\n<img src=\"../../assets/mapas/10_calderas-dimensionales.png\" alt=\"Mapa de Las Calderas Dimensionales\" />\n<figcaption aria-hidden=\"true\">Mapa de Las Calderas\nDimensionales</figcaption>\n</figure>\n<h2 id=\"lugarteniente-ignis-el-devorador-espacial-tipo-dimensional-nivel-pj-9-10\">Lugarteniente:\nIgnis el Devorador Espacial · Tipo: Dimensional · Nivel PJ: 9-10</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>Las Calderas son un anfiteatro de cráteres volcánicos donde la roca\nnunca se enfría, porque debajo no hay magma corriente: hay <strong>el\nPlano Elemental del Fuego respirando a través de bocas\ndimensionales</strong>. El aire ondula, las distancias mienten, y por\nlas grietas mayores se filtra el <strong>sustrato infernal compartido\ncon Avernus</strong> —un olor a azufre que no es de este plano. Ignis,\ndragón rojo y Devorador Espacial, no guarda un tesoro: guarda <strong>la\npuerta</strong>, y cada cría y cada llama que cruza es un pedazo más de\nfuego ajeno colonizando Chronosia.</p>\n<hr />\n<h2 id=\"villano-menor-capataz-drazhûl-el-quemador-de-fronteras\">😈\nVillano Menor — Capataz Drazhûl, el Quemador de Fronteras</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/10_capataz-drazhul.jpg\" alt=\"Capataz Drazhûl, el Quemador de Fronteras\" />\n<figcaption aria-hidden=\"true\">Capataz Drazhûl, el Quemador de\nFronteras</figcaption>\n</figure>\n<p>Drazhûl es un cultista del fuego ascendido a <strong>capataz de las\ncalderas</strong>: dirige a los esclavos y a las crías de dragón que\nmantienen abiertas las bocas planares, alimentándolas con sacrificios.\nNo es Ignis —es su mayordomo del horno, un fanático cuya piel ya está\nmedio carbonizada por estar demasiado cerca de la puerta. Gancho: para\ncerrar una caldera mayor hay que apagar el ritual perpetuo que Drazhûl\nsupervisa desde el borde del cráter.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Capataz\nDrazhûl</em></strong> — <em>humanoide mediano (cultista transmutado),\nlegal malvado</em> · <strong>CR</strong> 7 (2900 XP) -\n<strong>CA</strong> 17 (escamas de ceniza) · <strong>PG</strong> 138\n(16d8+64) · <strong>Vel.</strong> 30 pies, escalada 20 pies -\n<strong>CON 18 (+4), CAR 16 (+3), FUE 16 (+3)</strong> · <strong>CD de\nconjuro 15</strong> (CAR) · <strong>Sentidos:</strong> visión en la\noscuridad 60 pies; <strong>Inmune</strong> a fuego;\n<strong>Vulnerable</strong> a frío - <strong>Rasgos:</strong>\n<em>Comunión con la Puerta</em> — mientras esté a 30 pies de una boca\nplanar de fuego, recupera 10 PG al inicio de cada turno. <em>Calor\nIrradiado</em> — toda criatura que termine su turno a 5 pies de él sufre\n<strong>1d6 fuego</strong>. - <strong>Acciones:</strong>\n<em>Multiataque</em> — un <em>Látigo de Escoria</em> y un <em>Verbo\nÍgneo</em>. <strong><em>Látigo de Escoria:</em></strong> ataque cuerpo a\ncuerpo +7, alcance 15 pies, <strong>2d8+3 cortante + 2d6 fuego</strong>\ny atrae al objetivo 10 pies hacia él. <strong><em>Verbo\nÍgneo:</em></strong> ataque de conjuro +6, alcance 60 pies, <strong>4d6\nfuego</strong>, CD 15 DES para mitad. <em>Acción temática —\n<strong>Avivar la Puerta</strong></em>: una boca planar a la vista\nescupe fuego (cono 20 pies, CD 15 DES, <strong>6d6 fuego</strong>) y\nDrazhûl gana resistencia a todo daño hasta su próximo turno. -\n<strong>Tácticas / Al ser derrotado:</strong> se queda junto al cráter\npara curarse; usa el látigo para arrastrar PJ al borde de la caldera. Al\nmorir, su cuerpo se desploma dentro de la boca planar y el ritual\n<strong>se desestabiliza</strong>: el portal queda volátil 1d4 rondas\n(oportunidad de sellarlo… o de que cruce algo peor).</p>\n<hr />\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><p><strong><em>Cría de Dragón Rojo de Caldera</em></strong> —\n<em>dragón mediano, caótico malvado</em> · <strong>CR</strong> 5 (1800\nXP). CA 17 · PG 95 (10d10+40) · Vel. 30 pies, vuelo 60 pies. Inmune a\nfuego. <em>Nacida en la Puerta:</em> puede pasar por una boca planar\ncomo acción adicional, reapareciendo en otra de la región.\n<strong>Multiataque:</strong> dos mordiscos/garras, +7,\n<strong>2d6+4</strong> (mordisco +1d4 fuego). <strong><em>Aliento Ígneo\n(recarga 5-6):</em></strong> cono 15 pies, <strong>8d6 fuego</strong>,\nCD 14 DES mitad. Camadas de Ignis que patrullan los cráteres y cruzan al\nPlano del Fuego para alimentarse.</p></li>\n<li><p><strong><em>Salamandra de Frontera</em></strong> — <em>elemental\ngrande, neutral malvado</em> · <strong>CR</strong> 5 (1800 XP). CA 15 ·\nPG 90 (12d10+24) · Vel. 30 pies. Inmune a fuego; vulnerable a frío.\n<em>Cuerpo Ardiente:</em> quien la golpee a melé sufre <strong>1d6\nfuego</strong>. <strong>Multiataque:</strong> lanza (+7, <strong>2d6+4\nperforante + 1d6 fuego</strong>) y cola constrictora (+7, <strong>2d8+4\ncontundente + 1d6 fuego</strong>, agarra CD 14). Mercenarias del Plano\ndel Fuego que cruzan por contrato con Drazhûl; algunas recuerdan\nAvernus.</p></li>\n<li><p><strong><em>Coloso de Magma Fracturado</em></strong> —\n<em>elemental enorme, sin alineamiento</em> · <strong>CR</strong> 7\n(2900 XP). CA 16 · PG 168 (16d12+64) · Vel. 30 pies. Inmune a fuego y\nveneno; vulnerable a frío (el frío lo endurece y lo ralentiza 10 pies).\n<em>Erupción de Costra:</em> al recibir daño contundente, salpica magma\n(5 pies, CD 15 DES, <strong>2d6 fuego</strong>).\n<strong>Multiataque:</strong> dos puños, +9, <strong>3d8+5 contundente +\n2d6 fuego</strong>. Se forma cuando el sustrato infernal compartido con\nAvernus rezuma por una caldera y cuaja en cuerpo.</p></li>\n</ul>\n<hr />\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><p><strong>Maestra Ferrucha, herrera enana de fuego planar (aliada /\ndadora de misiones).</strong> Trabaja una fragua encendida directamente\nen una boca menor del Plano del Fuego —el único modo de forjar metal\ncapaz de resistir a Ignis. Brusca, honesta, condenada por su tos de\nceniza. <em>Ofrece:</em> templar un arma con <strong>fuego\nplanar</strong> (1d6 fuego extra; +1d6 contra crías de dragón) si le\ntraen mineral del corazón de un cráter activo. Conoce qué calderas\nconectan con Avernus.</p></li>\n<li><p><strong>El Hermano Cendal, ermitaño tiefling renegado del culto\n(neutral).</strong> Antes servía a Drazhûl; huyó cuando entendió que las\npuertas no se abren <em>hacia</em> Chronosia por accidente. Paranoico,\nlúcido a ratos. <em>Ofrece:</em> la secuencia del <strong>ritual de\napagado</strong> de una caldera mayor y la advertencia de que sellar mal\nuna puerta puede abrir el lado infernal.</p></li>\n<li><p><strong>Korrin Brasaviva, mercader humano de salvamento\n(comerciante).</strong> Saquea lo que las salamandras dejan y lo\nrevende. <em>Ofrece:</em> pociones de resistencia al fuego, capas de\namianto (ventaja vs. <em>Calor Irradiado</em>) y reliquias sueltas del\notro plano —algunas malditas, todas a buen precio. Sabe los horarios en\nque las bocas “respiran” más fuerte.</p></li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li><strong>Apagar el horno:</strong> una caldera mayor está a punto de\nfundirse con el sustrato de Avernus; los PJ deben interrumpir el ritual\nde Drazhûl antes de que la frontera entre planos se borre.</li>\n<li><strong>La camada errante:</strong> una nidada de crías de dragón ha\ncruzado al Plano del Fuego y vuelve más fuerte cada vez; Maestra\nFerrucha necesita un arma forjada antes de que regresen adultas.</li>\n<li><strong>La puerta que respira:</strong> el Hermano Cendal jura que\nuna de las calderas no lleva al Plano del Fuego, sino que es un\n<strong>nodo directo al hub de Ignis</strong> —cerrarla podría cortar la\nlínea de suministro planar del dragón.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "9Yw7dSvduzfilFVs",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!acktGE7sInGGWup6.9Yw7dSvduzfilFVs"
+    }
+  ],
+  "_id": "acktGE7sInGGWup6",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "c44f2673e71a7f5e3bb100d0913def31993a83a6"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078667,
+    "modifiedTime": 1782851078667,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!acktGE7sInGGWup6"
+}

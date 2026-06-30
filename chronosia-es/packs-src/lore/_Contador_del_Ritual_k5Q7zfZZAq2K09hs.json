@@ -1,0 +1,65 @@
+{
+  "name": "🕰️ Contador del Ritual",
+  "folder": "mDboZ6nHyc9bRNl9",
+  "pages": [
+    {
+      "name": "🕰️ Contador del Ritual",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"contador-del-ritual\">🕰️ Contador del Ritual</h1>\n<h3 id=\"aparato-de-medición-anacronista-plaza-de-los-engranajes-cronópolis\"><em>Aparato\nde medición anacronista — Plaza de los Engranajes, Cronópolis</em></h3>\n<hr />\n<blockquote>\n<p>«No es un reloj. Es una herida que cuenta. Cada vez que una cuenta se\nllena, algo allá arriba se ha tragado un poco más del cielo.» —\nInscripción grabada en la base del aparato</p>\n</blockquote>\n<hr />\n<h2 id=\"qué-es-esto\">¿Qué es esto?</h2>\n<p>El <strong>Contador del Ritual</strong> es un artefacto construido\npor los <strong>Anacronistas</strong> y mantenido por <strong>La\nResistencia</strong> en el corazón de Cronópolis. Mide, segmento a\nsegmento, cuánto ha avanzado <strong>la ascensión</strong>: el drenaje\nsostenido que se está cometiendo contra el orden de las cosas.</p>\n<p>Sus engranajes no se mueven por horas. Se mueven por\n<strong>acontecimientos</strong>. Cuando el aparato suma un segmento,\nlos Anacronistas lo anuncian con una campana grave que se oye en toda la\nplaza.</p>\n<p>Está a la vista de todos. Cualquiera puede leerlo. Pocos saben qué\nhacer con lo que leen.</p>\n<hr />\n<h2 id=\"el-contador\">El Contador</h2>\n<p><strong>Estado actual:</strong> <code>2 / 8</code></p>\n<pre><code> ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┐\n │  ▓  │  ▓  │     │     │     │     │     │     │\n │ ▓▓▓ │ ▓▓▓ │     │     │     │     │     │     │\n │  ▓  │  ▓  │     │     │     │     │     │     │\n └─────┴─────┴─────┴─────┴─────┴─────┴─────┴─────┘\n    1     2     3     4     5     6     7     8\n   LLENO LLENO  ·     ·     ·     ·     ·     ·</code></pre>\n<p><em>▓ = segmento consumido por el ritual. El DM marca el siguiente\nrecuadro cuando el Contador sube.</em></p>\n<hr />\n<h2 id=\"leyenda-qué-significa-cuando-sube\">Leyenda — qué significa\ncuando sube</h2>\n<table>\n<colgroup>\n<col style=\"width:55%\"></col>\n<col style=\"width:44%\"></col>\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align:center\">Segmento</th>\n<th style=\"text-align:left\">Lo que se siente en el mundo</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align:center\"><strong>1–2</strong></td>\n<td style=\"text-align:left\">El cielo de Chronosia “parpadea”. Los\nrelojes adelantan o atrasan sin razón. <em>(estado inicial)</em></td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align:center\"><strong>3–4</strong></td>\n<td style=\"text-align:left\">Zonas enteras quedan fuera de fase: lluvia\nque cae hacia arriba, ecos de conversaciones aún no dichas. La campana\nsuena más a menudo.</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align:center\"><strong>5–6</strong></td>\n<td style=\"text-align:left\">El semiplano empieza a fracturarse de\nforma visible. Aparecen grietas que no llevan a ninguna parte. La\nResistencia entra en estado de alarma.</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align:center\"><strong>7</strong></td>\n<td style=\"text-align:left\">Penúltimo aliento. Casi todo el poder\ndrenado está reunido. Pánico abierto en Cronópolis.</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align:center\"><strong>8</strong></td>\n<td style=\"text-align:left\">El Contador se completa. <em>(El DM sabe\nlo que ocurre. Los jugadores, todavía no.)</em></td>\n</tr>\n</tbody>\n</table>\n<blockquote>\n<p>Cuanto más se llena, menos tiempo queda. No es una amenaza futura: es\nuna cuenta que ya empezó.</p>\n</blockquote>\n<hr />\n<h2 id=\"bitácora-del-contador-para-el-dm\">Bitácora del Contador\n<em>(para el DM)</em></h2>\n<p><em>Anota aquí qué evento hizo subir cada segmento y la fecha de\nmesa.</em></p>\n<table>\n<thead>\n<tr class=\"header\">\n<th style=\"text-align:center\">Seg.</th>\n<th style=\"text-align:left\">Subió por…</th>\n<th style=\"text-align:left\">Sesión / Fecha</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td style=\"text-align:center\">1</td>\n<td style=\"text-align:left\"><em>(antes de la partida)</em></td>\n<td style=\"text-align:left\">—</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align:center\">2</td>\n<td style=\"text-align:left\"><em>(antes de la partida)</em></td>\n<td style=\"text-align:left\">—</td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align:center\">3</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align:center\">4</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align:center\">5</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align:center\">6</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr class=\"odd\">\n<td style=\"text-align:center\">7</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align:center\">8</td>\n<td style=\"text-align:left\"></td>\n<td style=\"text-align:left\"></td>\n</tr>\n</tbody>\n</table>\n<hr />\n<blockquote>\n<p><em>Sellado por el Círculo Anacronista. «Mientras se pueda contar, se\npuede combatir.»</em> — <strong>Galen</strong>, voz de los\nAnacronistas</p>\n</blockquote>",
+        "format": 1
+      },
+      "_id": "fd9knP9gHv622UN3",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!k5Q7zfZZAq2K09hs.fd9knP9gHv622UN3"
+    }
+  ],
+  "_id": "k5Q7zfZZAq2K09hs",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "59902d8addc7efe4584db00b209c4534cd63097f"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851079032,
+    "modifiedTime": 1782851079032,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!k5Q7zfZZAq2K09hs"
+}

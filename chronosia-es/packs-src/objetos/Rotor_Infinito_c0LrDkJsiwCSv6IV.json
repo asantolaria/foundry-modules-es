@@ -1,0 +1,77 @@
+{
+  "name": "Rotor Infinito",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/08_rotor-infinito.jpg",
+  "system": {
+    "description": {
+      "value": "<figure>\n<img src=\"../../assets/objetos_magicos/08_rotor-infinito.jpg\" alt=\"Rotor Infinito\" />\n<figcaption aria-hidden=\"true\">Rotor Infinito</figcaption>\n</figure>\n<p><strong>Tipo:</strong> Artefacto (Requiere Sintonización)<br />\n<strong>Rareza:</strong> Artefacto Único<br />\n<strong>Peso:</strong> 500 libras (completo)<br />\n<strong>Creador:</strong> Din Goldgear + Ingenieros de Cronópolis<br />\n<strong>Componentes:</strong> Núcleo Temporal (Serapis) + Carcasa\nDimensional (Ymir)<br />\n<strong>Estado Actual:</strong> 🔄 Fragmentado (requiere ambas\npartes)</p>\n<h4 id=\"ubicación-y-obtención\"><strong>📍 Ubicación y\nObtención:</strong></h4>\n<p><strong>Ubicación de los Componentes:</strong> - <strong>Núcleo\nTemporal:</strong> En posesión de Serapis el Retroceso (La Espiral\nInversa) - <strong>Carcasa Dimensional:</strong> En posesión de Ymir el\nEterno Invierno (Glacialis) - <strong>Estado:</strong> Fragmentado -\ncada componente está con un lugarteniente diferente</p>\n<p><strong>Cómo Obtenerlo:</strong> 1. <strong>Derrotar a\nSerapis:</strong> Obtener el Núcleo Temporal (parte 1) 2.\n<strong>Derrotar a Ymir:</strong> Obtener la Carcasa Dimensional (parte\n2) 3. <strong>Entregar a los Ingenieros:</strong> Los Ingenieros de\nCronópolis ensamblan el Rotor completo 4. <strong>Quest Giver:</strong>\nIngenieros de Cronópolis (Din Goldgear, Balthar Herrumbra, o Lucienne\nRietveldt)</p>\n<p><strong>Requisitos:</strong> - <strong>Ambas Partes:</strong>\nNecesitas derrotar a AMBOS lugartenientes (Serapis Y Ymir) -\n<strong>Nivel Recomendado:</strong> 5-7 (ambos son lugartenientes de\nnivel bajo, relativamente fáciles) - <strong>Alianza con\nIngenieros:</strong> Los Ingenieros deben estar dispuestos a construir\ncon el Rotor</p>\n<p><strong>Proceso de Ensamblaje:</strong> - <strong>Tiempo:</strong> 1\nsemana de trabajo continuo - <strong>Lugar:</strong> Taller de los\nIngenieros en Cronópolis - <strong>Materiales Adicionales:</strong>\n5,000 po en materiales - <strong>Requisito Técnico:</strong> Din\nGoldgear o un Artífice de nivel 9+ debe dirigir el ensamblaje</p>\n<p><strong>Uso Inmediato:</strong> - <strong>Motor de Viento\nPerpetuo:</strong> Los Ingenieros construyen un Motor de Viento Perpetuo\nusando el Rotor - <strong>Desbloquea:</strong> Archipiélago de\nBarbanegra (Mar en Calma) - Solo después de que Teach se desbloquee</p>\n<p><strong>Uso Posterior (Post-campaña):</strong> - <strong>Ferrocarril\nUniversal:</strong> Conecta todas las regiones de Chronosia mediante\nvías - <strong>Portal a Faerún:</strong> Crea un portal permanente a\nFaerún al final de las vías - <strong>Impacto:</strong> Permite a los PJ\nvolver a casa y a los habitantes viajar entre planos</p>\n<h4 id=\"historia\"><strong>📜 Historia:</strong></h4>\n<p>Artefacto gnomo diseñado para conectar TODAS las regiones de\nChronosia mediante un Ferrocarril Universal. El objetivo final es\nconectar Chronosia con Faerún - el ferrocarril es la llave de regreso a\ncasa para los PJs. Actualmente está fragmentado, con cada componente en\nposesión de un lugarteniente diferente.</p>\n<h4 id=\"descripción-física-completo\"><strong>🎨 Descripción Física\n(Completo):</strong></h4>\n<p>Un rotor masivo de 3 pies de diámetro con engranajes de mithril y\ncristales temporales. El núcleo interno (de Serapis) pulsa con energía\ntemporal dorada, mientras que la carcasa externa (de Ymir) está hecha de\nhielo eterno que nunca se derrite. Cuando está completo, el rotor gira\ninfinitamente, generando energía temporal y espacial\nsimultáneamente.</p>\n<h4 id=\"componentes\"><strong>⚡ Componentes:</strong></h4>\n<p><strong>Núcleo Temporal (de Serapis):</strong> -\n<strong>Peso:</strong> 50 libras - <strong>Apariencia:</strong> Cristal\ndorado que pulsa con energía temporal - <strong>Función:</strong> Genera\nenergía temporal infinita - <strong>Obtención:</strong> Derrotar a\nSerapis el Retroceso</p>\n<p><strong>Carcasa Dimensional (de Ymir):</strong> -\n<strong>Peso:</strong> 450 libras - <strong>Apariencia:</strong> Hielo\neterno tallado con runas dimensionales - <strong>Función:</strong>\nEstabiliza portales dimensionales y comprime espacio -\n<strong>Obtención:</strong> Derrotar a Ymir el Eterno Invierno</p>\n<h4 id=\"propiedades-mágicas-completo\"><strong>⚡ Propiedades Mágicas\n(Completo):</strong></h4>\n<p><strong>Generación Infinita (Pasivo):</strong> - Genera energía\ntemporal y espacial simultáneamente - No requiere combustible ni\nmantenimiento - Puede alimentar máquinas de cualquier tamaño</p>\n<p><strong>Motor de Viento Perpetuo (Uso Inmediato):</strong> - Los\nIngenieros pueden construir un Motor de Viento Perpetuo usando el Rotor\n- El motor genera viento constante para navegar el Archipiélago de\nBarbanegra - <strong>Desbloquea:</strong> Archipiélago de Barbanegra\n(Mar en Calma)</p>\n<p><strong>Ferrocarril Universal (Uso Posterior -\nPost-campaña):</strong> - Conecta todas las regiones de Chronosia\nmediante vías de ferrocarril - Crea un portal permanente a Faerún al\nfinal de las vías - Permite a los PJ volver a casa y a los habitantes de\nAbysara salir de su aislamiento - <strong>Duración:</strong> Permanente\n- <strong>Impacto:</strong> Cambia completamente la geografía de\nChronosia</p>\n<p><strong>Requisitos de Ensamblaje:</strong> - Requiere ambas partes\n(Núcleo + Carcasa) - Requiere Din Goldgear o un Artífice de nivel 9+\npara ensamblar - Requiere 1 semana de trabajo continuo - Requiere\nmateriales adicionales (5000 po en materiales)</p>\n<hr />",
+      "chat": ""
+    },
+    "rarity": "veryRare",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "rotor-infinito",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "c0LrDkJsiwCSv6IV",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "29d2e3533444500d1c9776f10157e5fd946d9723"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669380,
+    "modifiedTime": 1782850669380,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!c0LrDkJsiwCSv6IV"
+}

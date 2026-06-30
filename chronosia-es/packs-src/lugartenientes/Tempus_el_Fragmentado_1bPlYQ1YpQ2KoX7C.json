@@ -1,0 +1,730 @@
+{
+  "name": "Tempus el Fragmentado",
+  "type": "npc",
+  "img": "modules/chronosia-es/assets/bestiario/11_tempus-el-fragmentado.jpg",
+  "system": {
+    "abilities": {
+      "str": {
+        "value": 16,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "dex": {
+        "value": 14,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "con": {
+        "value": 18,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "int": {
+        "value": 16,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "wis": {
+        "value": 16,
+        "proficient": 1,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      },
+      "cha": {
+        "value": 10,
+        "proficient": 0,
+        "max": null,
+        "bonuses": {
+          "check": "",
+          "save": ""
+        },
+        "check": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        },
+        "save": {
+          "roll": {
+            "min": null,
+            "max": null,
+            "mode": 0
+          }
+        }
+      }
+    },
+    "attributes": {
+      "ac": {
+        "calc": "flat",
+        "flat": 17
+      },
+      "hp": {
+        "value": 170,
+        "max": 170,
+        "temp": 0,
+        "tempmax": 0,
+        "formula": ""
+      },
+      "movement": {
+        "walk": "30",
+        "units": null,
+        "hover": false,
+        "ignoredDifficultTerrain": []
+      },
+      "init": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonus": ""
+      },
+      "attunement": {
+        "max": 3
+      },
+      "senses": {
+        "darkvision": null,
+        "blindsight": null,
+        "tremorsense": null,
+        "truesight": null,
+        "units": null,
+        "special": ""
+      },
+      "spellcasting": "",
+      "exhaustion": 0,
+      "concentration": {
+        "ability": "",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "bonuses": {
+          "save": ""
+        },
+        "limit": 1
+      },
+      "loyalty": {},
+      "hd": {
+        "spent": 0
+      },
+      "death": {
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "success": 0,
+        "failure": 0,
+        "bonuses": {
+          "save": ""
+        }
+      },
+      "price": {
+        "value": null,
+        "denomination": "gp"
+      },
+      "spell": {
+        "level": 0
+      }
+    },
+    "details": {
+      "cr": 8,
+      "biography": {
+        "value": "<h1 id=\"tempus-el-fragmentado\">⚙️ Tempus el Fragmentado</h1>\n<figure>\n<img src=\"../../assets/bestiario/lugartenientes/11_tempus-el-fragmentado.jpg\" alt=\"Tempus el Fragmentado\" />\n<figcaption aria-hidden=\"true\">Tempus el Fragmentado</figcaption>\n</figure>\n<h2 id=\"lugarteniente-temporal---constructo-temporal\"><em>Lugarteniente\nTemporal - Constructo Temporal</em></h2>\n<hr />\n<h2 id=\"información-general\">📊 <strong>INFORMACIÓN\nGENERAL</strong></h2>\n<ul>\n<li><strong>Raza:</strong> Constructo Temporal</li>\n<li><strong>Tipo:</strong> Temporal (Poder de Amaunator)</li>\n<li><strong>Rol:</strong> Lugarteniente Temporal</li>\n<li><strong>Región:</strong> Las Ruinas del Tiempo Perdido</li>\n<li><strong>Nivel Recomendado:</strong> 6-7</li>\n<li><strong>Bando:</strong> Variable (puede aliarse o actuar\nindependientemente según decisiones)</li>\n<li><strong>Estado de Acceso:</strong> 🔒 Bloqueada (requiere Arena del\nTiempo o derrotar 3+ lugartenientes temporales)</li>\n</ul>\n<hr />\n<h2 id=\"descripción-narrativa\">🎭 <strong>DESCRIPCIÓN\nNARRATIVA</strong></h2>\n<h3 id=\"poder\"><strong>⚡ Poder</strong></h3>\n<p>Tempus fue creado por fragmentos de tiempo perdido. Puede crear\nbucles temporales perfectos donde los eventos se repiten eternamente.\nPuede “programar” secuencias temporales que se ejecutan automáticamente,\nliberándolo para otras acciones mientras las secuencias se ejecutan.</p>\n<h3 id=\"apariencia\"><strong>👁️ Apariencia</strong></h3>\n<p>Un constructo de metal y cristal que pulsa con energía temporal, con\nengranajes de tiempo visibles en su interior y ojos que muestran\nmúltiples momentos simultáneamente. Su cuerpo parece estar compuesto de\nfragmentos de diferentes épocas, todos unidos en una forma mecánica.</p>\n<blockquote>\n<p>💀 <strong>Efecto al Morir:</strong> ver sección <a href=\"#-efecto-al-morir\">Efecto al Morir</a> más abajo.</p>\n</blockquote>\n<hr />\n<h2 id=\"statblock-completo\">⚔️ <strong>STATBLOCK COMPLETO</strong></h2>\n<h3 id=\"tempus-el-fragmentado-1\"><strong>TEMPUS EL\nFRAGMENTADO</strong></h3>\n<p><em>Constructo Mediano (Constructo Temporal), Neutral\nMalvado</em></p>\n<hr />\n<p><strong>Clase de Armadura:</strong> 17 (armadura natural + protección\ntemporal)<br />\n<strong>Puntos de Golpe:</strong> 170 (20d8 + 80)<br />\n<strong>Velocidad:</strong> 30 pies</p>\n<hr />\n<table>\n<thead>\n<tr class=\"header\">\n<th>FUE</th>\n<th>DES</th>\n<th>CON</th>\n<th>INT</th>\n<th>SAB</th>\n<th>CAR</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td>16 (+3)</td>\n<td>14 (+2)</td>\n<td>18 (+4)</td>\n<td>16 (+3)</td>\n<td>16 (+3)</td>\n<td>10 (+0)</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Salvaciones:</strong> DES +5, INT +6, SAB +6<br />\n<strong>Habilidades:</strong> Arcano +6, Historia +6, Percepción\n+6<br />\n<strong>Resistencias al Daño:</strong> Temporal, contundente, cortante y\nperforante de ataques no mágicos<br />\n<strong>Inmunidades a Condiciones:</strong> Encantado, agotamiento,\nenvenenado, asustado, paralizado, petrificado, aturdido,\ninconsciente<br />\n<strong>Sentidos:</strong> Percepción pasiva 16<br />\n<strong>Idiomas:</strong> Común, Primordial, todos los idiomas (a través\nde fragmentos temporales)<br />\n<strong>CR:</strong> 8 (3,900 XP)</p>\n<p><strong>Resistencia Legendaria (1/día).</strong> Si Tempus falla una\ntirada de salvación, puede elegir tener éxito en su lugar.</p>\n<hr />\n<h3 id=\"rasgos-especiales\"><strong>Rasgos Especiales</strong></h3>\n<p><strong>Bucles Temporales.</strong><br />\nTempus puede crear bucles temporales perfectos donde los eventos se\nrepiten eternamente. Puede “programar” secuencias temporales que se\nejecutan automáticamente.</p>\n<p><strong>Programación Temporal.</strong><br />\nTempus puede programar secuencias de acciones que se ejecutarán\nautomáticamente en turnos futuros, liberándolo para otras acciones.</p>\n<p><strong>Fragmentación Temporal.</strong><br />\nTempus está creado por fragmentos de tiempo perdido. Puede fragmentarse\nen múltiples versiones temporales de sí mismo, cada una ejecutando\ndiferentes secuencias programadas.</p>\n<p><strong>Inmunidad Temporal.</strong><br />\nTempus es inmune a efectos que alteran el tiempo, incluyendo\n<em>lentitud</em>, <em>aceleración</em>, y efectos de envejecimiento\nmágico.</p>\n<p><strong>Repetición de Acciones.</strong><br />\nTempus puede atrapar a un enemigo en un breve bucle temporal, haciéndole\nperder un instante de su próximo turno (representado mecánicamente por\n<em>Bucle Forzado</em>). Estos bucles son siempre acotados: nunca\nencadenan turnos perdidos ni se repiten sin recarga.</p>\n<p><strong>Secuencias Automáticas.</strong><br />\nTempus puede “programar” un ataque para que se dispare por sí solo al\ninicio de su siguiente turno (representado por <em>Programación\nTemporal</em>), liberándolo para actuar de nuevo.</p>\n<hr />\n<h3 id=\"acciones\"><strong>Acciones</strong></h3>\n<p><strong>Multiataque.</strong><br />\nTempus realiza dos ataques: uno con <em>Garras Temporales</em> y uno con\n<em>Fragmento Temporal</em>.</p>\n<p><strong>Garras Temporales.</strong> <em>Ataque con Arma Cuerpo a\nCuerpo:</em> +8 al ataque, alcance 5 pies, un objetivo.<br />\n<em>Impacto:</em> 9 (1d10 + 3) de daño cortante más 10 (3d6) de daño\ntemporal.<br />\nEl objetivo debe hacer salvación de Constitución CD 15 o queda aturdido\nhasta el final de su siguiente turno.</p>\n<p><strong>Fragmento Temporal.</strong> <em>Ataque con Conjuro:</em> +9\nal ataque, alcance 60 pies, un objetivo.<br />\nTempus lanza un fragmento de tiempo perdido que ataca al enemigo.<br />\n<em>Impacto:</em> 14 (4d6) de daño temporal.</p>\n<p><strong>Bucle Forzado (Recarga 5-6).</strong><br />\nComo acción, Tempus atrapa a <strong>un objetivo</strong> que pueda ver\na hasta 60 pies en un único bucle temporal. El objetivo debe hacer\nsalvación de Sabiduría CD 15 o <strong>pierde su siguiente\nturno</strong> (1 turno), atrapado repitiendo el instante. El efecto\nafecta a un solo objetivo y dura como mucho 1 turno; nunca encadena\nturnos perdidos ni se repite sin recarga. (Esta es la única mecánica de\n“perder turno” de Tempus: sustituye a cualquier bucle ilimitado.)</p>\n<p><strong>Programación Temporal (3/día).</strong><br />\nComo acción adicional, Tempus “programa” un <em>Fragmento Temporal</em>\nque se dispara automáticamente al inicio de su siguiente turno,\nliberándolo para realizar otra acción ese turno.</p>\n<p><strong>Eco Temporal (1/día).</strong><br />\nComo acción, Tempus proyecta un eco temporal de sí mismo (1 clon con 1\nHP que comparte su AC y bonos de ataque, no puede usar acciones\nlegendarias ni rasgos 1/día) que persiste hasta el final del combate o\nhasta recibir daño. El eco actúa en la iniciativa de Tempus y solo puede\nrealizar el ataque de <em>Fragmento Temporal</em>.</p>\n<hr />\n<h3 id=\"acciones-legendarias\"><strong>Acciones Legendarias</strong></h3>\n<p>Tempus puede realizar <strong>2 acciones legendarias por\nronda</strong>, eligiendo entre las opciones de abajo. Solo puede usar\nuna acción legendaria a la vez y solo al final del turno de otra\ncriatura. Recupera las acciones legendarias gastadas al inicio de su\nturno.</p>\n<table>\n<colgroup>\n<col style=\"width:17%\"></col>\n<col style=\"width:6%\"></col>\n<col style=\"width:76%\"></col>\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th><strong>Acción Legendaria</strong></th>\n<th><strong>Costo</strong></th>\n<th><strong>Descripción</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td><strong>Fragmento Temporal</strong></td>\n<td>1 Acción</td>\n<td>Tempus realiza un ataque con <em>Fragmento Temporal</em>.</td>\n</tr>\n<tr class=\"even\">\n<td><strong>Reposicionar Engranajes</strong></td>\n<td>1 Acción</td>\n<td>Tempus se desplaza hasta la mitad de su velocidad sin provocar\nataques de oportunidad, parpadeando entre instantes.</td>\n</tr>\n<tr class=\"odd\">\n<td><strong>Garras Temporales</strong></td>\n<td>2 Acciones</td>\n<td>Tempus realiza un ataque con <em>Garras Temporales</em> (CD 15;\naturdido hasta el final del siguiente turno del objetivo).</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<h2 id=\"tácticas-de-combate\">🎯 <strong>TÁCTICAS DE\nCOMBATE</strong></h2>\n<h3 id=\"fase-1-apertura-rounds-1-2\"><strong>Fase 1: Apertura (Rounds\n1-2)</strong></h3>\n<ol type=\"1\">\n<li>Usa <em>Programación Temporal</em> para encadenar dos ataques de\n<em>Fragmento Temporal</em> en un mismo turno</li>\n<li>Lanza <em>Bucle Forzado</em> contra el atacante más peligroso para\nhacerle perder un turno</li>\n<li>Se posiciona estratégicamente, usando <em>Reposicionar\nEngranajes</em> fuera de turno</li>\n</ol>\n<h3 id=\"fase-2-presión-rounds-3-6\"><strong>Fase 2: Presión (Rounds\n3-6)</strong></h3>\n<ul>\n<li>Alterna <em>Garras Temporales</em> (aturdir) y <em>Fragmento\nTemporal</em> a distancia</li>\n<li>Reserva <em>Bucle Forzado</em> (recarga 5-6) para neutralizar al\nsanador o al pegador más fuerte</li>\n<li>Gasta acciones legendarias en <em>Fragmento Temporal</em> para\nmantener daño constante</li>\n</ul>\n<h3 id=\"fase-3-desesperación-hp-60\"><strong>Fase 3: Desesperación (HP\n&lt; 60)</strong></h3>\n<ul>\n<li>Usa <em>Eco Temporal</em> para duplicar su presión a distancia</li>\n<li>Guarda su <em>Resistencia Legendaria</em> para anular el control que\nmás le duela</li>\n<li>Prioriza eliminar amenazas mayores</li>\n</ul>\n<h3 id=\"estrategias-especiales\"><strong>Estrategias\nEspeciales:</strong></h3>\n<ul>\n<li><strong>Contra Múltiples Enemigos:</strong> <em>Programación\nTemporal</em> para concentrar dos fragmentos en el objetivo\nprioritario</li>\n<li><strong>Contra Tanques:</strong> <em>Garras Temporales</em> para\naturdir y romper su iniciativa</li>\n<li><strong>Contra Hechiceros:</strong> <em>Bucle Forzado</em> para\nhacerles perder el turno y cortar la concentración</li>\n</ul>\n<hr />\n<h2 id=\"efecto-al-morir\">💀 <strong>EFECTO AL MORIR</strong></h2>\n<p>Cuando Tempus muere (ya sea por los PJ o por otro lugarteniente),\n<strong>Las Ruinas del Tiempo Perdido se restaura a la\nnormalidad</strong>. Todas las distorsiones temporales causadas por su\npoder desaparecen gradualmente en un proceso que dura 1d4 horas:</p>\n<ul>\n<li><strong>Los bucles temporales se disipan</strong> - No más\nrepeticiones temporales ni bucles infinitos</li>\n<li><strong>Las secuencias programadas cesan</strong> - El tiempo vuelve\na fluir normalmente</li>\n<li><strong>La región recupera su estado natural</strong> - Sin las\nanomalías temporales que Tempus había creado</li>\n<li><strong>Los habitantes atrapados se liberan</strong> - Cualquier\ncriatura atrapada en bucles temporales se libera suavemente</li>\n</ul>\n<p><strong>Nota:</strong> Este efecto de restauración aplica también\ncuando los lugartenientes se matan entre sí, ayudando a estabilizar\nChronosia gradualmente.</p>\n<hr />\n<h2 id=\"ganchos-narrativos\">🎣 <strong>GANCHOS NARRATIVOS</strong></h2>\n<h3 id=\"sin-ganchos-narrativos-especiales\"><strong>⚠️ Sin Ganchos\nNarrativos Especiales</strong></h3>\n<p>Tempus es principalmente un <strong>enemigo opcional a\nderrotar</strong>. No tiene ganchos narrativos que permitan alianzas o\ninteracciones especiales más allá del combate.</p>\n<h3 id=\"características-relevantes\"><strong>🎭 Características\nRelevantes:</strong></h3>\n<ul>\n<li><strong>Enemigo opcional:</strong> Puede ser enfrentado o evitado\nsegún las decisiones de los PJ</li>\n<li><strong>Naturaleza única:</strong> Constructo temporal con bucles\ntemporales</li>\n<li><strong>Mecánica única:</strong> Bucles temporales programados</li>\n</ul>\n<hr />\n<p><em>Tempus representa el poder de los bucles temporales, programando\nsecuencias que se repiten eternamente y fragmentándose en múltiples\nversiones temporales de sí mismo.</em> ⚙️</p>",
+        "public": ""
+      },
+      "alignment": "",
+      "ideal": "",
+      "bond": "",
+      "flaw": "",
+      "race": null,
+      "type": {
+        "value": "humanoid"
+      },
+      "habitat": {
+        "value": [],
+        "custom": ""
+      },
+      "treasure": {
+        "value": []
+      }
+    },
+    "currency": {
+      "pp": 0,
+      "gp": 0,
+      "ep": 0,
+      "sp": 0,
+      "cp": 0
+    },
+    "bonuses": {
+      "mwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rwak": {
+        "attack": "",
+        "damage": ""
+      },
+      "msak": {
+        "attack": "",
+        "damage": ""
+      },
+      "rsak": {
+        "attack": "",
+        "damage": ""
+      },
+      "abilities": {
+        "check": "",
+        "save": "",
+        "skill": ""
+      },
+      "spell": {
+        "dc": ""
+      }
+    },
+    "skills": {
+      "acr": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ani": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "arc": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ath": {
+        "ability": "str",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "dec": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "his": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ins": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "itm": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "inv": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "med": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "nat": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prc": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 1,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "prf": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "per": {
+        "ability": "cha",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "rel": {
+        "ability": "int",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "slt": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "ste": {
+        "ability": "dex",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      },
+      "sur": {
+        "ability": "wis",
+        "roll": {
+          "min": null,
+          "max": null,
+          "mode": 0
+        },
+        "value": 0,
+        "bonuses": {
+          "check": "",
+          "passive": ""
+        }
+      }
+    },
+    "tools": {},
+    "spells": {
+      "spell1": {
+        "value": 0
+      },
+      "spell2": {
+        "value": 0
+      },
+      "spell3": {
+        "value": 0
+      },
+      "spell4": {
+        "value": 0
+      },
+      "spell5": {
+        "value": 0
+      },
+      "spell6": {
+        "value": 0
+      },
+      "spell7": {
+        "value": 0
+      },
+      "spell8": {
+        "value": 0
+      },
+      "spell9": {
+        "value": 0
+      },
+      "pact": {
+        "value": 0
+      }
+    },
+    "resources": {
+      "legact": {
+        "max": 0,
+        "spent": 0
+      },
+      "legres": {
+        "max": 0,
+        "spent": 0
+      },
+      "lair": {
+        "value": false,
+        "initiative": null,
+        "inside": false
+      }
+    },
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "traits": {
+      "size": "med",
+      "di": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dr": {
+        "value": [
+          "bludgeoning",
+          "slashing",
+          "piercing"
+        ],
+        "custom": "",
+        "bypasses": []
+      },
+      "dv": {
+        "value": [],
+        "custom": "",
+        "bypasses": []
+      },
+      "dm": {
+        "amount": {},
+        "bypasses": []
+      },
+      "ci": {
+        "value": [
+          "charmed",
+          "frightened",
+          "paralyzed",
+          "stunned",
+          "poisoned",
+          "exhaustion",
+          "petrified",
+          "unconscious"
+        ],
+        "custom": ""
+      },
+      "languages": {
+        "value": [],
+        "custom": "Común, Primordial, todos los idiomas (a través de fragmentos temporales)",
+        "communication": {}
+      },
+      "important": false
+    }
+  },
+  "prototypeToken": {
+    "name": "Tempus el Fragmentado",
+    "displayBars": 40,
+    "displayName": 40,
+    "disposition": -1,
+    "actorLink": false,
+    "bar1": {
+      "attribute": "attributes.hp"
+    },
+    "texture": {
+      "src": "modules/chronosia-es/assets/bestiario/11_tempus-el-fragmentado.jpg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "ring": {
+      "enabled": true,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "_id": "1bPlYQ1YpQ2KoX7C",
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "89bba409fd5b439e0e664d7b759a141e1c942cd0"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782852760131,
+    "modifiedTime": 1782854397356,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!actors!1bPlYQ1YpQ2KoX7C"
+}

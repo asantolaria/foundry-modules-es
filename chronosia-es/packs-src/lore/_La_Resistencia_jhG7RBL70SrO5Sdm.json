@@ -1,0 +1,65 @@
+{
+  "name": "⚙️ La Resistencia",
+  "folder": "G3IbQOFgrBoozOCT",
+  "pages": [
+    {
+      "name": "⚙️ La Resistencia",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"la-resistencia\">⚙️ La Resistencia</h1>\n<h2 id=\"cazadores-de-magos\"><em>Cazadores de Magos</em></h2>\n<hr />\n<blockquote>\n<p><strong>📖 NAVEGACIÓN:</strong> - <a href=\"./00_Indice_Facciones.md\">← Volver al Índice</a> - <a href=\"./06_Dinamicas_Entre_Facciones.md\">Dinámicas entre\nFacciones</a></p>\n</blockquote>\n<hr />\n<h2 id=\"resumen-ejecutivo\">📋 <strong>RESUMEN EJECUTIVO</strong></h2>\n<p>La Resistencia es una organización de ingenieros y artesanos que\nodian la magia en todas sus formas, viéndola como corrupción que roba la\nesencia vital y altera el tejido del mundo. Han desarrollado tecnología\nanti-magia para combatir a los Cronófagos y cualquier usuario de\nmagia.</p>\n<p><strong>🎯 Filosofía</strong>: La magia es corrupción que debe ser\neliminada<br />\n<strong>⚙️ Especialidad</strong>: Tecnología anti-magia y armas\nmecánicas<br />\n<strong>🛡️ Estructura</strong>: Gremios secretos organizados en las\nsombras<br />\n<strong>⚔️ Actitud</strong>: Neutrales hacia los PJ (hostiles si hay\nmagos en el grupo)</p>\n<hr />\n<h2 id=\"filosofía-y-creencia\">🎭 <strong>FILOSOFÍA Y\nCREENCIA</strong></h2>\n<h3 id=\"creencia-central\"><strong>Creencia Central:</strong></h3>\n<p>Odián la magia en todas sus formas, viéndola como corrupción que roba\nla esencia vital y altera el tejido del mundo. Se consideran artesanos\ndel destino: creen que tanto el tiempo como el espacio deben fluir por\nsus propios engranajes, y los magos los deforman con sus conjuros.</p>\n<p>No veneran a los dioses del tiempo y espacio, pero los consideran\nvíctimas. Quieren mantenerlos encadenados o matarlos para que nunca\nvuelvan a “tentar” a los mortales.</p>\n<hr />\n<h2 id=\"características\">🔧 <strong>CARACTERÍSTICAS</strong></h2>\n<ul>\n<li><strong>Ingenieros y artesanos maestros</strong>: Han desarrollado\narmas mecánicas, armaduras reforzadas y maquinaria de guerra\nrudimentaria</li>\n<li><strong>Armas de fuego</strong>: Mosquetes, trabucos, pistolas\nprimitivas con diseños únicos y personalización extrema</li>\n<li><strong>Tácticas de combate</strong>: Emboscadas, trampas,\ndispositivos que bloquean o neutralizan la magia (amuletos que generan\nzonas antihechizo, granadas de polvo arcano que interrumpen\nconjuros)</li>\n<li><strong>Estructura</strong>: Organizados en gremios secretos que se\nmueven entre las sombras. Nunca reclutan magos; solo aceptan sangre,\nsudor y acero</li>\n</ul>\n<hr />\n<h2 id=\"líderes-destacados\">👥 <strong>LÍDERES DESTACADOS</strong></h2>\n<h3 id=\"balthar-herrumbra---gran-maestro-armero\"><strong>🔧 Balthar\nHerrumbra - Gran Maestro Armero</strong></h3>\n<ul>\n<li><strong>Raza</strong>: Enano maestro armero</li>\n<li><strong>Especialidad</strong>: Diseña pistolas pesadas y martillos\nque disparan runas de acero</li>\n<li><strong>Personalidad</strong>: Obsesivo con la perfección mecánica,\ndesprecia cualquier cosa que no sea “natural”</li>\n<li><strong>Historia</strong>: Perdió su brazo derecho en una explosión\nmágica, ahora usa una prótesis mecánica que puede disparar proyectiles\nanti-magia</li>\n</ul>\n<h3 id=\"lucienne-rietveldt---maestra-ingeniera\"><strong>⚙️ Lucienne\nRietveldt - Maestra Ingeniera</strong></h3>\n<ul>\n<li><strong>Raza</strong>: Humana ingeniera</li>\n<li><strong>Apariencia</strong>: Fría y calculadora, con un brazo\nmecánico lleno de herramientas y cuchillas</li>\n<li><strong>Especialidad</strong>: Trampas temporales y dispositivos\nanti-magia</li>\n<li><strong>Historia</strong>: Su familia fue asesinada por cronófagos,\nahora dedica su vida a crear armas que los destruyan</li>\n<li><strong>🔍 Descubrimiento Crítico</strong>: Lucienne ha descubierto\ncómo funciona el sistema de reclutamiento interplanar de Ymir el Eterno\nInvierno. A través de años de observación y análisis de los portales en\nGlacialis, ha documentado los patrones de activación, planos conectados,\nfrecuencia de transporte, puntos débiles y rutas de suministro. Esta\ninformación es crucial para las misiones de La Resistencia destinadas a\nlimitar los suministros de los Cronófagos.</li>\n</ul>\n<h3 id=\"kaoros-el-sordo---maestro-constructor\"><strong>🔨 Kaoros el\nSordo - Maestro Constructor</strong></h3>\n<ul>\n<li><strong>Raza</strong>: Semi-orco veterano de guerra</li>\n<li><strong>Historia</strong>: Perdió el oído por un estallido mágico.\nAhora caza magos con odio visceral</li>\n<li><strong>Especialidad</strong>: Combate cuerpo a cuerpo con armas de\nfuego</li>\n<li><strong>Característica</strong>: A pesar de su sordera, puede\n“sentir” la magia a través de vibraciones mecánicas</li>\n</ul>\n<hr />\n<h2 id=\"tecnología-anti-magia\">⚡ <strong>TECNOLOGÍA\nANTI-MAGIA</strong></h2>\n<h3 id=\"armas-de-neutralización\"><strong>Armas de\nNeutralización</strong></h3>\n<ul>\n<li><strong>Rifles Anti-Magia</strong>: Disparan proyectiles que\ncancelan hechizos</li>\n<li><strong>Granadas de Estabilidad</strong>: Explosivos que neutralizan\ndistorsiones</li>\n<li><strong>Escudos Tecnológicos</strong>: Protecciones que bloquean la\nmagia</li>\n<li><strong>Trampas Mecánicas</strong>: Dispositivos que capturan\nmagos</li>\n</ul>\n<h3 id=\"máquinas-de-estabilización\"><strong>Máquinas de\nEstabilización</strong></h3>\n<ul>\n<li><strong>Estabilizadores Temporales</strong>: Máquinas que corrigen\ndistorsiones temporales</li>\n<li><strong>Compresores Dimensionales</strong>: Dispositivos que cierran\nportales</li>\n<li><strong>Detectores de Magia</strong>: Sensores que localizan\nhechizos</li>\n<li><strong>Neutralizadores de Campo</strong>: Generadores que cancelan\nla magia</li>\n<li><strong>Motor de Viento Perpetuo</strong>: Inventado después del\nasesinato de Thyra para navegar el mar en calma del Archipiélago de\nBarbanegra (requiere Rotor Infinito completo)</li>\n</ul>\n<hr />\n<h2 id=\"el-contador-del-ritual\">⏳ <strong>EL CONTADOR DEL\nRITUAL</strong></h2>\n<blockquote>\n<p><strong>Sistema vigente:</strong> La Resistencia ya no monitoriza un\n“balance temporal/dimensional” (retirado). Co-construye y mantiene el\n<strong>Contador del Ritual</strong> — el Reloj de 8 segmentos que mide\nla ascensión de Aethernus. Fuente única: <a href=\"../../01_Como_Dirigir.md\">../../01_Como_Dirigir.md</a>.</p>\n</blockquote>\n<h3 id=\"estado-inicial-fase-0-1\"><strong>Estado Inicial (Fase\n0-1)</strong></h3>\n<p>La Resistencia ha vivido durante años con las distorsiones como parte\nde su realidad cotidiana. Sus dispositivos funcionaban con normalidad y\nlas distorsiones, aunque constantes, se mantenían estables. No tenían\nforma de medir cuánto le quedaba al ritual de Aethernus.</p>\n<h3 id=\"primera-señal-muerte-de-thyra-sesión-5-6\"><strong>Primera Señal:\nMuerte de Thyra (Sesión 5-6)</strong></h3>\n<p>Tras el asesinato de Thyra la Suspendida por Edward Teach, los\nartefactos más sensibles a lo temporal sufrieron un <strong>pico\nbrutal</strong>: la cuenta atrás del ritual dio un\n<strong>salto</strong> detectable. Los ingenieros notaron anomalías\nserias en dispositivos que dependían de la estabilidad temporal y\ncomprendieron que algo había trastocado el ritual a gran escala.</p>\n<h3 id=\"el-contador-instalado-la-cuenta-atrás-se-hace-visible\"><strong>El\nContador instalado: la cuenta atrás se hace visible</strong></h3>\n<p>Junto con los <strong>Anacronistas</strong> (que aportan la lectura\ndel ritual) y con los sensores de <strong>Din Goldgear</strong>, La\nResistencia construye el <strong>Contador del Ritual</strong>: un\nmarcador de 8 segmentos que mide la ascensión de Aethernus. El\ndispositivo no se queda en el taller: se instala un <strong>monitor\ncentral</strong> en Cronópolis (atrio de la Fortaleza de Acero) de modo\nque <strong>la ciudad pueda ver cuánto le queda al ritual</strong> desde\nun punto visible. Así, el estado de la cuenta atrás deja de depender\nsolo de explicadores puntuales: al volver a la ciudad, los PJ y la\nciudadanía ven el Contador.</p>\n<p>El Contador puede: - <strong>Mostrar cuántos segmentos</strong> le\nquedan al ritual antes de la Llamada de los Dioses - <strong>Detectar\nlos “hipos”</strong> del flujo de poder divino cuando un lugarteniente\ncae (parpadeo / retroceso de medio segmento), aunque no fueran los PJ\nquienes lo mataron - <strong>Servir de pista de investigación</strong>:\nun hipo que los PJ no provocaron + una región que sigue rota = alguien\n(Teach) está cazando lugartenientes - <strong>Avisar</strong> cuando la\ncuenta atrás entra en zona crítica</p>\n<p>Se convierte en herramienta crucial para La Resistencia y en\n<strong>referente visual</strong> para toda Cronópolis: los artífices lo\nmantienen y toda la ciudad sigue la cuenta atrás desde el centro.</p>\n<hr />\n<h2 id=\"métodos-de-combate\">⚔️ <strong>MÉTODOS DE COMBATE</strong></h2>\n<h3 id=\"tácticas-anti-magia\"><strong>Tácticas Anti-Magia</strong></h3>\n<ul>\n<li><strong>Interrupción</strong>: Atacan a los magos mientras lanzan\nhechizos</li>\n<li><strong>Neutralización</strong>: Usan tecnología para cancelar\nhechizos</li>\n<li><strong>Sabotaje</strong>: Destruyen artefactos mágicos y\nrituales</li>\n<li><strong>Asedio</strong>: Rodean fortalezas mágicas con máquinas\nanti-magia</li>\n</ul>\n<h3 id=\"defensas-tecnológicas\"><strong>Defensas\nTecnológicas</strong></h3>\n<ul>\n<li><strong>Muros Anti-Magia</strong>: Barreras que bloquean\nhechizos</li>\n<li><strong>Torres de Detección</strong>: Estructuras que localizan\nmagia</li>\n<li><strong>Trampas Mecánicas</strong>: Dispositivos que capturan\nintrusos</li>\n<li><strong>Refugios Estables</strong>: Zonas libres de\ndistorsiones</li>\n</ul>\n<hr />\n<h2 id=\"relación-con-los-pj\">🎯 <strong>RELACIÓN CON LOS\nPJ</strong></h2>\n<ul>\n<li><strong>Actitud</strong>: Neutrales, pero hostiles si hay magos en\nel grupo</li>\n<li><strong>Ventajas como Aliados</strong>: Tecnología anti-magia,\nconocimiento de debilidades de Cronófagos</li>\n<li><strong>Desventajas</strong>: Hostilidad hacia magos, métodos\nbrutales</li>\n<li><strong>Cuándo Aliarse</strong>: Contra enemigos puramente mágicos,\ncuando necesiten tecnología específica</li>\n</ul>\n<p><strong>⚠️ ADVERTENCIA</strong>: Si hay lanzadores de conjuros en el\ngrupo, La Resistencia los verá como objetivo. Su visión extrema (matar a\ntodos los magos, incluidos los jugadores) los convierte en enemigos\npotenciales.</p>\n<hr />\n<h2 id=\"posibles-giros-y-traiciones\">🔮 <strong>POSIBLES GIROS Y\nTRAICIONES</strong></h2>\n<ul>\n<li>Algunos miembros podrían tener agendas ocultas más allá de cazar\nmagos</li>\n<li>Podrían estar siendo manipulados por fuerzas externas</li>\n<li>Una facción interna podría querer usar la tecnología para controlar\nel tiempo en lugar de solo cazarlo</li>\n<li>El grupo podría descubrir que algunos miembros de La Resistencia\nfabrican armas con partes del cuerpo de Cronófagos (barbas, piel\nendurecida, fragmentos dimensionales), volviéndose igual de oscuros que\nlo que combaten</li>\n</ul>\n<hr />\n<h2 id=\"referencias-relacionadas\">🔗 <strong>REFERENCIAS\nRELACIONADAS</strong></h2>\n<ul>\n<li><strong>Dinámicas con Otras Facciones</strong>: <a href=\"./06_Dinamicas_Entre_Facciones.md\">06_Dinamicas_Entre_Facciones.md</a></li>\n<li><strong>Estrategias de Alianza</strong>: <a href=\"./06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza\">06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza</a></li>\n</ul>\n<hr />\n<p><em>La Resistencia lucha contra la magia con acero y vapor, pero su\nodio puede cegarlos hasta volverse tan peligrosos como lo que\ncombaten.</em> ⚙️🔧</p>",
+        "format": 1
+      },
+      "_id": "um5IQhfkHD31c00n",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!jhG7RBL70SrO5Sdm.um5IQhfkHD31c00n"
+    }
+  ],
+  "_id": "jhG7RBL70SrO5Sdm",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "9bebd02bdd4b3c89e6e9e9b665316b12dcb3fff3"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078426,
+    "modifiedTime": 1782851078426,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!jhG7RBL70SrO5Sdm"
+}

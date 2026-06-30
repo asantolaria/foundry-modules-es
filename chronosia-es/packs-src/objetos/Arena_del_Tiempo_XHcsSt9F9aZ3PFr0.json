@@ -1,0 +1,77 @@
+{
+  "name": "Arena del Tiempo",
+  "type": "equipment",
+  "img": "modules/chronosia-es/assets/objetos-magicos/06_arena-del-tiempo.jpg",
+  "system": {
+    "description": {
+      "value": "<figure>\n<img src=\"../../assets/objetos_magicos/06_arena-del-tiempo.jpg\" alt=\"Arena del Tiempo Estabilizada\" />\n<figcaption aria-hidden=\"true\">Arena del Tiempo\nEstabilizada</figcaption>\n</figure>\n<p><strong>Tipo:</strong> Artefacto (Requiere Sintonización)<br />\n<strong>Rareza:</strong> Artefacto Único<br />\n<strong>Peso:</strong> 8 libras<br />\n<strong>Creador:</strong> Serapis el Retroceso<br />\n<strong>Obtención:</strong> Derrotar a Serapis el Retroceso<br />\n<strong>Función:</strong> Permite entrar en bucles temporales sin quedar\natrapado</p>\n<h4 id=\"ubicación-y-obtención\"><strong>📍 Ubicación y\nObtención:</strong></h4>\n<p><strong>Ubicación:</strong> - <strong>Lugar:</strong> La Espiral\nInversa (región de Serapis) - <strong>Poseedor:</strong> Serapis el\nRetroceso - <strong>Estado:</strong> Serapis lo usa para controlar los\nbucles temporales de su región</p>\n<p><strong>Cómo Obtenerlo:</strong> 1. <strong>Derrotar a Serapis el\nRetroceso:</strong> Al derrotarlo, la Arena puede ser obtenida como\nbotín 2. <strong>Nivel Recomendado:</strong> 5-7 (primera región\nrecomendada) 3. <strong>Región:</strong> La Espiral Inversa</p>\n<p><strong>Requisitos:</strong> - <strong>Derrotar a Serapis:</strong>\nLos PJ deben enfrentar y derrotar a Serapis el Retroceso - <strong>Nivel\nRecomendado:</strong> 5-7 (primera región recomendada) -\n<strong>Nota:</strong> Serapis es el primer lugarteniente recomendado\npara enfrentar</p>\n<p><strong>Uso Post-Obtención:</strong> - <strong>Desbloquea:</strong>\nPermite acceder a Las Ruinas del Tiempo Perdido (región de Tempus) -\n<strong>Alternativa:</strong> Si los PJ derrotan 3+ lugartenientes\ntemporales, pueden acceder sin la Arena - <strong>Componente del\nRotor:</strong> El Núcleo Temporal de Serapis es parte del Rotor\nInfinito</p>\n<h4 id=\"historia\"><strong>📜 Historia:</strong></h4>\n<p>Artefacto creado por Serapis usando su poder de reversión temporal.\nContiene arena temporal estabilizada que permite navegar por bucles\ntemporales sin quedar atrapado en ellos.</p>\n<h4 id=\"descripción-física\"><strong>🎨 Descripción Física:</strong></h4>\n<p>Un reloj de arena de 2 pies de altura con estructura de bronce\nantiguo. La arena dentro es dorada y brilla con luz temporal. La arena\nfluye normalmente hacia abajo, pero cuando se invierte, puede crear o\nestabilizar bucles temporales. Los cristales que contienen la arena son\nindestructibles y muestran reflejos de múltiples momentos\ntemporales.</p>\n<h4 id=\"propiedades-mágicas\"><strong>⚡ Propiedades\nMágicas:</strong></h4>\n<p><strong>Protección de Bucle (Pasivo):</strong> - El portador es\ninmune a quedar atrapado en bucles temporales - Puede entrar y salir de\nbucles temporales a voluntad - Mantiene memoria completa de todas las\niteraciones del bucle - Ventaja en tiradas de salvación contra efectos\nde bucle temporal</p>\n<p><strong>Estabilización de Bucle (Activo, 3 cargas/día):</strong> - El\nportador puede estabilizar un bucle temporal en un radio de 60 pies - El\nbucle se vuelve controlable - el portador puede elegir cuándo avanzar o\nretroceder - Otros en el área también pueden navegar el bucle con\nseguridad - <strong>Duración:</strong> 1 hora - <strong>CD de\nSalvación:</strong> N/A (afecta el tiempo, no criaturas)</p>\n<p><strong>Reversión Temporal Menor (Activo, 1/día):</strong> - El\nportador puede revertir el tiempo 1 turno atrás - Todo vuelve a como\nestaba al inicio del turno anterior (excepto la memoria del portador) -\n<strong>Limitación:</strong> Solo puede usarse una vez por día</p>\n<p><strong>Desbloqueo de Región:</strong> - Permite acceder a Las Ruinas\ndel Tiempo Perdido (región de Tempus) - Protege contra los bucles\ntemporales descontrolados de la región</p>\n<p><strong>Recarga de Cargas:</strong> - Las 3 cargas de Estabilización\nde Bucle se recuperan al amanecer - La carga de Reversión Temporal Menor\nse recupera al amanecer</p>\n<hr />",
+      "chat": ""
+    },
+    "rarity": "veryRare",
+    "type": {
+      "value": "trinket",
+      "baseItem": ""
+    },
+    "activities": {},
+    "uses": {
+      "spent": 0,
+      "recovery": []
+    },
+    "identifier": "arena-del-tiempo",
+    "source": {
+      "revision": 1,
+      "rules": "2024"
+    },
+    "identified": true,
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": "",
+    "attuned": false,
+    "equipped": false,
+    "crew": {
+      "value": []
+    },
+    "armor": {
+      "value": null,
+      "dex": null
+    },
+    "proficient": null,
+    "properties": [],
+    "strength": null
+  },
+  "_id": "XHcsSt9F9aZ3PFr0",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "6e4d55d924ccab99d677ee60bf8eff2f6a8cae42"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782850669364,
+    "modifiedTime": 1782850669364,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!items!XHcsSt9F9aZ3PFr0"
+}

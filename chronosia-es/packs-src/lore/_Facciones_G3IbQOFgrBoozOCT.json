@@ -1,0 +1,27 @@
+{
+  "name": "⚔️ Facciones",
+  "type": "JournalEntry",
+  "_id": "G3IbQOFgrBoozOCT",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "f40b1add7f43bbbd0529921cdf56dc8ad26c36de"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078327,
+    "modifiedTime": 1782851078327,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!G3IbQOFgrBoozOCT"
+}

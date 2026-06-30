@@ -1,0 +1,27 @@
+{
+  "name": "🐉 Bestiario",
+  "type": "JournalEntry",
+  "_id": "OMR2XXzbLgP8rLTy",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "d7cf7f80166a3f9f44bc27e024297fc7049334b6"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078340,
+    "modifiedTime": 1782851078340,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!OMR2XXzbLgP8rLTy"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "chronosia-es",
+  "title": "Chronosia — El Reino del Tiempo Fracturado (ES)",
+  "description": "Contenido de la campaña homebrew Chronosia en español: objetos mágicos, lore (60 diarios), bestiario (39 criaturas con stats afinados y ataques mecanizados), lugartenientes (12) y 14 escenas. Requiere el sistema dnd5e.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Alex Santolaria"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "objetos",
+      "label": "🌌 Objetos mágicos de Chronosia",
+      "path": "packs/objetos",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "lore",
+      "label": "🌌 Lore de Chronosia",
+      "path": "packs/lore",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "bestiario",
+      "label": "🌌 Bestiario de Chronosia",
+      "path": "packs/bestiario",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "lugartenientes",
+      "label": "🌌 Lugartenientes de Chronosia",
+      "path": "packs/lugartenientes",
+      "type": "Actor",
+      "system": "dnd5e"
+    },
+    {
+      "name": "escenas",
+      "label": "🌌 Escenas de Chronosia",
+      "path": "packs/escenas",
+      "type": "Scene"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "🌌 Chronosia",
+      "sorting": "m",
+      "packs": [
+        "objetos",
+        "lore",
+        "bestiario",
+        "lugartenientes",
+        "escenas"
+      ]
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/asantolaria/foundry-modules-es/main/chronosia-es/module.json",
+  "download": "https://github.com/asantolaria/foundry-modules-es/releases/download/chronosia-es-v1.0.0/chronosia-es.zip",
+  "url": "https://github.com/asantolaria/foundry-modules-es"
+}

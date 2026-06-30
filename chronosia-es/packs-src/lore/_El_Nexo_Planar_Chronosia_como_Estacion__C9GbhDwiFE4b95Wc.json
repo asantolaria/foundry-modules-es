@@ -1,0 +1,65 @@
+{
+  "name": "🌌 El Nexo Planar — Chronosia como Estación Central",
+  "folder": "cZauQsUhlI4RfkV8",
+  "pages": [
+    {
+      "name": "🌌 El Nexo Planar — Chronosia como Estación Central",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"el-nexo-planar-chronosia-como-estación-central\">🌌 El Nexo\nPlanar — Chronosia como Estación Central</h1>\n<blockquote>\n<p><strong>⭐ FUENTE DE VERDAD</strong> sobre la naturaleza de Chronosia\ncomo cruce de planos y sobre cómo la campaña abre el camino a otras\n(Underdark, Barovia, Averno, Planos Elementales).</p>\n<p>Este documento define el <strong>marco</strong>. Los ganchos\nconcretos de continuación viven aquí; los statblocks de cada\nlugarteniente, en su archivo individual.</p>\n</blockquote>\n<hr />\n<h2 id=\"concepto-central\">🎯 Concepto central</h2>\n<p>Chronosia <strong>no es un plano más</strong>: es un <strong>limbo\nfracturado anclado entre planos</strong>. Cuando Aethernus capturó a\nAmaunator (tiempo) y Voidar (espacio), su pugna desgarró la realidad\nlocal y la convirtió en un <strong>cruce de caminos</strong> donde otros\nplanos “rozan” y se filtran.</p>\n<p>Por eso cada región del mapa <strong>se parece a otro plano</strong>:\nno es casualidad estética, es que el tejido está roto y deja pasar a sus\nvecinos. Y por eso varios lugartenientes pueden <strong>abrir\nportales</strong> a mundos concretos: están explotando grietas que ya\nexistían.</p>\n<p><strong>Consecuencia de diseño:</strong> cuando los PJ estabilizan\nChronosia al final (nivel 10), no “cierran” el limbo — lo\n<strong>convierten en una estación funcional</strong>. Las grietas\ncaóticas se vuelven <strong>portales controlados</strong>. Chronosia\npasa a ser el <strong>hub</strong> desde el que puede arrancar cualquier\ncampaña siguiente, con los mismos PJ o con otros nuevos.</p>\n<hr />\n<h2 id=\"mapa-de-conexiones-cada-lugarteniente-es-una-puerta\">🗺️ Mapa de\nconexiones: cada lugarteniente es una puerta</h2>\n<p>Las conexiones <strong>no se inventan</strong>: se derivan de los\npoderes y la raza que cada lugarteniente ya tiene. Derrotar (o aliarse\ncon) al señor de una región <strong>estabiliza su grieta</strong> y la\ndeja como portal navegable.</p>\n<table>\n<colgroup>\n<col style=\"width:25%\"></col>\n<col style=\"width:25%\"></col>\n<col style=\"width:25%\"></col>\n<col style=\"width:25%\"></col>\n</colgroup>\n<thead>\n<tr class=\"header\">\n<th>Lugarteniente</th>\n<th>Pista ya presente en su diseño</th>\n<th>Plano / dominio</th>\n<th>Continuación natural</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"odd\">\n<td><strong>Matrona Yrindra</strong> (Drow)</td>\n<td>Portales a <strong>Menzoberranzan</strong>, poder de\n<strong>Lolth</strong></td>\n<td><strong>Underdark</strong> + Telaraña Demoníaca</td>\n<td>Campaña drow / <em>Out of the Abyss</em></td>\n</tr>\n<tr class=\"even\">\n<td><strong>Lord Vorthak</strong> (Vampiro Ancestral)</td>\n<td>No-muerto feudal, drena vida, dominio aislado</td>\n<td><strong>Shadowfell → Barovia</strong> (Dominio del Terror)</td>\n<td><em>Curse of Strahd</em></td>\n</tr>\n<tr class=\"odd\">\n<td><strong>Dimensionalis</strong> (Tiefling)</td>\n<td>Herencia infernal, fractura a “otras dimensiones”</td>\n<td><strong>Nueve Infiernos → Avernus</strong></td>\n<td><em>Descent into Avernus</em></td>\n</tr>\n<tr class=\"even\">\n<td><strong>Ignis</strong> (Dragón Rojo Ancestral)</td>\n<td>Portales al <strong>Plano Elemental del Fuego</strong>, hueste de\ndragones</td>\n<td><strong>Plano del Fuego</strong> (y refuerzo infernal)</td>\n<td>Aventura elemental / Avernus</td>\n</tr>\n<tr class=\"odd\">\n<td><strong>Ymir</strong> (Elemental de Hielo)</td>\n<td><strong>“Reclutador Interplanar”</strong>, portales al <strong>Plano\ndel Agua</strong></td>\n<td><strong>Plano del Agua</strong> + <strong>eje de la\nred</strong></td>\n<td>Aventura elemental</td>\n</tr>\n<tr class=\"even\">\n<td><strong>Serapis</strong> (Elfo Eterno)</td>\n<td>Inmortal, reversión temporal</td>\n<td><strong>Feywild</strong> (linaje eterno)</td>\n<td>Gancho suave (Feywild)</td>\n</tr>\n<tr class=\"odd\">\n<td><strong>Tempus</strong> (Constructo, bucles perfectos)</td>\n<td>Orden mecánico, repetición exacta</td>\n<td><strong>Mechanus</strong> (relojería, modrones)</td>\n<td>Gancho suave (ley vs caos)</td>\n</tr>\n<tr class=\"even\">\n<td><strong>Las Gemelas del Espejo</strong></td>\n<td>Dimensión espejo simétrica</td>\n<td><strong>Plano de los Espejos</strong> / demiplano propio</td>\n<td>Gancho propio</td>\n</tr>\n<tr class=\"odd\">\n<td><strong>Edward Teach</strong> (Pirata)</td>\n<td>“Portal de Invocación” multiversal, mar</td>\n<td><strong>Plano del Agua</strong> / multiverso caótico</td>\n<td>Gancho propio (marítimo)</td>\n</tr>\n</tbody>\n</table>\n<blockquote>\n<p><strong>Lectura rápida:</strong> los <strong>tres destinos\nclásicos</strong> que un grupo pedirá —<strong>Underdark, Barovia,\nAverno</strong>— ya están cableados por Yrindra, Vorthak y\nDimensionalis. Los <strong>Planos Elementales</strong> son el cuarto,\nvía Ignis e Ymir.</p>\n</blockquote>\n<hr />\n<h2 id=\"ymir-la-llave-maestra\">🔑 Ymir, la llave maestra</h2>\n<p>Ymir el Eterno Invierno está descrito como <strong>“Reclutador\nInterplanar — mantiene la red de portales que trae suministros y\ncriaturas de otros planos”</strong>. Eso lo convierte en la\n<strong>pieza estructural</strong> del hub:</p>\n<ul>\n<li>Mientras Ymir vive, la red de portales es <strong>caótica y de un\nsolo sentido</strong> (las cosas <em>entran</em> a Chronosia,\ndescontroladas).</li>\n<li>Al derrotarlo, los PJ pueden <strong>capturar el control de la\nred</strong> (con ayuda de los Anacronistas / Din Goldgear) en lugar de\ndestruirla.</li>\n<li>Esa red, reorientada, es <strong>el panel de control del hub\nfinal</strong>: lo que permite elegir destino al terminar la\ncampaña.</li>\n</ul>\n<p><strong>Recomendación:</strong> que Ymir sea de los\n<strong>últimos</strong> que los PJ enfrenten, o que su derrota se\nreserve narrativamente para la antesala del clímax, porque su red es el\nmecanismo del epílogo-hub.</p>\n<hr />\n<h2 id=\"el-final-como-apertura-no-como-cierre\">🏛️ El final como apertura\n(no como cierre)</h2>\n<p>El cierre de la campaña a nivel 10 estabiliza Chronosia y\n<strong>transforma las grietas en portales</strong>. En vez de “y todos\nvolvieron a casa”, el epílogo presenta el <strong>Atrio de los\nPortales</strong> en Cronópolis: una sala (la antigua red de Ymir,\nreorientada) con un portal por cada región estabilizada.</p>\n<p>Cada portal estabilizado = <strong>una puerta a su\nplano</strong>:</p>\n<ul>\n<li>🕸️ Portal de Veldrisza → <strong>Underdark /\nMenzoberranzan</strong></li>\n<li>🧛 Portal de Vorthak → <strong>las Nieblas / Barovia</strong></li>\n<li>🔥 Portal de Dimensionalis / Ignis → <strong>Avernus / Plano del\nFuego</strong></li>\n<li>🌊 Portal de Ymir → <strong>Plano Elemental del Agua</strong></li>\n<li>🌿 Portal de Serapis → <strong>Feywild</strong>\n<em>(opcional)</em></li>\n</ul>\n<blockquote>\n<p><strong>Frase tipo para el DM (epílogo):</strong> <em>“Habéis dejado\nde ser víctimas de un limbo roto. Ahora sois sus guardianes — y este\nlugar, antes una herida en la realidad, es la única encrucijada desde la\nque se puede llegar a cualquier parte. La pregunta ya no es cómo salir\nde Chronosia. Es: ¿a dónde queréis ir ahora?”</em></p>\n</blockquote>\n<hr />\n<h2 id=\"ganchos-de-continuación-uno-por-destino\">🔗 Ganchos de\ncontinuación (uno por destino)</h2>\n<p>Pensados para que el DM pueda <strong>encadenar</strong> con una\ncampaña publicada o propia. Cada gancho explica <strong>por qué el\nportal lleva ahí</strong> y <strong>qué arrastran los PJ</strong> de\nChronosia.</p>\n<h3 id=\"underdark-out-of-the-abyss-campaña-drow\">🕸️ Underdark — <em>Out\nof the Abyss</em> / campaña drow</h3>\n<ul>\n<li><strong>Puerta:</strong> la Ciudad Subterránea de Veldrisza\ndesemboca, ya estable, en los túneles del Underdark real.</li>\n<li><strong>Hook:</strong> al estabilizar la grieta, los PJ descubren\nque el portal de Lolth de Veldrisza <strong>no se cerró del\ntodo</strong> — algo en Menzoberranzan tira del otro lado.</li>\n<li><strong>Arrastre:</strong> conocimiento de portales drow; posible\nenemistad con casas drow por haber matado a una Matrona.</li>\n</ul>\n<h3 id=\"barovia-curse-of-strahd\">🧛 Barovia — <em>Curse of\nStrahd</em></h3>\n<ul>\n<li><strong>Puerta:</strong> la Mansión de la Sed Eterna de Vorthak\nsiempre estuvo medio sumergida en <strong>niebla</strong>. Al caer\nVorthak, la niebla no se disipa: <strong>se espesa</strong> y reclama la\nregión.</li>\n<li><strong>Hook:</strong> los PJ entienden tarde que Vorthak era solo\n<strong>un noble vampiro menor</strong> comparado con lo que vive <em>al\notro lado de la niebla</em>. Las nieblas de Barovia llevaban tiempo\nfiltrándose; ahora hay una puerta.</li>\n<li><strong>Arrastre:</strong> un grupo que ya sabe luchar contra\nno-muertos antiguos — y que ha llamado la atención de algo peor.</li>\n</ul>\n<h3 id=\"averno-descent-into-avernus\">🔥 Averno — <em>Descent into\nAvernus</em></h3>\n<ul>\n<li><strong>Puerta:</strong> las fracturas de Dimensionalis (tiefling) y\nlas Calderas de Ignis comparten un <strong>mismo sustrato\ninfernal</strong>. Estabilizadas juntas, forman un descenso.</li>\n<li><strong>Hook:</strong> entre el botín de Aethernus aparece un\n<strong>contrato infernal</strong> (pista de que Manshoon trató con los\nNueve Infiernos para su ascensión). La deuda no murió con él.</li>\n<li><strong>Arrastre:</strong> un objeto/aliado infernal y una deuda\npendiente que alguien vendrá a cobrar.</li>\n</ul>\n<h3 id=\"planos-elementales-aventura-elemental\">🌊 Planos Elementales —\naventura elemental</h3>\n<ul>\n<li><strong>Puerta:</strong> la red de Ymir (Agua) y las Calderas de\nIgnis (Fuego), una vez bajo control de los PJ, dan acceso directo a los\nPlanos Elementales.</li>\n<li><strong>Hook:</strong> estabilizar Chronosia requirió <strong>tomar\nprestada</strong> energía elemental; los Planos quieren que se la\ndevuelvan.</li>\n<li><strong>Arrastre:</strong> el control de la red de portales =\ncapacidad de viaje planar para futuras campañas.</li>\n</ul>\n<hr />\n<h2 id=\"notas-de-coherencia-para-el-dm\">🧭 Notas de coherencia para el\nDM</h2>\n<ol type=\"1\">\n<li><strong>No todos los portales tienen que abrirse.</strong> El DM\nactiva solo los destinos que piense usar; el resto quedan como “puertas\nselladas, para otro día”.</li>\n<li><strong>La campaña es completa en sí misma.</strong> El hub es un\n<em>bonus de continuidad</em>, no un final colgando. Derrotar a\nAethernus y estabilizar el limbo <strong>cierra</strong> la historia de\nChronosia; los portales son el epílogo, no un cliffhanger forzado.</li>\n<li><strong>Mismos PJ u otros nuevos.</strong> El hub permite continuar\ncon el grupo a nivel 10 (entran en la siguiente campaña ya rodados) o\nrearrancar con PJ nuevos que “llegan a Cronópolis por un portal”.</li>\n<li><strong>Conexión con el lore existente:</strong> estos planos ya\naparecen en los poderes de los lugartenientes; ver <a href=\"./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md\">04_Cronofagos_Detallado/00_Cronofagos_Detallado.md</a>\n(sección “Dos Tipos de Lugartenientes” y portales de\nVeldrisza/Ignis/Ymir).</li>\n</ol>\n<hr />\n<p><em>Chronosia empezó como una herida en la realidad. Termina como la\npuerta a todas ellas.</em></p>",
+        "format": 1
+      },
+      "_id": "heLyfg2BTK3TNwiz",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!C9GbhDwiFE4b95Wc.heLyfg2BTK3TNwiz"
+    }
+  ],
+  "_id": "C9GbhDwiFE4b95Wc",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ae6e26b8d704240a48ee6e3ba9e619ed25109735"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078860,
+    "modifiedTime": 1782851078860,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!C9GbhDwiFE4b95Wc"
+}

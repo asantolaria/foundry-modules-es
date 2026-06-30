@@ -1,0 +1,27 @@
+{
+  "name": "🎲 Cómo dirigir",
+  "type": "JournalEntry",
+  "_id": "5PRP7BhlOfGbTJBI",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "3cec01d550d691e669327165de416901f1b3b1f6"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078339,
+    "modifiedTime": 1782851078339,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!5PRP7BhlOfGbTJBI"
+}

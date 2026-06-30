@@ -1,0 +1,115 @@
+{
+  "name": "Crónopolis",
+  "navigation": true,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": null,
+  "width": 2400,
+  "height": 1792,
+  "padding": 0.25,
+  "initial": null,
+  "backgroundColor": "#000000",
+  "grid": {
+    "size": 140,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft",
+    "style": "solidLines",
+    "thickness": 1
+  },
+  "tokenVision": false,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {},
+  "background": {
+    "src": "modules/chronosia-es/assets/maps/11_cronopolis.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null,
+    "anchorX": 0,
+    "anchorY": 0,
+    "fit": "fill",
+    "alphaThreshold": 0
+  },
+  "foregroundElevation": 20,
+  "journalEntryPage": null,
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.3.3",
+    "createdTime": 1782739152919,
+    "modifiedTime": 1782739152919,
+    "lastModifiedBy": "Hu7n9592C80RoJFD"
+  },
+  "folder": null,
+  "_id": "7jHdMifQu2ROD9hZ",
+  "regions": [],
+  "environment": {
+    "globalLight": {
+      "luminosity": 0,
+      "enabled": true,
+      "darkness": {
+        "max": 1,
+        "min": 0
+      },
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0
+    },
+    "darknessLevel": 0.2,
+    "darknessLock": false,
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "fog": {
+    "exploration": false,
+    "reset": 1655671311198,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "sort": 1200,
+  "ownership": {
+    "default": 0
+  },
+  "active": false,
+  "_key": "!scenes!7jHdMifQu2ROD9hZ"
+}

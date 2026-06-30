@@ -1,0 +1,39 @@
+{
+  "id": "combat-feedback-es",
+  "title": "Feedback de Combate (ES)",
+  "description": "Muestra texto flotante de IMPACTO / FALLO / ¡CRÍTICO! / PIFIA sobre el objetivo al resolver ataques con Midi-QOL, y un efecto opcional en crítico. Contenido propio.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "authors": [
+    {
+      "name": "Alejandro Santolaria"
+    }
+  ],
+  "esmodules": [
+    "scripts/combat-feedback.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "socketlib",
+        "type": "module"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "midi-qol",
+        "type": "module"
+      },
+      {
+        "id": "sequencer",
+        "type": "module"
+      }
+    ]
+  },
+  "manifest": "https://raw.githubusercontent.com/asantolaria/foundry-modules-es/main/combat-feedback-es/module.json",
+  "download": "https://github.com/asantolaria/foundry-modules-es/releases/download/combat-feedback-es-v0.1.0/combat-feedback-es.zip",
+  "url": "https://github.com/asantolaria/foundry-modules-es"
+}

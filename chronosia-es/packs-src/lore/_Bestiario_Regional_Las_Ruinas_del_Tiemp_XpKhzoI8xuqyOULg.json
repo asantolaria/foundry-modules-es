@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — Las Ruinas del Tiempo Perdido",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — Las Ruinas del Tiempo Perdido",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-las-ruinas-del-tiempo-perdido\">🐉 Bestiario\nRegional — Las Ruinas del Tiempo Perdido</h1>\n<figure>\n<img src=\"../../assets/mapas/04_ruinas-del-tiempo-perdido.png\" alt=\"Mapa de Las Ruinas del Tiempo Perdido\" />\n<figcaption aria-hidden=\"true\">Mapa de Las Ruinas del Tiempo\nPerdido</figcaption>\n</figure>\n<h2 id=\"lugarteniente-tempus-el-fragmentado-tipo-temporal-nivel-pj-6-7\">Lugarteniente:\nTempus el Fragmentado · Tipo: Temporal · Nivel PJ: 6-7</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>Las Ruinas del Tiempo Perdido son los restos de una ciudad-reloj que\nexistió “entre tics”, fuera del flujo normal del tiempo. Engranajes del\ntamaño de torres giran sin sentido en el aire, escaleras suben hacia\nayeres que ya no están, y un orden mecánico moribundo —eco lejano del\nnexo planar de Mechanus— intenta seguir funcionando aunque el reloj\ncentral, Tempus, esté roto. Aquí el tiempo no se repite ni retrocede:\nsimplemente se desordena, y los guardianes de relojería ejecutan\ninstrucciones de hace milenios.</p>\n<h2 id=\"villano-menor-magistrado-cerografo-el-engranaje-desfasado\">😈\nVillano Menor — Magistrado Cerografo, el Engranaje Desfasado</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/04_magistrado-cerografo-engranaje-desfasado.jpg\" alt=\"Magistrado Cerografo, el Engranaje Desfasado\" />\n<figcaption aria-hidden=\"true\">Magistrado Cerografo, el Engranaje\nDesfasado</figcaption>\n</figure>\n<p>Cerografo fue el “magistrado del orden” de la ciudad-reloj: un\nconstructo administrador modelado a imagen de los modrones, encargado de\nmantener cada cosa en su instante exacto. Cuando Tempus se fragmentó,\nCerografo siguió cumpliendo su función con lógica enloquecida — ahora\n“corrige” cualquier criatura que esté “en el tiempo equivocado”, lo que\npara él significa todos los seres vivos. No es el lugarteniente: es su\ncapataz mecánico, el sub-jefe que custodia los engranajes mientras\nTempus delira en el corazón de las ruinas.</p>\n<p><strong>Statblock</strong> (formato compacto): -\n<strong><em>Magistrado Cerografo</em></strong> — <em>mediano constructo\n(relojería desfasada), legal maligno</em> · <strong>CR</strong> 5 (1800\nXP) - <strong>CA</strong> 17 (caparazón de latón) · <strong>PG</strong>\n95 (10d8+50) · <strong>Vel.</strong> 30 pies - <strong>Atributos\nrelevantes:</strong> FUE +4, DES +2, CON +5, INT +3 -\n<strong>Salvaciones/Sentidos clave:</strong> Salv. CON +8, visión\nverdadera 60 pies, Percepción pasiva 13; <strong>CD</strong> de sus\nefectos 14. Inmune a veneno, psíquico, agotamiento, encantamiento. -\n<strong>Rasgos:</strong> - <em>Lógica de Mechanus:</em> inmune a efectos\nque provoquen confusión o le hagan actuar fuera de orden; siempre actúa\nen la iniciativa 20 (perdiendo empates) cuando “corrige el cronograma”.\n- <em>Desfase defensivo (recarga 5-6, reacción):</em> al ser impactado,\nsalta 1 segundo hacia delante; el ataque lo atraviesa sin efecto y\nreaparece a 5 pies. - <strong>Acciones:</strong> - <em>Multiataque:</em>\ndos golpes de péndulo. - <em>Golpe de péndulo:</em> +7 al impacto,\nalcance 10 pies, 2d8+4 contundente. - <em>Sentencia de corrección\n(recarga 6):</em> fija a una criatura a 30 pies en un “instante\nincorrecto”; salv. SAB CD 14 o queda incapacitada hasta el final de su\nsiguiente turno mientras es desincronizada del tiempo (al fallar,\ntambién sufre 3d6 de daño de fuerza por el “ajuste”). - <strong>Tácticas\n/ Al ser derrotado:</strong> Lucha con frialdad metódica, priorizando al\nobjetivo “más fuera de orden” (el de mayor iniciativa). Al caer, sus\nengranajes se detienen y recita: “Cronograma… incompleto…”; uno de sus\nengranajes puede usarse como llave para una cámara sellada de\nTempus.</p>\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><strong><em>Guardián Modrón Desfasado</em></strong> — <em>pequeño\nconstructo (relojería), legal neutral</em> · <strong>CR</strong> 2 (450\nXP)\n<ul>\n<li><strong>CA</strong> 15 · <strong>PG</strong> 36 (8d6+8) ·\n<strong>Vel.</strong> 30 pies</li>\n<li><strong>Atributos relevantes:</strong> FUE +2, DES +3, CON +2</li>\n<li><strong>Sentidos:</strong> visión verdadera 30 pies, Percepción\npasiva 11; inmune a veneno y encantamiento</li>\n<li><strong>Rasgo:</strong> <em>Patrulla milenaria:</em> sigue una ruta\nfija de hace eras; mientras los PJ no la crucen, los ignora. Atacado,\n“registra la anomalía” y avisa a otros guardianes a 60 pies.</li>\n<li><strong>Acción:</strong> <em>Taladro de latón:</em> +5 al impacto,\n1d8+3 perforante; con dos impactos a la misma criatura, esta queda\nagarrada por engranajes (escapar: Atletismo/Acrobacias CD 13).</li>\n<li><strong>Tácticas / Al ser derrotado:</strong> Se desmonta en piezas\nque siguen girando un instante; sus engranajes intactos sirven de\nrepuestos (gancho de objeto).</li>\n</ul></li>\n<li><strong><em>Fragmento de Tiempo Animado</em></strong> — <em>mediano\nelemental (tiempo), caótico neutral</em> · <strong>CR</strong> 3 (700\nXP)\n<ul>\n<li><strong>CA</strong> 14 · <strong>PG</strong> 52 (8d8+16) ·\n<strong>Vel.</strong> vuelo 30 pies (flotante)</li>\n<li><strong>Atributos relevantes:</strong> DES +4, CON +3, INT -3</li>\n<li><strong>Sentidos:</strong> percepción ciega 30 pies, Percepción\npasiva 12; resistente a daño no mágico</li>\n<li><strong>Rasgo:</strong> <em>Inestabilidad cronal:</em> al inicio de\ncada uno de sus turnos, tira 1d6: con 1-2 acelera (ataque extra), con\n5-6 se ralentiza (velocidad 0 ese turno). Encarna un instante suelto que\nno sabe a qué momento pertenece.</li>\n<li><strong>Acciones:</strong>\n<ul>\n<li><em>Latigazo de instante:</em> +6 al impacto, alcance 10 pies, 2d6+4\nde daño de fuerza.</li>\n<li><em>Salto temporal (recarga 5-6):</em> se teletransporta hasta 60\npies y la criatura más cercana al destino debe superar salv. DES CD 13 o\n“envejecer un asalto” (sufre 2d8 necrótico).</li>\n</ul></li>\n<li><strong>Tácticas / Al ser derrotado:</strong> Estalla en una onda\nque adelanta o atrasa los relojes cercanos; puede activar o detener un\nmecanismo de las ruinas.</li>\n</ul></li>\n<li><strong><em>Coloso de Engranajes</em></strong> — <em>grande\nconstructo (relojería rota), sin alineamiento</em> · <strong>CR</strong>\n4 (1100 XP)\n<ul>\n<li><strong>CA</strong> 16 (chapa de hierro y bronce) ·\n<strong>PG</strong> 76 (8d10+32) · <strong>Vel.</strong> 25 pies</li>\n<li><strong>Atributos relevantes:</strong> FUE +6, CON +4, DES -1</li>\n<li><strong>Sentidos:</strong> visión verdadera 30 pies, Percepción\npasiva 10; inmune a veneno, psíquico y encantamiento</li>\n<li><strong>Rasgo:</strong> <em>Maquinaria atascada:</em> la primera vez\nque cae a 0 PG, en vez de destruirse, “se reinicia” tras 1 asalto\ninmóvil con la mitad de sus PG (una sola vez).</li>\n<li><strong>Acciones:</strong>\n<ul>\n<li><em>Multiataque:</em> dos puñetazos de pistón.</li>\n<li><em>Puño de pistón:</em> +8 al impacto, alcance 10 pies, 2d10+6\ncontundente; objetivo derribado con un fallo en salv. FUE CD 15.</li>\n<li><em>Descarga de vapor a presión (recarga 6):</em> cono de 15 pies,\nsalv. DES CD 14, 4d6 de fuego (mitad si tiene éxito).</li>\n</ul></li>\n<li><strong>Tácticas / Al ser derrotado:</strong> Sus engranajes ruedan\npor las salas y pueden trabar puertas o aplastar a quien esté detrás\n(peligro ambiental).</li>\n</ul></li>\n</ul>\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><strong>Veturia la Cronista</strong> — gnoma autómata (mente viva en\ncuerpo de relojería), archivista de las ruinas. Habla con tics y pausas\ncomo un reloj viejo; ha catalogado cada instante perdido de la ciudad.\n<strong>Ofrece:</strong> un mapa de los “instantes seguros” donde el\ntiempo aún fluye normal, a cambio de que los PJ recuperen su\nengranaje-corazón robado por un Coloso.</li>\n<li><strong>El Errante de Bronce</strong> — humano desincronizado,\nsobreviviente que entró en las ruinas hace “un minuto”… o hace cien\naños, no lo sabe. Envejece y rejuvenece a saltos.\n<strong>Ofrece:</strong> advertencias crípticas sobre Tempus y la ruta\nhasta Cerografo; teme que “arreglar” el reloj lo borre a él, atrapado\nentre tiempos.</li>\n<li><strong>Maestra Quintilla</strong> — enana ingeniera mercenaria que\nacampa en el borde de las ruinas vendiendo herramientas y aceite cronal.\nPragmática y mordaz. <strong>Ofrece:</strong> kits para desactivar\nguardianes sin combate y comprar engranajes intactos a buen precio\n(dadora de misiones de “recadero mecánico”).</li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li>El engranaje-corazón de Veturia está dentro de un Coloso de\nEngranajes errante: recuperarlo le devuelve la lucidez y abre el mapa de\ninstantes seguros para cruzar las ruinas hasta Tempus.</li>\n<li>El Errante de Bronce suplica a los PJ que no detengan a Cerografo,\nporque su “corrección” es lo único que mantiene su propio cuerpo\ncohesionado entre saltos temporales — dilema moral antes del\nenfrentamiento.</li>\n<li>Maestra Quintilla paga por engranajes intactos de guardianes y\nColosos, pero uno de esos engranajes (el del Magistrado Cerografo) es la\nllave de la cámara sellada de Tempus el Fragmentado: venderlo cierra el\nacceso al lugarteniente.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "B6GIwKYCUVBaoh3H",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!XpKhzoI8xuqyOULg.B6GIwKYCUVBaoh3H"
+    }
+  ],
+  "_id": "XpKhzoI8xuqyOULg",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "ddc4af3fcfeb228c0078a990eb0f97ba43e918b9"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078679,
+    "modifiedTime": 1782851078679,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!XpKhzoI8xuqyOULg"
+}

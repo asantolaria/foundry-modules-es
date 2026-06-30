@@ -1,0 +1,27 @@
+{
+  "name": "👑 Lugartenientes (Cronófagos)",
+  "type": "JournalEntry",
+  "_id": "ux7azOAWAkymNEvT",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "9491a50ecdaef04a62f5a21396c54f62dcb658aa"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078343,
+    "modifiedTime": 1782851078343,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!ux7azOAWAkymNEvT"
+}

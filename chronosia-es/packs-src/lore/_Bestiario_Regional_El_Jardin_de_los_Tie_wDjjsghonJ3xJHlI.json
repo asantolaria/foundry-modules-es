@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — El Jardín de los Tiempos Gemelos",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — El Jardín de los Tiempos Gemelos",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-el-jardín-de-los-tiempos-gemelos\">🐉\nBestiario Regional — El Jardín de los Tiempos Gemelos</h1>\n<figure>\n<img src=\"../../assets/mapas/02_jardin-tiempos-gemelos.png\" alt=\"Mapa de El Jardín de los Tiempos Gemelos\" />\n<figcaption aria-hidden=\"true\">Mapa de El Jardín de los Tiempos\nGemelos</figcaption>\n</figure>\n<h2 id=\"lugartenientes-medusa-la-eterna-estasispetrificación-temporal-y-las-gemelas-del-espejo-dimensión-espejo-tipo-temporal-dimensional-nivel-pj-5-7\">Lugartenientes:\nMedusa la Eterna (estasis/petrificación temporal) Y Las Gemelas del\nEspejo (dimensión espejo) · Tipo: Temporal / Dimensional · Nivel PJ:\n5-7</h2>\n<blockquote>\n<p>Da vida propia a la región más allá de los lugartenientes: un villano\nmenor, bestias firma y NPCs locales. En este jardín el tiempo se detiene\nentre los setos y cada superficie pulida esconde un mundo invertido. Las\nestatuas avanzan cuando nadie las mira; los reflejos aprenden a odiar a\nsu original.</p>\n</blockquote>\n<hr />\n<h2 id=\"villano-menor-caelith-el-jardinero-a-medias\">😈 Villano Menor —\nCaelith, el Jardinero a Medias</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/02_caelith-jardinero-a-medias.jpg\" alt=\"Caelith, el Jardinero a Medias\" />\n<figcaption aria-hidden=\"true\">Caelith, el Jardinero a\nMedias</figcaption>\n</figure>\n<p>Caelith fue el horticultor que cuidó el jardín antes de la\ndistorsión. La estasis de Medusa lo atrapó a medio petrificar: su mitad\nizquierda es piedra que nunca termina de cuajar, su mitad derecha aún\nsangra. Sirve a las lugartenientes podando “el tiempo sobrante” de los\nintrusos, convencido de que detenerlos para siempre es un acto de\nmisericordia. Es el sub-jefe que los PJ encuentran custodiando el\ncorazón del laberinto vegetal.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Caelith, el\nJardinero a Medias</em></strong> — <em>Mediano humanoide (transmutado),\nneutral maligno</em> · <strong>CR</strong> 5 (1.800 XP) -\n<strong>CA</strong> 16 (mitad pétrea) · <strong>PG</strong> 95 (10d8+50)\n· <strong>Vel.</strong> 25 pies (no puede correr; el lado de piedra le\npesa) - <strong>FUE</strong> 16 (+3) · <strong>DES</strong> 11 (+0) ·\n<strong>CON</strong> 20 (+5) · <strong>SAB</strong> 16 (+3) · <strong>CD\nde poder</strong> 14 (SAB) · <strong>Sentidos:</strong> Visión en la\noscuridad 60 pies, Percepción pasiva 16 - <strong>Rasgos:</strong> -\n<strong>Medio en Estasis:</strong> Caelith es inmune a estar\n<em>paralizado</em>, <em>aturdido</em> y al <em>envejecimiento\nmágico</em>; su mitad pétrea le da resistencia al daño contundente,\ncortante y perforante de armas no mágicas. - <strong>Quietud\nContagiosa:</strong> mientras un PJ no pueda ver a Caelith (a oscuras,\ncegado, o de espaldas), este puede moverse su velocidad sin provocar\nataques de oportunidad y aparece “ya en posición”. -\n<strong>Acciones:</strong> - <strong>Multiataque:</strong> dos ataques\nde <em>Podadera de Eras</em>. - <strong>Podadera de Eras:</strong> +6 a\nimpactar, alcance 5 pies, 9 (1d10+3) de daño cortante + 4 (1d8) de daño\nnecrótico (envejecimiento robado). - <strong>Sembrar Estasis (recarga\n5-6):</strong> un objetivo a 30 pies hace salvación de CON CD 14 o queda\n<em>petrificado parcialmente</em> (velocidad 0, desventaja en tiradas,\nrepite la salvación al final de cada turno; 3 fallos =\n<em>petrificado</em> hasta que reciba <em>restablecimiento mayor</em>).\n- <strong>Tácticas / Al ser derrotado:</strong> Inmoviliza al más móvil\ny poda a los rezagados; lucha de espaldas a un seto para usar Quietud\nContagiosa. Al caer, su mitad de piedra se agrieta y exhala: <em>“Por\nfin… el reloj me suelta”</em> — y libera a una víctima petrificada\nanterior (posible NPC rescatable).</p>\n<hr />\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><strong><em>Estatua Acechante</em></strong> — <em>Mediano\nconstructo, sin alineamiento</em> · <strong>CR</strong> 3 (700 XP)\n<ul>\n<li><strong>CA</strong> 17 (piedra) · <strong>PG</strong> 60 (8d8+24) ·\n<strong>Vel.</strong> 30 pies</li>\n<li><strong>FUE</strong> 18 (+4) · <strong>DES</strong> 6 (-2) ·\n<strong>CON</strong> 16 (+3) · <strong>Sentidos:</strong> Percepción\npasiva 9 (no necesita ver: siente vibraciones)</li>\n<li><strong>Rasgos:</strong> <strong>Inmóvil bajo Mirada</strong> —\nmientras al menos un PJ la esté observando (línea de visión + no\ncegado), su velocidad es 0 y es indistinguible de una estatua ornamental\n(Investigación CD 16 para notar que “está distinta”).\n<strong>Resistencia:</strong> daño no mágico.</li>\n<li><strong>Acciones:</strong> <strong>Multiataque</strong> dos\n<em>Garras de Mármol</em> (+6, 5 pies, 8 (1d8+4) contundente).\n<strong>Embestida Súbita</strong> (solo si nadie la mira el turno\nanterior): se desliza hasta 30 pies y golpea con ventaja, 13 (2d8+4)\ncontundente y el objetivo cae <em>derribado</em>.</li>\n<li><em>Tema: la clásica estatua que se mueve cuando no la miras.\nFunciona en parejas para que siempre haya una fuera del campo\nvisual.</em></li>\n</ul></li>\n<li><strong><em>Reflejo Hostil</em></strong> — <em>Mediano elemental\n(espejismo), caótico maligno</em> · <strong>CR</strong> 4 (1.100 XP)\n<ul>\n<li><strong>CA</strong> 13 · <strong>PG</strong> 52 (8d8+16) ·\n<strong>Vel.</strong> 30 pies (solo sobre superficies reflectantes o a\n10 pies de una)</li>\n<li><strong>DES</strong> 16 (+3) · <strong>CON</strong> 14 (+2) ·\n<strong>CAR</strong> 15 (+2) · <strong>CD de poder</strong> 13 ·\n<strong>Sentidos:</strong> Visión verdadera 30 pies, Percepción pasiva\n13</li>\n<li><strong>Rasgos:</strong> <strong>Nacido del Cristal</strong> — surge\nde un espejo, estanque o vidriera cuando un humanoide se refleja en él;\ncopia el aspecto del reflejado. <strong>Inversión:</strong> tiene\nventaja en ataques contra la criatura que copió. Si rompen la superficie\nde origen (CA 12, 10 PG), el reflejo sufre 11 (2d10) de daño\npsíquico.</li>\n<li><strong>Acciones:</strong> <strong>Multiataque</strong> dos\n<em>Filos Especulares</em> (+5, 5 pies, 7 (1d6+3) cortante + 3 (1d6)\npsíquico). <strong>Arrastrar al Otro Lado (recarga 6):</strong> un\nobjetivo a 5 pies de una superficie reflectante hace salvación de CAR CD\n13 o es succionado a la dimensión espejo durante 1 minuto (incapacitado,\nreaparece donde estaba; repite salvación al final de cada turno).</li>\n<li><em>Tema: el reflejo que sale del estanque o del espejo para matar a\nsu original.</em></li>\n</ul></li>\n<li><strong><em>Polilla del Crepúsculo Detenido</em></strong> —\n<em>Pequeño bestia (aberrante), sin alineamiento</em> ·\n<strong>CR</strong> 2 (450 XP)\n<ul>\n<li><strong>CA</strong> 14 · <strong>PG</strong> 33 (6d6+12) ·\n<strong>Vel.</strong> 10 pies, vuelo 40 pies</li>\n<li><strong>DES</strong> 16 (+3) · <strong>CON</strong> 14 (+2) ·\n<strong>Sentidos:</strong> Visión ciega 30 pies, Percepción pasiva\n12</li>\n<li><strong>Rasgos:</strong> <strong>Polvo de Estasis</strong> — una\ncriatura que termine su turno a 5 pies tiene desventaja en su próxima\nsalvación contra efectos de <em>ralentización</em> o\n<em>petrificación</em>. Vuela en enjambres bajo los setos del\njardín.</li>\n<li><strong>Acciones:</strong> <strong>Roce Aletargante</strong> (+5, 5\npies, 5 (1d4+3) perforante; el objetivo hace salvación de CON CD 12 o su\nvelocidad se reduce a la mitad hasta el final de su próximo turno).</li>\n<li><em>Tema: heraldo menor; siembra el campo de batalla para los golpes\nde estasis de Caelith y Medusa.</em></li>\n</ul></li>\n</ul>\n<hr />\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><p><strong>SelHe, la Doble Liberada</strong> (humana,\nexploradora/aliada) — Mujer serena de mirada doble (sus ojos no\nparpadean a la vez). Es una víctima que escapó de la dimensión espejo\ndejando atrás a su reflejo, que ahora la caza. <em>Personalidad:</em>\nhabla en pasado y futuro mezclados, como quien ya ha vivido esto.\n<em>Ofrece/gancho:</em> guía por el laberinto y conoce qué espejos están\n“vivos”, pero teme acercarse a cualquier superficie pulida; pide a los\nPJ que destruyan su reflejo hostil para recuperar su sombra\nperdida.</p></li>\n<li><p><strong>Vondrel Pétreocaña</strong> (enano,\nanticuario/comerciante neutral) — Coleccionista que merodea los bordes\ndel jardín comprando “estatuas con expresión demasiado humana”.\n<em>Personalidad:</em> avaro, irónico, sospechosamente bien informado.\n<em>Ofrece:</em> polvo de <em>Liberar Estasis</em> (objeto consumible\nque da ventaja para salir de la petrificación parcial) y rumores sobre\ndónde duerme Medusa la Eterna — a cambio de oro o de una estatua\n“fresca”.</p></li>\n<li><p><strong>Hermano Quill</strong> (mediano monje petrificado a\nmedias, neutral bueno) — Atrapado de cintura para abajo en piedra junto\na una fuente, lleva décadas inmóvil pero plenamente consciente.\n<em>Personalidad:</em> sereno hasta lo inquietante, ha tenido siglos\npara pensar. <em>Ofrece/gancho:</em> a cambio de ser liberado\n(<em>restablecimiento mayor</em> o derrotar a Caelith), revela el patrón\nde la mirada de Medusa y dónde el reflejo de las Gemelas es más débil al\nalba.</p></li>\n</ul>\n<hr />\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li><strong>El reflejo que sobrevive a su dueño:</strong> el Reflejo\nHostil de SelHe no morirá mientras ella viva; matarlo exige romper su\nespejo de origen, escondido en el ala del jardín que vigila Caelith.\nLiberar a uno expone al otro.</li>\n<li><strong>La cosecha de Vondrel:</strong> las “estatuas” que el enano\nvende son víctimas a medio petrificar de Caelith. Si los PJ investigan\nsu mercancía, descubren a un aliado perdido entre ellas — y la pista de\nque el Jardinero rinde cuentas directamente a Medusa la Eterna.</li>\n<li><strong>Cuando dejas de mirar:</strong> los PJ aprenden por las\nmalas que las Estatuas Acechantes solo avanzan fuera de su campo visual.\nEl Hermano Quill, inmóvil y observador eterno, puede “sostener la\nmirada” sobre un pasillo entero — convirtiéndose en la llave para cruzar\nel corazón del jardín hacia las Gemelas del Espejo.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "G0dfNh1AChzjMjq8",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!wDjjsghonJ3xJHlI.G0dfNh1AChzjMjq8"
+    }
+  ],
+  "_id": "wDjjsghonJ3xJHlI",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "efcd3c76b5cc42a775c94459d695e1f1678b7a0a"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078598,
+    "modifiedTime": 1782851078598,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!wDjjsghonJ3xJHlI"
+}

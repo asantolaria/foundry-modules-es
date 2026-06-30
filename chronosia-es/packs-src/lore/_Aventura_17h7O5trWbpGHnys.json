@@ -1,0 +1,27 @@
+{
+  "name": "🎬 Aventura",
+  "type": "JournalEntry",
+  "_id": "17h7O5trWbpGHnys",
+  "description": "",
+  "folder": null,
+  "sorting": "a",
+  "sort": 0,
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "50ef3df262ac47e8813f453dfcc10f1788c966f4"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078337,
+    "modifiedTime": 1782851078337,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!17h7O5trWbpGHnys"
+}

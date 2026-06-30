@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — La Espiral Inversa",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — La Espiral Inversa",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-la-espiral-inversa\">🐉 Bestiario Regional —\nLa Espiral Inversa</h1>\n<figure>\n<img src=\"../../assets/mapas/01_espiral-inversa.png\" alt=\"Mapa de La Espiral Inversa\" />\n<figcaption aria-hidden=\"true\">Mapa de La Espiral Inversa</figcaption>\n</figure>\n<h2 id=\"lugarteniente-serapis-el-retroceso-tipo-temporal-nivel-pj-4-5\">Lugarteniente:\nSerapis el Retroceso · Tipo: Temporal · Nivel PJ: 4-5</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>La Espiral Inversa es un valle donde el ayer nunca termina de morir.\nEl mismo amanecer regresa cada vez que cae la noche; las cosechas\nvuelven a brotar verdes, las velas se alargan al consumirse, los muertos\nse levantan confundidos sin recordar haber caído. Bajo la reversión de\nSerapis, los aldeanos repiten el mismo día atrapados en bucles que solo\nunos pocos logran percibir — y enloquecer por ello.</p>\n<h2 id=\"villano-menor-cándano-el-penitente-eterno\">😈 Villano Menor —\nCándano el Penitente Eterno</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/01_candano-el-penitente-eterno.jpg\" alt=\"Cándano el Penitente Eterno\" />\n<figcaption aria-hidden=\"true\">Cándano el Penitente Eterno</figcaption>\n</figure>\n<p>Antiguo sacristán del valle, Cándano fue el primero en darse cuenta\nde que el día se repetía. Ha vivido el mismo amanecer miles de veces y\nha enloquecido: cree que el bucle es un castigo divino y que solo\nderramando sangre nueva cada ciclo “gastará” el día lo bastante para\nromperlo. No es el lugarteniente — es un esbirro voluntario de Serapis,\nun fanático local que ofrenda viajeros al Retroceso a cambio de\nfragmentos de poder temporal.</p>\n<p><strong>Statblock</strong> (formato compacto): - <strong><em>Cándano\nel Penitente Eterno</em></strong> — <em>humano mediano (alterado por el\ntiempo), neutral maligno</em> · <strong>CR</strong> 4 (1100 XP) -\n<strong>CA</strong> 15 (armadura de cuero tachonado + presciencia) ·\n<strong>PG</strong> 71 (11d8+22) · <strong>Vel.</strong> 30 pies -\n<strong>Atributos relevantes:</strong> DES +3, CON +2, SAB +3, CAR +2 -\n<strong>Salvaciones/Sentidos clave:</strong> Salv. SAB +5, Percepción\npasiva 15; <strong>CD</strong> de conjuros 13 - <strong>Rasgos:</strong>\n- <em>Memoria del bucle:</em> Cándano recuerda todo lo ocurrido en\nrepeticiones anteriores. Tiene ventaja en iniciativa y no puede ser\nsorprendido. - <em>Presciencia agotada (3 usos/día):</em> como reacción,\nanula un impacto en su contra “habiéndolo ya vivido” y se mueve hasta 10\npies sin provocar ataques. - <strong>Acciones:</strong> -\n<em>Multiataque:</em> dos ataques con su daga de penitencia. - <em>Daga\nde penitencia:</em> +5 al impacto, alcance 5 pies, 1d4+3 perforante +\n2d6 necrótico (la herida envejece y se pudre). - <em>Ofrenda al\nRetroceso (recarga 5-6):</em> señala a una criatura a 60 pies; esta debe\nsuperar salv. SAB CD 13 o “rebobinar” — vuelve a su posición y PG del\ninicio de su último turno, perdiendo cualquier acción tomada (atrapada\nun asalto en el bucle). - <strong>Tácticas / Al ser derrotado:</strong>\nSacrifica viajeros al amanecer para fortalecer el bucle; huye usando\npresciencia si baja de la mitad de PG. Al morir, susurra “…mañana lo\nrecordaré” y el valle tiembla: el día se reinicia una última vez si los\nPJ no han neutralizado el ancla de Serapis.</p>\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><strong><em>Eco de Refriega</em></strong> — <em>mediano no-muerto\n(eco temporal), sin alineamiento</em> · <strong>CR</strong> 2 (450 XP)\n<ul>\n<li><strong>CA</strong> 13 · <strong>PG</strong> 39 (6d8+12) ·\n<strong>Vel.</strong> 30 pies</li>\n<li><strong>Atributos relevantes:</strong> FUE +2, DES +3, CON +2</li>\n<li><strong>Sentidos:</strong> Percepción pasiva 10; inmune a\nencantamiento y agotamiento</li>\n<li><strong>Rasgo:</strong> <em>Combate enlatado:</em> el eco repite\neternamente una pelea de hace siglos; en su turno siempre repite la\nacción de su turno anterior salvo que pierda más de 10 PG de golpe, lo\nque “rompe el guion” y lo hace atacar al azar.</li>\n<li><strong>Acción:</strong> <em>Multiataque:</em> dos golpes de arma\nespectral +4, alcance 5 pies, 1d8+2 cortante.</li>\n<li><strong>Tácticas / Al ser derrotado:</strong> Se disuelve y vuelve a\naparecer al inicio del siguiente bucle salvo que se destruya su “ancla”\n(un arma oxidada clavada en el suelo).</li>\n</ul></li>\n<li><strong><em>Rebobinador</em></strong> — <em>pequeño aberración\n(parásito temporal), neutral</em> · <strong>CR</strong> 3 (700 XP)\n<ul>\n<li><strong>CA</strong> 14 · <strong>PG</strong> 45 (7d8+14) ·\n<strong>Vel.</strong> 20 pies, trepar 20 pies</li>\n<li><strong>Atributos relevantes:</strong> DES +4, CON +2, INT -2</li>\n<li><strong>Sentidos:</strong> visión en la oscuridad 60 pies,\nPercepción pasiva 11; <strong>CD</strong> de su poder 13</li>\n<li><strong>Rasgo:</strong> <em>Se alimenta de instantes:</em> recupera\n10 PG cada vez que fuerza con éxito un rebobinado.</li>\n<li><strong>Acciones:</strong>\n<ul>\n<li><em>Mordisco:</em> +6 al impacto, 1d6+4 perforante + 1d6\nnecrótico.</li>\n<li><em>Rebobinar turno (recarga 6):</em> una criatura a 30 pies debe\nsuperar salv. CON CD 13 o su turno “no ha sucedido”: vuelve a empezar el\nturno tal como estaba, pero pierde su acción y la mitad del movimiento\nya gastado, como si el tiempo retrocediera bajo sus pies.</li>\n</ul></li>\n<li><strong>Tácticas / Al ser derrotado:</strong> Estalla en un destello\nde tiempo invertido; las criaturas a 5 pies rejuvenecen visiblemente un\ninstante (sin efecto mecánico, solo horror).</li>\n</ul></li>\n<li><strong><em>Aldeano Vuelto Niño</em></strong> — <em>mediano\nhumanoide (revertido), no-muerto inocente</em> · <strong>CR</strong> 1\n(200 XP)\n<ul>\n<li><strong>CA</strong> 11 · <strong>PG</strong> 22 (4d8+4) ·\n<strong>Vel.</strong> 30 pies</li>\n<li><strong>Atributos relevantes:</strong> DES +1, CON +1, CAR +2</li>\n<li><strong>Sentidos:</strong> Percepción pasiva 10</li>\n<li><strong>Rasgo:</strong> <em>Reversión contagiosa:</em> quien lo\ngolpea cuerpo a cuerpo debe superar salv. CON CD 11 o sufrir 1 nivel\ntemporal de agotamiento mientras su propio cuerpo “olvida” cómo ser\nadulto.</li>\n<li><strong>Acción:</strong> <em>Manotazo desorientado:</em> +3, 1d4+1\ncontundente, y la víctima ve fugazmente su propia infancia (desventaja\nen su siguiente tirada).</li>\n<li><strong>Tácticas / Al ser derrotado:</strong> No muere realmente —\nvuelve a su edad y cae dormido. Matarlo “de verdad” requiere romper el\nbucle, lo que pesa en la conciencia de los PJ.</li>\n</ul></li>\n</ul>\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><strong>Maela Tresdías</strong> — humana, molinera. Sospecha que\nalgo va mal pero no recuerda por qué; cada mañana deja una marca de tiza\nen su puerta y cada noche aparece borrada. <strong>Ofrece:</strong> si\nlos PJ logran que su marca sobreviva una noche, les cree y revela dónde\nvio a Cándano arrastrar viajeros (gancho de investigación).</li>\n<li><strong>El Hombre que Cuenta</strong> — gnomo ermitaño, lúcido\ndentro del bucle. Lleva miles de ciclos contando guijarros para no\nperder la cordura y conoce de memoria cada acontecimiento del día.\n<strong>Ofrece:</strong> información perfecta (dónde estará cada\ncriatura y a qué hora), pero exige que los PJ le prometan recordarlo\ncuando el bucle se rompa, pues teme dejar de existir.</li>\n<li><strong>Berto Sin-Sombra</strong> — semielfo, comerciante atrapado.\nSu mercancía se renueva cada amanecer, así que vende sin perder stock;\nha hecho del bucle un negocio. <strong>Ofrece:</strong> pociones y\nsuministros a buen precio, pero está tan cómodo que sabotea sutilmente\ncualquier intento de romper el bucle (aliado ambiguo).</li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li>La marca de tiza de Maela sobrevive una noche por primera vez:\nprueba de que los PJ están “fuera de fase” con el bucle y son los únicos\ncapaces de detener a Cándano.</li>\n<li>El Hombre que Cuenta avisa de que el “Eco de Refriega” del puente\nesconde, en su arma-ancla, una de las anclas menores que Serapis usa\npara sostener la Espiral: destruirla debilita el bucle un grado.</li>\n<li>Berto Sin-Sombra “pierde accidentalmente” un cargamento justo cuando\nlos PJ se acercan a Cándano, retrasándolos un ciclo entero — porque\nromper el bucle arruinaría su negocio eterno.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "ZkTYPY25QuvNQppT",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!C1t7rdI2kzLFYYx7.ZkTYPY25QuvNQppT"
+    }
+  ],
+  "_id": "C1t7rdI2kzLFYYx7",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "e18665aeafc9977b8c6871fb527f9672a6360191"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078627,
+    "modifiedTime": 1782851078627,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!C1t7rdI2kzLFYYx7"
+}

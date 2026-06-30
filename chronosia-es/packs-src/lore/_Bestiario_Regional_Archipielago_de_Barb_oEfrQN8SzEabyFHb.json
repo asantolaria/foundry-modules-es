@@ -1,0 +1,65 @@
+{
+  "name": "🐉 Bestiario Regional — Archipiélago de Barbanegra",
+  "folder": "OMR2XXzbLgP8rLTy",
+  "pages": [
+    {
+      "name": "🐉 Bestiario Regional — Archipiélago de Barbanegra",
+      "type": "text",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "text": {
+        "content": "<h1 id=\"bestiario-regional-archipiélago-de-barbanegra\">🐉 Bestiario\nRegional — Archipiélago de Barbanegra</h1>\n<figure>\n<img src=\"../../assets/mapas/08_archipielago-de-barbanegra.png\" alt=\"Mapa del Archipiélago de Barbanegra\" />\n<figcaption aria-hidden=\"true\">Mapa del Archipiélago de\nBarbanegra</figcaption>\n</figure>\n<h2 id=\"lugarteniente-edward-teach-barbanegra-tipo-dimensional-nivel-pj-8-9\">Lugarteniente:\nEdward Teach “Barbanegra” · Tipo: Dimensional · Nivel PJ: 8-9</h2>\n<blockquote>\n<p>Da vida propia a la región más allá del lugarteniente: un villano\nmenor, bestias firma y NPCs locales.</p>\n</blockquote>\n<p>El mar del Archipiélago no se mueve. Lleva calmo desde que Barbanegra\nancló su flota fantasma entre las islas perdidas, y esa calma es\nantinatural: las velas no se hinchan, las olas se quedan a medio romper,\ny el horizonte se curva hacia adentro. Los <strong>vórtices\ndimensionales</strong> giran entre los islotes como remolinos negros, y\npor ellos entran y salen barcos de mares que no existen en este mundo.\nQuien navega aquí demasiado tiempo nota que su reflejo en el agua\nenvejece más rápido que él — o más despacio. Es una de las puertas\nmarítimas del hub, y la marea trae visitantes de otros mundos enredados\nen algas y siglos.</p>\n<h2 id=\"villano-menor-capitán-móreve-el-mascahoras\">😈 Villano Menor —\nCapitán Móreve “el Mascahoras”</h2>\n<figure>\n<img src=\"../../assets/bestiario/villanos_menores/08_capitan-moreve-mascahoras.jpg\" alt=\"Capitán Móreve “el Mascahoras”\" />\n<figcaption aria-hidden=\"true\">Capitán Móreve “el\nMascahoras”</figcaption>\n</figure>\n<p>Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió\ncambiado: ahora <em>come tiempo</em>. Su tripulación no envejece; ellos\nroban los años de quien abordan. Navega el bergantín <em>Reloj\nRoto</em>, persiguiendo presas no por su oro sino por las décadas que\naún les quedan. Gancho: ofrece a un PJ moribundo “más años” a cambio de\nservir en su tripulación eterna — y mantiene su palabra de un modo\nmonstruoso.</p>\n<p><strong>Statblock</strong> (compacto): - <strong><em>Capitán Móreve,\nel Mascahoras</em></strong> — <em>Mediano no-muerto (cronófago), neutral\nmaligno</em> · <strong>CR</strong> 7 (2.900 XP) - <strong>CA</strong> 17\n(cuero tachonado + destreza sobrenatural) · <strong>PG</strong> 114\n(12d8+60) · <strong>Vel.</strong> 30 pies, nadar 30 pies, camina sobre\nel agua en calma - <strong>FUE</strong> +3, <strong>DES</strong> +5,\n<strong>CON</strong> +5 · <strong>CD de poder</strong> 15 ·\n<strong>Visión en la oscuridad</strong> 60 pies, percibe la edad/tiempo\nrestante de cualquier criatura a la vista - <strong>Rasgos:</strong>\n<em>Hambre de horas</em> — Cuando un crítico golpea o reduce a una\ncriatura a 0 PG, Móreve le roba 1d10 años: la víctima sufre fatiga\n(nivel 1) y él recupera 20 PG. <em>Calma antinatural</em> — Dentro de 60\npies, los efectos basados en velocidad y los conjuros de aceleración\ntienen probabilidad de fallar (lanzador TS CON CD 15 o el conjuro se\n“atasca” 1 asalto). - <strong>Acciones:</strong> <em>Multiataque:</em>\ndos ataques de sable cronófago. <em>Sable cronófago.</em> +8 al ataque,\nalcance 5 pies, 1d8+5 cortante + 3d6 necrótico (la herida envejece: TS\nCON CD 15 o desventaja en la próxima tirada por el peso de los años).\n<em>Marea detenida</em> (recarga 5-6). Congela un instante en 30 pies:\nlas criaturas deben TS SAB CD 15 o quedar <em>paralizadas</em> hasta el\nfinal del siguiente turno de Móreve, atrapadas fuera del tiempo. -\n<strong>Tácticas / Al ser derrotado:</strong> Aísla a la presa más joven\ny la desgasta a años robados. Al morir, los años robados se liberan de\ngolpe: su tripulación envejece a polvo en segundos y el <em>Reloj\nRoto</em> se hunde, abriendo brevemente un vórtice hacia el mundo de\ndonde vino.</p>\n<h2 id=\"bestias-firma\">🐾 Bestias Firma</h2>\n<ul>\n<li><strong><em>Kraken Menor del Vórtice</em></strong> — <em>Enorme\nmonstruosidad, sin alineamiento</em> · <strong>CR</strong> 6 (2.300 XP)\n· <strong>CA</strong> 14 · <strong>PG</strong> 105 (10d12+40) · cría de\nkraken arrastrada por un vórtice desde un mar abisal ajeno. Dos\ntentáculos +7, 2d8+4 contundente + agarra (CD 15); <em>Tirón al\nabismo</em>: arrastra a un agarrado por un vórtice cercano (reaparece\nconfundido a 100 pies). Anida bajo los pecios.</li>\n<li><strong><em>Marinero Distorsionado</em></strong> — <em>Mediano\nno-muerto, neutral maligno</em> · <strong>CR</strong> 4 (1.100 XP) ·\n<strong>CA</strong> 13 · <strong>PG</strong> 58 · náufrago atrapado en\nun bucle temporal; ataca, muere y reaparece al inicio de su próximo\nturno (3 veces antes de disolverse). Alfanje +6, 2d6+3 cortante. Repite\neternamente su último motín.</li>\n<li><strong><em>Heraldo de la Sal Negra</em></strong> — <em>Grande\nelemental, caótico neutral</em> · <strong>CR</strong> 5 (1.800 XP) ·\n<strong>CA</strong> 15 · <strong>PG</strong> 85 · ola viva de agua que\nno rompe nunca, nacida de la calma antinatural. Embate +7, 3d8+4\ncontundente + empuja; <em>Quietud sofocante</em> (recarga 6): envuelve a\nuna criatura, que comienza a ahogarse en agua inmóvil (TS FUE CD 15 para\nliberarse).</li>\n</ul>\n<h2 id=\"npcs-locales\">👥 NPCs Locales</h2>\n<ul>\n<li><strong>Tholassa de la Corriente Honda</strong> (oceánica / pueblo\ndel mar de las Profundidades, aliada) — Solemne, de piel nacarada y ojos\nsin párpados. Lidera a los <strong>Oceánicos de las\nProfundidades</strong>, que tienen una vendetta antigua contra Teach por\nhaber profanado sus arrecifes-templo. Ofrece guía submarina, refugio\nbajo el agua y el secreto para herir a Barbanegra; gancho: exige a\ncambio recuperar una reliquia robada del fondo del <em>Reloj\nRoto</em>.</li>\n<li><strong>Garrett “Sin Brújula”</strong> (humano, superviviente\nnaufragado / dador de misiones) — Medio loco por años a la deriva entre\nvórtices, lúcido a ratos. Sabe qué islas aparecen y desaparecen y\n<em>cuándo</em>. Ofrece mapas imposibles y misiones de rescate de otros\nnáufragos; gancho: jura que vio entrar a su propia hija por un vórtice —\ny que era idéntica a como la dejó hace veinte años.</li>\n<li><strong>Madame Coral</strong> (tritón mercader, neutral ambiguo) —\nComercia en la frontera de varios mundos a través de los vórtices:\npólvora de otro mar, perlas que muestran el futuro, antídotos contra el\nrobo de tiempo. Sonriente, codiciosa, neutral; gancho: aceptará\nintermediar con los Oceánicos <em>o</em> con Barbanegra, según quién\npague mejor.</li>\n</ul>\n<h2 id=\"ganchos-de-la-región\">🔗 Ganchos de la región</h2>\n<ul>\n<li>Una isla que no estaba ayer aparece con la marea baja, con un faro\nencendido y un vórtice latiendo en su cima: lo que entre por él esta\nnoche no podrá volver a salir hasta dentro de cien años.</li>\n<li>Los Oceánicos preparan un asalto al <em>Reloj Roto</em> y necesitan\nque alguien de tierra distraiga a Móreve mientras ellos atacan desde\nabajo — una alianza temporal entre dos mundos contra Barbanegra.</li>\n<li>Cada vórtice del archipiélago desemboca en un mar distinto del hub\nplanar; Madame Coral vende una carta de navegación que promete llevar\ndirecto al corazón del nexo… si los PJ sobreviven a lo que vive en el\nagua entre puertas.</li>\n</ul>",
+        "format": 1
+      },
+      "_id": "UuHCJb419mKaQjc9",
+      "system": {},
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!journal.pages!oEfrQN8SzEabyFHb.UuHCJb419mKaQjc9"
+    }
+  ],
+  "_id": "oEfrQN8SzEabyFHb",
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "scene-packer": {
+      "hash": "b53db78a9e06e5e210948b9abcc103b1f60f9c37"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782851078584,
+    "modifiedTime": 1782851078584,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!journal!oEfrQN8SzEabyFHb"
+}
