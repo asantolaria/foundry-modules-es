@@ -34,6 +34,6 @@
     ]
   },
   "manifest": "https://raw.githubusercontent.com/asantolaria/foundry-modules-es/main/combat-feedback-es/module.json",
-  "download": "https://github.com/asantolaria/foundry-modules-es/releases/download/combat-feedback-es-v0.1.0/combat-feedback-es.zip",
+  "download": "https://raw.githubusercontent.com/asantolaria/foundry-modules-es/main/combat-feedback-es.zip",
   "url": "https://github.com/asantolaria/foundry-modules-es"
 }
