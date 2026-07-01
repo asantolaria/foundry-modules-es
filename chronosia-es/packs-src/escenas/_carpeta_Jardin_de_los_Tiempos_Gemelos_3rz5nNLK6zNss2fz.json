@@ -1,0 +1,27 @@
+{
+  "name": "Jardín de los Tiempos Gemelos",
+  "type": "Scene",
+  "folder": null,
+  "sort": 2000,
+  "_id": "3rz5nNLK6zNss2fz",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "7cb300a5a360a643ca3c76e1fd7e950982b89ac8"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!3rz5nNLK6zNss2fz"
+}

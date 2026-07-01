@@ -1,0 +1,27 @@
+{
+  "name": "Ciudad Subterránea de Veldrisza",
+  "type": "Scene",
+  "folder": null,
+  "sort": 7000,
+  "_id": "RwsII9m0OMVKHXnB",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "20771651226d247dbaa84d078596304aa399711a"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!RwsII9m0OMVKHXnB"
+}

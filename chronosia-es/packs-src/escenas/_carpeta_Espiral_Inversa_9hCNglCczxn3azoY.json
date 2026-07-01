@@ -1,0 +1,27 @@
+{
+  "name": "Espiral Inversa",
+  "type": "Scene",
+  "folder": null,
+  "sort": 1000,
+  "_id": "9hCNglCczxn3azoY",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "f25a1231670cdba449abb27b17659d8077323ae5"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!9hCNglCczxn3azoY"
+}

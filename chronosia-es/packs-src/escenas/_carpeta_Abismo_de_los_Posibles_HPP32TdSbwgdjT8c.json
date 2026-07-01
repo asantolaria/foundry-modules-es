@@ -1,0 +1,27 @@
+{
+  "name": "Abismo de los Posibles",
+  "type": "Scene",
+  "folder": null,
+  "sort": 5000,
+  "_id": "HPP32TdSbwgdjT8c",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "5546a242fb30a0b978f7e0f0bf3c62a3ecc85625"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!HPP32TdSbwgdjT8c"
+}

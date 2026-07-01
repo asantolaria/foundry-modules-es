@@ -1,10 +1,10 @@
 {
-  "_id": "0eae6c687ff52fc3",
-  "_key": "!adventures!0eae6c687ff52fc3",
+  "_id": "25bb546617e7234b",
+  "_key": "!adventures!25bb546617e7234b",
   "name": "Chronosia — Campaña completa",
   "img": "modules/chronosia-es/assets/maps/00_mapa-general-chronosia.webp",
   "caption": "El Reino del Tiempo Fracturado",
-  "description": "<p>Volcado completo de la campaña <strong>Chronosia</strong>: 14 escenas, 39 criaturas del bestiario (con stats afinados y ataques), 12 lugartenientes, 8 objetos mágicos y 60 diarios de lore. Importa todo a tu mundo dnd5e con un clic.</p>",
+  "description": "<p>Volcado completo de la campaña <strong>Chronosia</strong>: 14 escenas (organizadas por zona), 39 criaturas del bestiario (con stats afinados y ataques), 12 lugartenientes, 8 objetos mágicos y 60 diarios de lore. Importa todo a tu mundo dnd5e con un clic.</p>",
   "sort": 0,
   "folder": null,
   "flags": {},
@@ -909,7 +909,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -1891,7 +1891,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -2607,7 +2607,7 @@
       "_id": "IeI63v6v325t5sBn",
       "items": [],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -3546,7 +3546,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -4327,7 +4327,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -5112,7 +5112,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -6111,7 +6111,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -6888,7 +6888,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -7887,7 +7887,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -8869,7 +8869,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -9851,7 +9851,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -10630,7 +10630,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -11612,7 +11612,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -12391,7 +12391,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -13170,7 +13170,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -13886,7 +13886,7 @@
       "_id": "zu3j3Iu4tA4d9PcJ",
       "items": [],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -14602,7 +14602,7 @@
       "_id": "e5OzC4GMupaOB67E",
       "items": [],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -15584,7 +15584,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -16566,7 +16566,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -17548,7 +17548,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -18530,7 +18530,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -19309,7 +19309,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -20231,7 +20231,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -20947,7 +20947,7 @@
       "_id": "xKtFVkQ6q0HRiTuS",
       "items": [],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -21929,7 +21929,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -22913,7 +22913,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -23835,7 +23835,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -24614,7 +24614,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -25596,7 +25596,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -26578,7 +26578,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -27294,7 +27294,7 @@
       "_id": "lneghjdiLYM7n3E5",
       "items": [],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -28233,7 +28233,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -29010,7 +29010,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -29992,7 +29992,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -30769,7 +30769,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -31751,7 +31751,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -32733,7 +32733,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -33515,7 +33515,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -34514,7 +34514,7 @@
         }
       ],
       "effects": [],
-      "folder": "30f7d335bd46ec29",
+      "folder": "5807918a0ccd50f3",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -35300,7 +35300,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -36225,7 +36225,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -36945,7 +36945,7 @@
       "_id": "BixY1uq5yuPW3EUi",
       "items": [],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -38279,7 +38279,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -39468,7 +39468,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -40194,7 +40194,7 @@
       "_id": "dTlISpZPevqv1jJC",
       "items": [],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -41120,7 +41120,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -41840,7 +41840,7 @@
       "_id": "2SMqxgbRSphULw6f",
       "items": [],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -42969,7 +42969,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -43698,7 +43698,7 @@
       "_id": "1bPlYQ1YpQ2KoX7C",
       "items": [],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -44418,7 +44418,7 @@
       "_id": "7P26hqwSGLou47a0",
       "items": [],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45351,7 +45351,7 @@
         }
       ],
       "effects": [],
-      "folder": "a62bfb81029b631a",
+      "folder": "8a62f757aafaf1a7",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45429,7 +45429,7 @@
       },
       "_id": "PjHaBqlMqJJeWXWs",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45505,7 +45505,7 @@
       },
       "_id": "XHcsSt9F9aZ3PFr0",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45581,7 +45581,7 @@
       },
       "_id": "ryEB4KqG6yxBbdaW",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45657,7 +45657,7 @@
       },
       "_id": "fv6qeE4hanv6NYpm",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45733,7 +45733,7 @@
       },
       "_id": "AW38HzOSrLXAvSiF",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45809,7 +45809,7 @@
       },
       "_id": "C84etCb3RribxZBU",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45885,7 +45885,7 @@
       },
       "_id": "NpcxUbJHEJSr68U3",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -45961,7 +45961,7 @@
       },
       "_id": "c0LrDkJsiwCSv6IV",
       "effects": [],
-      "folder": "4611acb524d1f55e",
+      "folder": "2be56337455c3ea0",
       "sort": 0,
       "ownership": {
         "default": 0
@@ -49777,7 +49777,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -49810,7 +49814,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -49826,10 +49830,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152918,
-        "modifiedTime": 1782739152918,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "HPP32TdSbwgdjT8c",
       "_id": "cvso0Os1LAA1PTRg",
       "regions": [],
       "environment": {
@@ -49891,7 +49895,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -49924,7 +49932,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -49940,10 +49948,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152918,
-        "modifiedTime": 1782739152918,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "qllLkYNrZiun9w31",
       "_id": "iaD7sKbnBj003YbD",
       "regions": [],
       "environment": {
@@ -50005,7 +50013,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50038,7 +50050,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50054,10 +50066,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152919,
-        "modifiedTime": 1782739152919,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "zs862UQsgeW15fsk",
       "_id": "cdNTLssbSQogOEaY",
       "regions": [],
       "environment": {
@@ -50119,7 +50131,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50152,7 +50168,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50168,10 +50184,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152918,
-        "modifiedTime": 1782739152918,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "RwsII9m0OMVKHXnB",
       "_id": "u4Ot75nDtdRhX5I7",
       "regions": [],
       "environment": {
@@ -50233,7 +50249,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50266,7 +50286,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50282,10 +50302,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152919,
-        "modifiedTime": 1782739152919,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "b5ehvYNnVovU0hh1",
       "_id": "7jHdMifQu2ROD9hZ",
       "regions": [],
       "environment": {
@@ -50347,7 +50367,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50380,7 +50404,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50396,10 +50420,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152917,
-        "modifiedTime": 1782739152917,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "9hCNglCczxn3azoY",
       "_id": "r6KyXSpfchSrZriv",
       "regions": [],
       "environment": {
@@ -50461,7 +50485,11 @@
       "width": 3640,
       "height": 4480,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50494,7 +50522,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50510,10 +50538,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152919,
-        "modifiedTime": 1782739152919,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "XNnnlnJ0VuNzawiN",
       "_id": "8IppKQkoG5JKVGUh",
       "regions": [],
       "environment": {
@@ -50575,7 +50603,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50608,7 +50640,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50624,10 +50656,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152918,
-        "modifiedTime": 1782739152918,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "T1wQ9qUR3r4WIH11",
       "_id": "pCcpxXDFJl5JkRNi",
       "regions": [],
       "environment": {
@@ -50689,7 +50721,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50722,7 +50758,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50738,10 +50774,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152917,
-        "modifiedTime": 1782739152917,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "3rz5nNLK6zNss2fz",
       "_id": "Eup99idMQDasp8tm",
       "regions": [],
       "environment": {
@@ -50803,7 +50839,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50836,7 +50876,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50852,10 +50892,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152918,
-        "modifiedTime": 1782739152918,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "dTVZPLKZah3pK2HC",
       "_id": "Al10xRagVGNd7V24",
       "regions": [],
       "environment": {
@@ -50917,7 +50957,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -50950,7 +50994,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -50966,10 +51010,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152919,
-        "modifiedTime": 1782739152919,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "qmvyMeYFchf2pdzp",
       "_id": "0eIljCDy2uLFtGUK",
       "regions": [],
       "environment": {
@@ -51031,7 +51075,11 @@
       "width": 2400,
       "height": 1792,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -51064,7 +51112,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -51080,10 +51128,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152918,
-        "modifiedTime": 1782739152918,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "HUoHcH7N61CIEBo6",
       "_id": "B4UgkjrLtahRQZoB",
       "regions": [],
       "environment": {
@@ -51145,7 +51193,11 @@
       "width": 1696,
       "height": 2528,
       "padding": 0.25,
-      "initial": null,
+      "initial": {
+        "x": null,
+        "y": null,
+        "scale": null
+      },
       "backgroundColor": "#000000",
       "grid": {
         "size": 140,
@@ -51178,7 +51230,7 @@
         "scaleX": 1,
         "scaleY": 1,
         "rotation": 0,
-        "tint": null,
+        "tint": "#ffffff",
         "anchorX": 0,
         "anchorY": 0,
         "fit": "fill",
@@ -51194,10 +51246,10 @@
         "systemId": "dnd5e",
         "systemVersion": "5.3.3",
         "createdTime": 1782739152919,
-        "modifiedTime": 1782739152919,
-        "lastModifiedBy": "Hu7n9592C80RoJFD"
+        "modifiedTime": 1782900225511,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": "GIf8AtAJkc6PgeAQ",
       "_id": "x3iZ9mpEg0GQbVcP",
       "regions": [],
       "environment": {
@@ -51311,7 +51363,7 @@
         "modifiedTime": 1782739152917,
         "lastModifiedBy": "Hu7n9592C80RoJFD"
       },
-      "folder": "4f8ab943ecca3b22",
+      "folder": null,
       "_id": "RDseRRtyzH0LMqOz",
       "regions": [],
       "environment": {
@@ -51366,7 +51418,7 @@
   ],
   "folders": [
     {
-      "_id": "30f7d335bd46ec29",
+      "_id": "5807918a0ccd50f3",
       "name": "🌌 Bestiario",
       "type": "Actor",
       "folder": null,
@@ -51377,7 +51429,7 @@
       "description": ""
     },
     {
-      "_id": "a62bfb81029b631a",
+      "_id": "8a62f757aafaf1a7",
       "name": "🌌 Lugartenientes",
       "type": "Actor",
       "folder": null,
@@ -51388,20 +51440,9 @@
       "description": ""
     },
     {
-      "_id": "4611acb524d1f55e",
+      "_id": "2be56337455c3ea0",
       "name": "🌌 Objetos mágicos",
       "type": "Item",
-      "folder": null,
-      "sorting": "a",
-      "color": null,
-      "flags": {},
-      "sort": 0,
-      "description": ""
-    },
-    {
-      "_id": "4f8ab943ecca3b22",
-      "name": "🌌 Escenas",
-      "type": "Scene",
       "folder": null,
       "sorting": "a",
       "color": null,
@@ -51666,6 +51707,344 @@
         "systemVersion": "5.2.5",
         "createdTime": 1782851078359,
         "modifiedTime": 1782851078359,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Abismo de los Posibles",
+      "type": "Scene",
+      "folder": null,
+      "sort": 5000,
+      "_id": "HPP32TdSbwgdjT8c",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "5546a242fb30a0b978f7e0f0bf3c62a3ecc85625"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Archipiélago de Barbanegra",
+      "type": "Scene",
+      "folder": null,
+      "sort": 8000,
+      "_id": "qllLkYNrZiun9w31",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "997f9bfe6c0b0a232054588906aa6b57303a1b33"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Calderas Dimensionales",
+      "type": "Scene",
+      "folder": null,
+      "sort": 10000,
+      "_id": "zs862UQsgeW15fsk",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "3b573498ae95ef78078854dac535d5c96a6f3c5e"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Ciudad Subterránea de Veldrisza",
+      "type": "Scene",
+      "folder": null,
+      "sort": 7000,
+      "_id": "RwsII9m0OMVKHXnB",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "20771651226d247dbaa84d078596304aa399711a"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Crónopolis",
+      "type": "Scene",
+      "folder": null,
+      "sort": 11000,
+      "_id": "b5ehvYNnVovU0hh1",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "944464741628db8ed772d6e2007682857e3ed240"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Espiral Inversa",
+      "type": "Scene",
+      "folder": null,
+      "sort": 1000,
+      "_id": "9hCNglCczxn3azoY",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "f25a1231670cdba449abb27b17659d8077323ae5"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Fuerte Negro",
+      "type": "Scene",
+      "folder": null,
+      "sort": 13000,
+      "_id": "XNnnlnJ0VuNzawiN",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "3c6d1e2b86dced69f7508c4106f8d254d57e0ff4"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Glacialis",
+      "type": "Scene",
+      "folder": null,
+      "sort": 3000,
+      "_id": "T1wQ9qUR3r4WIH11",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "d4ab5d06dc086e2b7d6e38327465a21bfde389e1"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Jardín de los Tiempos Gemelos",
+      "type": "Scene",
+      "folder": null,
+      "sort": 2000,
+      "_id": "3rz5nNLK6zNss2fz",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "7cb300a5a360a643ca3c76e1fd7e950982b89ac8"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Llanuras de la Compresión",
+      "type": "Scene",
+      "folder": null,
+      "sort": 6000,
+      "_id": "dTVZPLKZah3pK2HC",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "9f7ca26c3ad3995e9ce969dd512905a62a352dbf"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Mansión de la Sed Eterna",
+      "type": "Scene",
+      "folder": null,
+      "sort": 9000,
+      "_id": "qmvyMeYFchf2pdzp",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "1e7a13824828ed5f35ad9d261445a80ebcdb4289"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Ruinas del Tiempo Perdido",
+      "type": "Scene",
+      "folder": null,
+      "sort": 4000,
+      "_id": "HUoHcH7N61CIEBo6",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "1c347f6fb8bdad7c676d72bce09e6757dc11f65c"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
+        "lastModifiedBy": "toN3aQyRDAI7QeRt"
+      }
+    },
+    {
+      "name": "Torre de la Eternidad",
+      "type": "Scene",
+      "folder": null,
+      "sort": 12000,
+      "_id": "GIf8AtAJkc6PgeAQ",
+      "description": "",
+      "sorting": "a",
+      "color": null,
+      "flags": {
+        "scene-packer": {
+          "hash": "db78652d66cb21fd798a3c8da50faccc37f5c015"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.2.5",
+        "createdTime": 1782900225482,
+        "modifiedTime": 1782900225482,
         "lastModifiedBy": "toN3aQyRDAI7QeRt"
       }
     }

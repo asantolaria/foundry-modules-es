@@ -1,0 +1,27 @@
+{
+  "name": "Llanuras de la Compresión",
+  "type": "Scene",
+  "folder": null,
+  "sort": 6000,
+  "_id": "dTVZPLKZah3pK2HC",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "9f7ca26c3ad3995e9ce969dd512905a62a352dbf"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!dTVZPLKZah3pK2HC"
+}

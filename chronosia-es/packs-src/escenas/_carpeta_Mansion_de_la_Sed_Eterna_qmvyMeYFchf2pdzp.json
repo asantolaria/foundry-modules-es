@@ -1,0 +1,27 @@
+{
+  "name": "Mansión de la Sed Eterna",
+  "type": "Scene",
+  "folder": null,
+  "sort": 9000,
+  "_id": "qmvyMeYFchf2pdzp",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "1e7a13824828ed5f35ad9d261445a80ebcdb4289"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!qmvyMeYFchf2pdzp"
+}

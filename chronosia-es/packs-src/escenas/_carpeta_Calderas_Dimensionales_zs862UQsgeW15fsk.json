@@ -1,0 +1,27 @@
+{
+  "name": "Calderas Dimensionales",
+  "type": "Scene",
+  "folder": null,
+  "sort": 10000,
+  "_id": "zs862UQsgeW15fsk",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "3b573498ae95ef78078854dac535d5c96a6f3c5e"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!zs862UQsgeW15fsk"
+}

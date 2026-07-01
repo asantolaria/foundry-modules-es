@@ -1,0 +1,27 @@
+{
+  "name": "Torre de la Eternidad",
+  "type": "Scene",
+  "folder": null,
+  "sort": 12000,
+  "_id": "GIf8AtAJkc6PgeAQ",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "db78652d66cb21fd798a3c8da50faccc37f5c015"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!GIf8AtAJkc6PgeAQ"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Fuerte Negro",
+  "type": "Scene",
+  "folder": null,
+  "sort": 13000,
+  "_id": "XNnnlnJ0VuNzawiN",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "3c6d1e2b86dced69f7508c4106f8d254d57e0ff4"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!XNnnlnJ0VuNzawiN"
+}

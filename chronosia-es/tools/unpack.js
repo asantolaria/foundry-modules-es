@@ -34,6 +34,19 @@ async function unpack(dbPath, outDir, keepFn){
     fs.writeFileSync(path.join(outDir,nm+"_"+id+".json"), JSON.stringify(doc,null,2)); n++; }
   console.log("  "+path.basename(outDir)+": "+n+" docs");
 }
+// Extrae las subcarpetas de escena de la zona 🌌 Chronosia (para reproducir la estructura por zona
+// en el compendio/Aventura). El mundo guarda las carpetas en data/folders.
+async function unpackSceneFolders(foldersDb, outDir){
+  const db=new CL(foldersDb,{valueEncoding:"json"}); await db.open();
+  const all=[]; for await(const [k,v] of db.iterator()){ if(k.startsWith("!folders!")){ v._key=k; all.push(v); } }
+  await db.close();
+  const parent=all.find(f=>f.type==="Scene" && /Chronosia/.test(f.name) && !f.folder);
+  if(!parent){ console.log("  (sin carpeta padre de escenas)"); return; }
+  const zones=all.filter(f=>f.type==="Scene" && f.folder===parent._id);
+  for(const f of zones){ const nm=("_carpeta_"+f.name).normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^\w\-]+/g,"_").slice(0,44);
+    fs.writeFileSync(path.join(outDir,nm+"_"+f._id+".json"), JSON.stringify(f,null,2)); }
+  console.log("  escenas: + "+zones.length+" carpetas de zona");
+}
 (async()=>{
   await unpack(path.join(WORLD,"packs/chronosia-objetos"), path.join(SRC,"objetos"));
   await unpack(path.join(WORLD,"packs/chronosia-lore"), path.join(SRC,"lore"));
@@ -42,4 +55,5 @@ async function unpack(dbPath, outDir, keepFn){
   // solo escenas de Chronosia (mapa propio), descarta las de ejemplo de la plantilla FA/MAD
   await unpack(path.join(WORLD,"data/scenes"), path.join(SRC,"escenas"),
     s=>s._key.startsWith("!scenes!") && /worlds\/chronosia\/maps/.test((s.background&&s.background.src)||s.img||""));
+  await unpackSceneFolders(path.join(WORLD,"data/folders"), path.join(SRC,"escenas"));
 })();

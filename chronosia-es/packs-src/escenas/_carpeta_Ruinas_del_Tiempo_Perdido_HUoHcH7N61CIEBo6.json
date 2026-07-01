@@ -1,0 +1,27 @@
+{
+  "name": "Ruinas del Tiempo Perdido",
+  "type": "Scene",
+  "folder": null,
+  "sort": 4000,
+  "_id": "HUoHcH7N61CIEBo6",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "1c347f6fb8bdad7c676d72bce09e6757dc11f65c"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!HUoHcH7N61CIEBo6"
+}

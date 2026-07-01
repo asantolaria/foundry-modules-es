@@ -1,0 +1,27 @@
+{
+  "name": "Crónopolis",
+  "type": "Scene",
+  "folder": null,
+  "sort": 11000,
+  "_id": "b5ehvYNnVovU0hh1",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "944464741628db8ed772d6e2007682857e3ed240"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!b5ehvYNnVovU0hh1"
+}

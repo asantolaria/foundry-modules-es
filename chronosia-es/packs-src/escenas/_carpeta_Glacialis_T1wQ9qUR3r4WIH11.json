@@ -1,0 +1,27 @@
+{
+  "name": "Glacialis",
+  "type": "Scene",
+  "folder": null,
+  "sort": 3000,
+  "_id": "T1wQ9qUR3r4WIH11",
+  "description": "",
+  "sorting": "a",
+  "color": null,
+  "flags": {
+    "scene-packer": {
+      "hash": "d4ab5d06dc086e2b7d6e38327465a21bfde389e1"
+    }
+  },
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "dnd5e",
+    "systemVersion": "5.2.5",
+    "createdTime": 1782900225482,
+    "modifiedTime": 1782900225482,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
+  },
+  "_key": "!folders!T1wQ9qUR3r4WIH11"
+}

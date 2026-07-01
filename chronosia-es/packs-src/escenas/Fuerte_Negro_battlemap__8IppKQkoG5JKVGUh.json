@@ -8,7 +8,11 @@
   "width": 3640,
   "height": 4480,
   "padding": 0.25,
-  "initial": null,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": null
+  },
   "backgroundColor": "#000000",
   "grid": {
     "size": 140,
@@ -41,7 +45,7 @@
     "scaleX": 1,
     "scaleY": 1,
     "rotation": 0,
-    "tint": null,
+    "tint": "#ffffff",
     "anchorX": 0,
     "anchorY": 0,
     "fit": "fill",
@@ -57,10 +61,10 @@
     "systemId": "dnd5e",
     "systemVersion": "5.3.3",
     "createdTime": 1782739152919,
-    "modifiedTime": 1782739152919,
-    "lastModifiedBy": "Hu7n9592C80RoJFD"
+    "modifiedTime": 1782900225511,
+    "lastModifiedBy": "toN3aQyRDAI7QeRt"
   },
-  "folder": null,
+  "folder": "XNnnlnJ0VuNzawiN",
   "_id": "8IppKQkoG5JKVGUh",
   "regions": [],
   "environment": {
